@@ -1,0 +1,617 @@
+ID	Reaction_type	Common_name	Enzyme	All_Left_Compounds	All_Right_Compounds	Synonyms	Connected_Reactions
+RXNQT-4398	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-12575; CPD-634)	(CPDQT-522; UDP; PROTON)	-	-
+RXN-16401	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-17640; CO-A; ATP)	(CPD-17641; PPI; AMP)	-	-
+RXN-9663	Protein-Modification-Reactions	<i>trans</i> hexadecenoyl-[acp] reductase	-	(Palmitoyl-ACPs; NAD)	(2-Hexadecenoyl-ACPs; NADH; PROTON)	-	-
+RXN-12195	Chemical-Reactions; Small-Molecule-Reactions	-	-	(WATER; CTP)	(PROTON; Pi; CDP)	-	-
+RXN-8310	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8082; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8084; WATER; Oxidized-ferredoxins)	-	-
+RXN-9518	Protein-Modification-Reactions	3-hydroxyhexanoyl-[acyl-carrier protein] reductase	-	(R-3-hydroxyhexanoyl-ACPs; NADP)	(3-oxo-hexanoyl-ACPs; NADPH; PROTON)	-	-
+RXN-1726	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2184; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-2185; WATER; Oxidized-ferredoxins)	-	-
+2.3.1.23-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10197; ENZRXN6X-5950; ENZRXN6X-2730	(ACYL-COA=(CPD-17623; CPD-17624; CPD-17633); 2-Lysophosphatidylcholines)	(PHOSPHATIDYLCHOLINE); CO-A)	-	-
+CYTIKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CYTIDINE; ATP)	(CMP; ADP; PROTON)	-	-
+HOMOSERKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9849; ENZRXN6X-9848	(HOMO-SER; ATP)	(PROTON; O-PHOSPHO-L-HOMOSERINE; ADP)	-	-
+DIHYDROXYMETVALDEHYDRAT-RXN	Chemical-Reactions; Small-Molecule-Reactions	2,3-Dihydroxy-3-methylvalerate dehydratase	-	(1-KETO-2-METHYLVALERATE)	(2-KETO-3-METHYL-VALERATE; WATER)	-	-
+RXN-1725	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4265	(CPD-2183; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-2184; WATER; Oxidized-ferredoxins)	-	-
+RXN-12155	Chemical-Reactions; Small-Molecule-Reactions	behenate &omega;-hydroxylase	-	(CPD-10279; Red-NADPH-Hemoprotein-Reductases; OXYGEN-MOLECULE)	(CPD-14826; Ox-NADPH-Hemoprotein-Reductases; WATER)	-	-
+RXN-7775	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-6994; 2-KETOGLUTARATE; OXYGEN-MOLECULE)	(CPD-474; SUC; CARBON-DIOXIDE)	-	-
+PHOSPHOGLUCMUT-RXN	Composite-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9481; ENZRXN6X-9479; ENZRXN6X-6513; ENZRXN6X-1643	(GLC-1-P)	(D-glucopyranose-6-phosphate=(ALPHA-GLC-6-P; GLC-6-P))	-	RXN-16997; RXN-16998
+RXN-8303	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8077; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8079; WATER; Oxidized-ferredoxins)	-	-
+RXN-8316	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2183; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8086; WATER; Oxidized-ferredoxins)	-	-
+RXN-12295	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5555; ENZRXN6X-4051	(CPD-13218; NADPH; PROTON)	(CPD-13220; NADP)	-	-
+1.14.13.36-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7664; ENZRXN6X-5674; ENZRXN6X-1154	(4-COUMAROYLQUINATE; OXYGEN-MOLECULE; Red-NADPH-Hemoprotein-Reductases)	(CAFFEOYLQUINATE; WATER; Ox-NADPH-Hemoprotein-Reductases)	-	-
+RXN-6421	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-267; ENZRXN6X-264; ENZRXN6X-259	(SPERMINE; OXYGEN-MOLECULE; WATER)	(CPD-6121; CPD-313; HYDROGEN-PEROXIDE)	-	-
+RXN-9524	Protein-Modification-Reactions	3-oxo-octanoyl-[acyl-carrier protein] reductase	-	(3-Hydroxy-octanoyl-ACPs; NADP)	(3-Oxo-octanoyl-ACPs; NADPH; PROTON)	-	-
+GLYCEROL-KIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-2779	(GLYCEROL; ATP)	(PROTON; GLYCEROL-3P; ADP)	-	-
+RXN-9627	Chemical-Reactions; Small-Molecule-Reactions	-	-	(LAUROYLCOA-CPD; WATER)	(PROTON; DODECANOATE; CO-A)	-	-
+RXN-9246	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9367	(ISOEUGENOL; ACET; NADP)	(CPD-9875; NADPH)	-	-
+RXN-7630	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-6976; Red-NADPH-Hemoprotein-Reductases; OXYGEN-MOLECULE)	(CPD-6978; Ox-NADPH-Hemoprotein-Reductases; WATER)	-	-
+RXN-3	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PROTON; CPD-501; UTP)	(UDP-D-GALACTURONATE; PPI)	-	-
+RIBULP3EPIM-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8955; ENZRXN6X-182	(RIBULOSE-5P)	(XYLULOSE-5-PHOSPHATE)	-	-
+RXN-6724	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9431; ENZRXN6X-7219; ENZRXN6X-7006; ENZRXN6X-7005; ENZRXN6X-6743; ENZRXN6X-2442; ENZRXN6X-1377; ENZRXN6X-1175; ENZRXN6X-1096; ENZRXN6X-1045; ENZRXN6X-1038	(BENZOYLCOA; BENZYL-ALCOHOL)	(CPD-6443; CO-A)	-	-
+DCTP-PYROPHOSPHATASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10492; ENZRXN6X-3540; ENZRXN6X-3147	(DCTP; WATER)	(PROTON; DCMP; PPI)	-	-
+UDPACYLGLCNACDEACETYL-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-402; ENZRXN6X-347; ENZRXN6X-346; ENZRXN6X-345	(UDP-OHMYR-ACETYLGLUCOSAMINE; WATER)	(UDP-OHMYR-GLUCOSAMINE; ACET)	-	-
+RXNQT-4397	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-12575; CPD-697)	(CPDQT-523; UDP; PROTON)	-	-
+PHOSPHASERDECARB-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6035; ENZRXN6X-28	(L-1-PHOSPHATIDYL-SERINE; PROTON)	(L-1-PHOSPHATIDYL-ETHANOLAMINE=(CPD-160; CPD-405); CARBON-DIOXIDE)	-	-
+TRANS-CINNAMATE-4-MONOOXYGENASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10513; ENZRXN6X-7394; ENZRXN6X-5713	(CPD-674; OXYGEN-MOLECULE; Red-NADPH-Hemoprotein-Reductases)	(COUMARATE; WATER; Ox-NADPH-Hemoprotein-Reductases)	-	-
+RXN-16418	Chemical-Reactions; Small-Molecule-Reactions	-	-	(OCTADEC-9-ENE-118-DIOIC-ACID; CO-A; ATP)	(CPD-17624; PPI; AMP)	-	-
+TRANS-RXN-131	Small-Molecule-Reactions; TR-11	-	-	(GLYCEROL)	(GLYCEROL)	glycerol transport	-
+2.1.1.71-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10302	(S-ADENOSYLMETHIONINE; CPD-405)	(CPD-160; PROTON; ADENOSYL-HOMO-CYS)	-	-
+RXN-9244	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7357; ENZRXN6X-6183; ENZRXN6X-6181; ENZRXN6X-4858; ENZRXN6X-4855; ENZRXN6X-4853; ENZRXN6X-2907; ENZRXN6X-2905; ENZRXN6X-2440	(CONIFERYL-ALCOHOL; ACETYL-COA)	(CPD-9875; CO-A)	-	-
+RXN-5641	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PROTON; SER)	(ETHANOL-AMINE; CARBON-DIOXIDE)	-	-
+CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6223; ENZRXN6X-4319; ENZRXN6X-3857; ENZRXN6X-3854; ENZRXN6X-2044; ENZRXN6X-2039; ENZRXN6X-8; ENZRXN6X-5; ENZRXN6X-1	(S-ADENOSYLMETHIONINE; CAFFEOYL-COA)	(PROTON; FERULOYL-COA; ADENOSYL-HOMO-CYS)	-	-
+UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN	Protein-Modification-Reactions	-	ENZRXN6X-9469	(R-3-hydroxymyristoyl-ACPs; UDP-OHMYR-GLUCOSAMINE)	(OH-MYRISTOYL; ACP; PROTON)	-	-
+RXN-8313	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8082; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8083; WATER; Oxidized-ferredoxins)	-	-
+RXN-2982	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9637; ENZRXN6X-9636; ENZRXN6X-9635; ENZRXN6X-9634; ENZRXN6X-9633; ENZRXN6X-9632; ENZRXN6X-9631; ENZRXN6X-9630; ENZRXN6X-9629; ENZRXN6X-1947; ENZRXN6X-1946	(INDOLE-3-ACETYL-LEU; WATER)	(INDOLE_ACETATE_AUXIN; LEU)	-	-
+RXN-4727	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9150	(CPD-12575; CPD-4209)	(PROTON; CPD-4602; UDP)	-	-
+RXN-9952	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6101; ENZRXN6X-5973; ENZRXN6X-5972; ENZRXN6X-2305	(CPD-2961; NADP)	(RIBULOSE-5P; CARBON-DIOXIDE; NADPH)	-	-
+THRESYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7794; ENZRXN6X-5380	(O-PHOSPHO-L-HOMOSERINE; WATER)	(Pi; THR)	-	-
+RXN-7101	Protein-Modification-Reactions	-	-	(BCCP-biotin-L-lysine)	(biotin-L-lysine-in-BCCP-dimers)	-	-
+RXN-8363	Composite-Reactions; Small-Molecule-Reactions	-	-	(CPD-8160; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8161; WATER; Oxidized-ferredoxins)	-	-
+CHORISMATE-SYNTHASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-411	(3-ENOLPYRUVYL-SHIKIMATE-5P)	(Pi; CHORISMATE)	-	-
+RXN-4729	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9152	(CPD-12575; CPD-4604)	(PROTON; CPD-4607; UDP)	-	-
+SERINE-O-ACETTRAN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7753; ENZRXN6X-5469; ENZRXN6X-271; ENZRXN6X-103	(SER; ACETYL-COA)	(ACETYLSERINE; CO-A)	-	-
+GLUC1PURIDYLTRANS-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10915; ENZRXN6X-8870; ENZRXN6X-8869; ENZRXN6X-7631; ENZRXN6X-6987	(GLC-1-P; UTP; PROTON)	(CPD-12575; PPI)	-	-
+TRIOSEPISOMERIZATION-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8903; ENZRXN6X-5753; ENZRXN6X-4704	(GAP)	(DIHYDROXY-ACETONE-PHOSPHATE)	-	-
+RXN-6424	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-6121)	(CPD-6123; WATER)	-	-
+RXN-7686	Chemical-Reactions; Small-Molecule-Reactions	-	-	(NARINGENIN-CMPD; 2-KETOGLUTARATE; OXYGEN-MOLECULE)	(CPD-431; SUC; CARBON-DIOXIDE; WATER; PROTON)	-	-
+RXN-9721	Chemical-Reactions; Small-Molecule-Reactions	-	-	(D-Galactosyl-12-diacyl-glycerols); CPD-10363)	(CPD-10364; DIACYLGLYCEROL=(CPD-13040; CPD-17375))	-	-
+RXN-16047	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-17294; Reduced-ferredoxins; OXYGEN-MOLECULE; PROTON)	(CPD-17293; Oxidized-ferredoxins; WATER)	-	-
+RXN-1641	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PHOSPHATIDYLCHOLINE); DIACYLGLYCEROL=(CPD-13040; CPD-17375))	(Triacylglycerols=(CPD-13014); 2-Lysophosphatidylcholines)	-	-
+RXN-8302	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2188; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8077; WATER; Oxidized-ferredoxins)	-	-
+RXN-12754	Chemical-Reactions; Small-Molecule-Reactions	-	-	(NADH; WATER)	(CPD0-2472)	-	-
+RXN-10740	Chemical-Reactions; Small-Molecule-Reactions	UDP-4-keto-rhamnose-4-keto-reductase	-	(UDP-L-RHAMNOSE; NADP)	(CPD-11540; NADPH; PROTON)	-	-
+THYKI-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-836; ENZRXN6X-835	(THYMIDINE; ATP)	(PROTON; TMP; ADP)	-	-
+RXN-2621	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6099; ENZRXN6X-6070; ENZRXN6X-5783; ENZRXN6X-5782; ENZRXN6X-4400; ENZRXN6X-1921	(CAFFEOYLSHIKIMATE; CO-A)	(CAFFEOYL-COA; SHIKIMATE)	-	-
+FUMHYDR-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-574	(MAL)	(FUM; WATER)	fumarate hydration; malate dehydration	-
+RXN-9556	Protein-Modification-Reactions	3-oxo-<i>cis</i>-vaccenoyl-[acyl-carrier protein] reductase	-	(R-3-hydroxy-cis-vaccenoyl-ACPs; NADP)	(3-oxo-cis-vaccenoyl-ACPs; NADPH; PROTON)	-	-
+ACSERLY-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7125; ENZRXN6X-7124; ENZRXN6X-6179; ENZRXN6X-6178; ENZRXN6X-6177; ENZRXN6X-5703; ENZRXN6X-4815; ENZRXN6X-3411; ENZRXN6X-313	(ACETYLSERINE; HS)	(CYS; ACET; PROTON)	-	-
+RXN-4737	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-12575; CPD-4616)	(PROTON; CPD-4621; UDP)	-	-
+ISOCIT-CLEAV-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8740	(THREO-DS-ISO-CITRATE)	(GLYOX; SUC)	-	-
+RXN-12752	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6755; ENZRXN6X-1190; ENZRXN6X-1186; ENZRXN6X-1182	(CPD0-2472)	(CPD-653)	-	-
+PGLUCISOM-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9040; ENZRXN6X-1791	(ALPHA-GLC-6-P)	(FRUCTOSE-6P)	-	-
+RXN-8326	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8091; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-8092; WATER; FERRICYTOCHROME-B5)	-	-
+MALIC-NADP-RXN	Composite-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7974; ENZRXN6X-5530; ENZRXN6X-5476; ENZRXN6X-5475; ENZRXN6X-5474; ENZRXN6X-4560; ENZRXN6X-3703	(MAL; NADP)	(PYRUVATE; CARBON-DIOXIDE; NADPH)	-	MALATE-DEHYDROGENASE-NADP+-RXN; OXALODECARB-RXN
+RXN-4722	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9148	(CPD-12575; CPD-4210)	(PROTON; CPD-4613; UDP)	-	-
+RXN-9527	Protein-Modification-Reactions	3-oxo-decanoyl-[acyl-carrier protein] synthase	-	(Octanoyl-ACPs; MALONYL-ACP; PROTON)	(3-oxo-decanoyl-ACPs; CARBON-DIOXIDE; ACP)	-	-
+DEOXYADENYLATE-KINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ATP; DAMP)	(ADP; DADP)	-	-
+RXN-7687	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-6994; 2-KETOGLUTARATE; OXYGEN-MOLECULE)	(5734-TETRAHYDROXYFLAVONE; SUC; CARBON-DIOXIDE; WATER)	-	-
+RXN-9538	Protein-Modification-Reactions	<i>trans</i> tetradec-2-enoyl-[acyl-carrier-protein] reductase	-	(Myristoyl-ACPs; NADP)	(Tetradec-2-enoyl-ACPs; NADPH; PROTON)	<i>trans</i> tetradec-2-enoyl-[ACP] reductase	-
+BRANCHED-CHAINAMINOTRANSFERVAL-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(VAL; 2-KETOGLUTARATE)	(GLT; 2-KETO-ISOVALERATE)	-	-
+PEPCARBOXYKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-2939; ENZRXN6X-415	(OXALACETIC_ACID; ATP)	(CARBON-DIOXIDE; PHOSPHO-ENOL-PYRUVATE; ADP)	-	-
+RXN-8327	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2181; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-8091; WATER; FERRICYTOCHROME-B5)	-	-
+SPHINGANINE-KINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8710; ENZRXN6X-5638; ENZRXN6X-5636; ENZRXN6X-4327; ENZRXN6X-3073; ENZRXN6X-3071; ENZRXN6X-3069; ENZRXN6X-1415; ENZRXN6X-1413; ENZRXN6X-1411; ENZRXN6X-1409; ENZRXN6X-1407	(CPD-13612; ATP)	(PROTON; CPD-649; ADP)	-	-
+RXN-1062	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7885; ENZRXN6X-7884; ENZRXN6X-7643; ENZRXN6X-4707; ENZRXN6X-4349; ENZRXN6X-4336; ENZRXN6X-4328; ENZRXN6X-3646; ENZRXN6X-1396; ENZRXN6X-1395; ENZRXN6X-1394; ENZRXN6X-1055; ENZRXN6X-1054	(CPD-17621; NADPH; OXYGEN-MOLECULE; PROTON)	(CPD-17627; NADP; WATER)	-	-
+RXN-16416	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10193; ENZRXN6X-9234; ENZRXN6X-4029; ENZRXN6X-2973; ENZRXN6X-848; ENZRXN6X-67	(18-HYDROXYOLEATE; NADP)	(18-OXOOLEATE; NADPH; PROTON)	-	-
+RXN-14014	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10477; ENZRXN6X-400; ENZRXN6X-61; ENZRXN6X-60	(DELTA1-PIPERIDEINE-2-6-DICARBOXYLATE; NAD-P-OR-NOP=(NADP; NAD); WATER)	(CPD-14443; NADH-P-OR-NOP=(NADPH; NADH); PROTON)	-	-
+RXN-9533	Protein-Modification-Reactions	-	-	(R-3-hydroxydodecanoyl-ACPs)	(Dodec-2-enoyl-ACPs; WATER)	-	-
+RXN-9530	Protein-Modification-Reactions	<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]reductase	-	(Decanoyl-ACPs; NADP)	(Trans-D2-decenoyl-ACPs; NADPH; PROTON)	-	-
+RXN-7697	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10718; ENZRXN6X-10716; ENZRXN6X-10077; ENZRXN6X-9907; ENZRXN6X-9240; ENZRXN6X-8925; ENZRXN6X-8924; ENZRXN6X-7874; ENZRXN6X-7872; ENZRXN6X-7842; ENZRXN6X-7102; ENZRXN6X-6750; ENZRXN6X-6330; ENZRXN6X-6329; ENZRXN6X-6328; ENZRXN6X-6327; ENZRXN6X-6326; ENZRXN6X-6325; ENZRXN6X-5083; ENZRXN6X-5082; ENZRXN6X-5081; ENZRXN6X-4222; ENZRXN6X-2902; ENZRXN6X-2151; ENZRXN6X-1711; ENZRXN6X-1625; ENZRXN6X-1316; ENZRXN6X-1315; ENZRXN6X-1228; ENZRXN6X-1176; ENZRXN6X-658; ENZRXN6X-657; ENZRXN6X-401; ENZRXN6X-332; ENZRXN6X-330; ENZRXN6X-228; ENZRXN6X-167	(MALONYL-COA; Very-long-Chain-234-Saturated-acyl-CoAs)	(Very-Long-Chain-oxoacyl-CoAs; CARBON-DIOXIDE; CO-A)	-	-
+RXN-9015	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10041; ENZRXN6X-5420; ENZRXN6X-4348; ENZRXN6X-3005; ENZRXN6X-3001; ENZRXN6X-2849; ENZRXN6X-2845; ENZRXN6X-2841; ENZRXN6X-2710; ENZRXN6X-2706; ENZRXN6X-888; ENZRXN6X-884; ENZRXN6X-880	(SPERMINE; OXYGEN-MOLECULE; WATER)	(SPERMIDINE; CPD-6082; HYDROGEN-PEROXIDE)	-	-
+RXN-12278	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-13198; WATER)	(CPD-7043; MALTOSE=(CPD-15717))	-	-
+RXN-13139	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-2431	(ATP; CPD0-2474)	(NADPH; ADP; Pi; PROTON)	-	-
+3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	Protein-Modification-Reactions	-	ENZRXN6X-7560; ENZRXN6X-4212	(OH-ACYL-ACP)	(TRANS-D2-ENOYL-ACP; WATER)	-	-
+RXN-9652	Protein-Modification-Reactions	-	-	(Decanoyl-ACPs; MALONYL-COA; PROTON)	(3-oxo-dodecanoyl-ACPs; CARBON-DIOXIDE; CO-A)	-	-
+RXN-8304	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8073; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8075; WATER; Oxidized-ferredoxins)	-	-
+RXN-7904	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9408; ENZRXN6X-9404; ENZRXN6X-9400; ENZRXN6X-9396; ENZRXN6X-9392; ENZRXN6X-9388; ENZRXN6X-9384; ENZRXN6X-9380; ENZRXN6X-9376; ENZRXN6X-9372; ENZRXN6X-9368; ENZRXN6X-8341; ENZRXN6X-8298; ENZRXN6X-8115; ENZRXN6X-8111; ENZRXN6X-8107; ENZRXN6X-8103; ENZRXN6X-8099; ENZRXN6X-6200; ENZRXN6X-5586; ENZRXN6X-5585; ENZRXN6X-5345; ENZRXN6X-5302; ENZRXN6X-3557; ENZRXN6X-2672; ENZRXN6X-2671; ENZRXN6X-2557; ENZRXN6X-2534; ENZRXN6X-2530; ENZRXN6X-2526; ENZRXN6X-2180	(Long-Chain-Fatty-Acids=(Long-chain-fatty-acyl-AMPs; CPD-730); CO-A; ATP)	(Long-Chain-Acyl-CoAs=(Long-Chain-3S-Hydroxyacyl-CoAs; CPD0-2228; CPD-10254; CPD-17621; CPD-10255; CPD-14775; CPD-14826); PPI; AMP)	-	-
+RXN-12279	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-13198; WATER)	(MALTOSE=(CPD-15717); Branched-Unphos-Amylopectin-Tails)	-	-
+RXN-961	Chemical-Reactions; Small-Molecule-Reactions	D-ribulose-1,5-bisphosphate cleaving dioxygenase	-	(D-RIBULOSE-15-P2; OXYGEN-MOLECULE)	(CPD-67; G3P; PROTON)	D-ribulose-1,5-bisphosphate oxygenase	-
+RXN-5781	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10912; ENZRXN6X-9098; ENZRXN6X-6769; ENZRXN6X-6294	(DIACYLGLYCEROL=(CPD-13040; CPD-17375); CDP-CHOLINE)	(PHOSPHATIDYLCHOLINE); CMP; PROTON)	-	-
+RXN-16048	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Palmitoyl-lipid; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-17294; WATER; Oxidized-ferredoxins)	-	-
+GAPOXNPHOSPHN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10810; ENZRXN6X-10326; ENZRXN6X-4774; ENZRXN6X-4773; ENZRXN6X-4772; ENZRXN6X-4771; ENZRXN6X-4770; ENZRXN6X-4769; ENZRXN6X-4768; ENZRXN6X-4384; ENZRXN6X-4383; ENZRXN6X-3326	(GAP; Pi; NAD)	(PROTON; DPG; NADH)	-	-
+RXN-16400	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-181	(OLEATE-CPD; OXYGEN-MOLECULE; Red-NADPH-Hemoprotein-Reductases)	(18-HYDROXYOLEATE; Ox-NADPH-Hemoprotein-Reductases; WATER)	-	-
+RXN-9805	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-10514; OXYGEN-MOLECULE; Red-NADPH-Hemoprotein-Reductases)	(910-EPOXY-18-HYDROXYSTEARATE; WATER; Ox-NADPH-Hemoprotein-Reductases)	-	-
+PEPDEPHOS-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9708; ENZRXN6X-9707; ENZRXN6X-9706; ENZRXN6X-8339; ENZRXN6X-5317; ENZRXN6X-4898; ENZRXN6X-4897; ENZRXN6X-2685; ENZRXN6X-2556; ENZRXN6X-2378; ENZRXN6X-2377; ENZRXN6X-1851; ENZRXN6X-1564; ENZRXN6X-987; ENZRXN6X-544	(PYRUVATE; ATP)	(PROTON; PHOSPHO-ENOL-PYRUVATE; ADP)	-	-
+RXN-5643	Chemical-Reactions; Small-Molecule-Reactions	-	-	(S-ADENOSYLMETHIONINE; CPD-5441)	(PROTON; PHOSPHORYL-CHOLINE; ADENOSYL-HOMO-CYS)	-	-
+GLU6PDEHYDROG-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10329; ENZRXN6X-10328; ENZRXN6X-3602; ENZRXN6X-3601; ENZRXN6X-3225; ENZRXN6X-3224; ENZRXN6X-695; ENZRXN6X-694; ENZRXN6X-534; ENZRXN6X-533	(D-glucopyranose-6-phosphate=(ALPHA-GLC-6-P; GLC-6-P); NADP)	(D-6-P-GLUCONO-DELTA-LACTONE; NADPH; PROTON)	-	-
+RXN-7626	Chemical-Reactions; Small-Molecule-Reactions	(R)-3-(4-hydroxyphenyl)lactate acyltransferase	-	(CPD-2222; P-COUMAROYL-COA)	(CPD-6976; CO-A)	-	-
+1.3.1.2-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(DI-H-URACIL; NADP)	(URACIL; NADPH; PROTON)	-	-
+RXN-8331	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8090; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(1-183-2-183-SN-GLYCEROL-PHOSPHOCHOLINE; WATER; FERRICYTOCHROME-B5)	-	-
+RXN-1225	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10425; ENZRXN6X-3416; ENZRXN6X-2552; ENZRXN6X-430; ENZRXN6X-312	(CPD-14553; D-Galactosyl-12-diacyl-glycerols))	(Galactosyl-galactosyl-diacyl-glycerols); UDP; PROTON)	-	-
+TRANS-RXN-373	Small-Molecule-Reactions; Transport-Reactions	-	-	(L-ASPARTATE)	(L-ASPARTATE)	-	-
+4.2.1.59-RXN	Protein-Modification-Reactions	-	-	(3-Hydroxy-octanoyl-ACPs)	(2-Octenoyl-ACPs; WATER)	-	-
+RXN-6762	Chemical-Reactions; Small-Molecule-Reactions	-	-	(BENZYL-ALCOHOL; ACETYL-COA)	(CPD-6501; CO-A)	-	-
+ARGINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3679	(WATER; ARG)	(UREA; L-ORNITHINE)	-	-
+RXN-5763	Chemical-Reactions; Small-Molecule-Reactions	-	-	(S-ADENOSYLMETHIONINE; CPD-5602)	(PROTON; CHOLINE; ADENOSYL-HOMO-CYS)	-	-
+RXN-7632	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4455; ENZRXN6X-4453	(CPD-6982; NAD-P-OR-NOP=(NADP; NAD))	(34-DIHYDROXYPHENYLPYRUVATE; NADH-P-OR-NOP=(NADPH; NADH); PROTON)	-	-
+RXN0-947	Protein-Modification-Reactions	-	ENZRXN6X-7183; ENZRXN6X-538; ENZRXN6X-537	(Octanoyl-ACPs; Lipoyl-Protein-L-Lysine=(2-oxoglutarate-dehydrogenase-E2-lipoyl-c; pyruvate-dehydrogenase-E2-lipoyl-carrier; Gcv-H))	(Octanoylated-domains=(a-pyruvate-dehydrogenase-E2-protein-Nsup; Octanoylated-Gcv-H); ACP; PROTON)	-	-
+6PGLUCONOLACT-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8919; ENZRXN6X-8616; ENZRXN6X-8615; ENZRXN6X-3746; ENZRXN6X-3745; ENZRXN6X-701	(D-6-P-GLUCONO-DELTA-LACTONE; WATER)	(PROTON; CPD-2961)	-	-
+ATP-CITRATE-PRO-S--LYASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7226; ENZRXN6X-4940; ENZRXN6X-4939; ENZRXN6X-2402; ENZRXN6X-2025	(OXALACETIC_ACID; ACETYL-COA; Pi; ADP)	(CIT; CO-A; ATP)	-	-
+RXN-12383	Chemical-Reactions; Small-Molecule-Reactions	-	-	(DIACYLGLYCEROL=(CPD-13040; CPD-17375))	(Triacylglycerols=(CPD-13014); CPD-409)	-	-
+PHOSGLYPHOS-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10814; ENZRXN6X-10813; ENZRXN6X-7670; ENZRXN6X-6908; ENZRXN6X-6907; ENZRXN6X-1270; ENZRXN6X-1269	(G3P; ATP)	(DPG; ADP)	-	-
+RXN-1727	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2185; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-2186; WATER; Oxidized-ferredoxins)	-	-
+PHOSPHATIDATE-PHOSPHATASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10218; ENZRXN6X-10153; ENZRXN6X-10152; ENZRXN6X-9294; ENZRXN6X-9292; ENZRXN6X-9290; ENZRXN6X-9288; ENZRXN6X-9286; ENZRXN6X-8690; ENZRXN6X-7804; ENZRXN6X-7802; ENZRXN6X-7800; ENZRXN6X-7798; ENZRXN6X-7625; ENZRXN6X-7624; ENZRXN6X-7623; ENZRXN6X-6792; ENZRXN6X-6791; ENZRXN6X-6785; ENZRXN6X-6774; ENZRXN6X-5953; ENZRXN6X-5378; ENZRXN6X-5322; ENZRXN6X-4711; ENZRXN6X-4084; ENZRXN6X-2125; ENZRXN6X-2124; ENZRXN6X-2123; ENZRXN6X-2122; ENZRXN6X-2121; ENZRXN6X-2120; ENZRXN6X-2119; ENZRXN6X-2118; ENZRXN6X-2117; ENZRXN6X-2116; ENZRXN6X-2115; ENZRXN6X-2114; ENZRXN6X-1871; ENZRXN6X-472	(L-PHOSPHATIDATE=(CPD-17373); WATER)	(DIACYLGLYCEROL=(CPD-13040; CPD-17375); Pi)	-	-
+UDPNACETYLGLUCOSAMACYLTRANS-RXN	Protein-Modification-Reactions	-	ENZRXN6X-5470	(UDP-N-ACETYL-D-GLUCOSAMINE; R-3-hydroxymyristoyl-ACPs)	(UDP-OHMYR-ACETYLGLUCOSAMINE; ACP)	-	-
+RXN-7801	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD3DJ-82=(Inositolphosphoryl-Ceramides; Plant-Ceramide-Phosphate; Alpha-hydroxydihydroceramides); O-Glucosylsterols=(Sterol-3-beta-D-glucosides))	(Glucosyl-acyl-sphinganines; Sterols=(Steryl-Esters; 3alpha-hydroxysteroyl-CoA; 3b-hydroxy-D5-steroids; 57222428-ERGOSTATETRAENOL; CPD-12908; CPD-12907; CPD-12912; CPD-12911))	-	-
+2.7.7.57-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PROTON; CPD-406; CTP)	(CDP-N-METHYLETHANOLAMIN; PPI)	-	-
+2.7.1.154-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-1108; ATP)	(1-PHOSPHATIDYL-1D-MYO-INOSITOL-34-BISPH; ADP; PROTON)	-	-
+RXN-12296	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5556; ENZRXN6X-4052	(CPD-13222; NADPH; PROTON)	(CPD-13223; NADP)	-	-
+RXN3O-1380	Chemical-Reactions; Small-Molecule-Reactions	dihydrospingosine C-4 hydroxylase	-	(CPD-13612; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(PHYTOSPINGOSINE; WATER; FERRICYTOCHROME-B5)	sphinganine C4-monooxygenase	-
+2.7.1.153-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PHOSPHATIDYL-MYO-INOSITOL-45-BISPHOSPHA; ATP)	(PHOSPHATIDYLINOSITOL-345-TRIPHOSPHATE; ADP; PROTON)	-	-
+UGD-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9815; ENZRXN6X-4122; ENZRXN6X-4121; ENZRXN6X-4120; ENZRXN6X-4119; ENZRXN6X-4118; ENZRXN6X-1743; ENZRXN6X-1742; ENZRXN6X-1741; ENZRXN6X-1481; ENZRXN6X-298	(CPD-12575; WATER; NAD)	(UDP-GLUCURONATE; NADH; PROTON)	-	-
+RXN-1103	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7665; ENZRXN6X-5675	(COUMARATE; Red-NADPH-Hemoprotein-Reductases; OXYGEN-MOLECULE)	(CPD-676; WATER; Ox-NADPH-Hemoprotein-Reductases)	-	-
+RXN-9516	Protein-Modification-Reactions	3-oxo-hexanoyl-[acyl-carrier protein] synthase	-	(Butanoyl-ACPs; MALONYL-ACP; PROTON)	(3-oxo-hexanoyl-ACPs; CARBON-DIOXIDE; ACP)	-	-
+RXN-2001	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-95	(CPD-674; CO-A; ATP)	(CINNAMOYL-COA; AMP; PPI)	-	-
+MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(1-L-MYO-INOSITOL-1-P; WATER)	(MYO-INOSITOL; Pi)	-	-
+RXN-8322	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8091; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-2182; WATER; FERRICYTOCHROME-B5)	-	-
+4.2.1.58-RXN	Protein-Modification-Reactions	(3<em>R</em>)-3-hydroxybutanoyl-[acyl-carrier-protein] hydratase	-	(Beta-3-hydroxybutyryl-ACPs)	(WATER; Crotonyl-ACPs)	crotonoyl-[acyl-carrier-protein] hydratase; &beta;-hydroxybutyryl acyl carrier protein (ACP) dehydrase; &beta;-hydroxybutyryl acyl carrier protein dehydrase; enoyl acyl carrier protein hydrase; crotonyl acyl carrier protein hydratase; 3-hydroxybutyryl acyl carrier protein dehydratase; &beta;-hydroxybutyryl acyl carrier  protein dehydrase; (3<em>R</em>)-3-hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase (but-2-enoyl-[acyl-carrier protein]-forming); (3<em>R</em>)-3-hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	-
+3-HYDROXYPROPIONATE-DEHYDROGENASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(3-HYDROXY-PROPIONATE; NAD)	(MALONATE-S-ALD; NADH; PROTON)	-	-
+RXN-9655	Protein-Modification-Reactions	-	-	(Beta-hydroxydecanoyl-ACPs)	(Trans-D2-decenoyl-ACPs; WATER)	(3<em>R</em>)-3-hydroxydecanoyl-[acyl-carrier-protein] hydro-lyase; &beta;-hydroxyacyl-ACP dehydrase; HDDase; &beta;-hydroxyacyl-acyl carrier protein dehydratase; FabA; &beta;-hydroxydecanoyl thiol ester dehydrase; &beta;-hydroxydecanoate dehydrase; <small>D</small>-3-hydroxydecanoyl-[acyl-carrier protein] dehydratase	-
+GMKALT-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ATP; DGMP)	(ADP; DGDP)	-	-
+RXN-18671	Chemical-Reactions; Small-Molecule-Reactions	-	-	(BENZOYLCOA; PROPANOL)	(CPD-19959; CO-A)	-	-
+ORNDECARBOX-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8893; ENZRXN6X-8891; ENZRXN6X-8890; ENZRXN6X-8889	(PROTON; L-ORNITHINE)	(CARBON-DIOXIDE; PUTRESCINE)	-	-
+RXN-12263	Chemical-Reactions; Small-Molecule-Reactions	-	-	(FARNESYL-PP)	(CPD-465; PPI)	-	-
+DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10131; ENZRXN6X-9798; ENZRXN6X-9796; ENZRXN6X-8086; ENZRXN6X-8071; ENZRXN6X-8070; ENZRXN6X-7960; ENZRXN6X-7824; ENZRXN6X-6686; ENZRXN6X-6457; ENZRXN6X-5614; ENZRXN6X-5344; ENZRXN6X-4087; ENZRXN6X-4086; ENZRXN6X-615	(ACYL-COA=(CPD-17623; CPD-17624; CPD-17633); DIACYLGLYCEROL=(CPD-13040; CPD-17375))	(Triacylglycerols=(CPD-13014); CO-A)	-	-
+TRANS-RXN0-570	Small-Molecule-Reactions; TR-19	pyruvate export	-	(PYRUVATE)	(PYRUVATE)	-	-
+RXN-5762	Chemical-Reactions; Small-Molecule-Reactions	-	-	(S-ADENOSYLMETHIONINE; CPD-5601)	(PROTON; CPD-5602; ADENOSYL-HOMO-CYS)	-	-
+RXN-12156	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-14826; NADP)	(CPD-17633; NADPH; PROTON)	-	-
+PHOSPHOLIPASE-C-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6023; ENZRXN6X-4805; ENZRXN6X-2146; ENZRXN6X-1922	(PHOSPHATIDYLCHOLINE); WATER)	(DIACYLGLYCEROL=(CPD-13040; CPD-17375); PHOSPHORYL-CHOLINE; PROTON)	-	-
+RXN-13734	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-14775; GLYCEROL-3P)	(CO-A; CPD-14776)	-	-
+RXN-10971	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ATP; MI-HEXAKISPHOSPHATE; PROTON)	(ADP; CPD-11937)	-	-
+RXN-7795	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7596; ENZRXN6X-7346; ENZRXN6X-5769	(L-1-phosphatidyl-inositols=(CPD-452; CPD-1113); CPD3DJ-82=(Inositolphosphoryl-Ceramides; Plant-Ceramide-Phosphate; Alpha-hydroxydihydroceramides))	(Inositolphosphoryl-Ceramides; DIACYLGLYCEROL=(CPD-13040; CPD-17375))	-	-
+PEPSYNTH-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(WATER; PYRUVATE; ATP)	(PROTON; Pi; PHOSPHO-ENOL-PYRUVATE; AMP)	-	-
+MYO-INOSITOL-OXYGENASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6683	(OXYGEN-MOLECULE; MYO-INOSITOL)	(CPD-15530; PROTON; WATER)	-	-
+RXN-4723	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10783; ENZRXN6X-10713; ENZRXN6X-10711; ENZRXN6X-10708; ENZRXN6X-10559; ENZRXN6X-10264; ENZRXN6X-8587; ENZRXN6X-7996; ENZRXN6X-7994; ENZRXN6X-6313; ENZRXN6X-6310; ENZRXN6X-6307; ENZRXN6X-4617; ENZRXN6X-4615; ENZRXN6X-3120; ENZRXN6X-3117; ENZRXN6X-3114; ENZRXN6X-1664; ENZRXN6X-792; ENZRXN6X-770; ENZRXN6X-768; ENZRXN6X-766	(CPD-12575; CPD-4210)	(PROTON; CPD-4614; UDP)	-	-
+RXN-12292	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5553; ENZRXN6X-4049	(CPD-7600; NADPH; PROTON)	(BUTANAL; NADP)	-	-
+RXN0-723	Protein-Modification-Reactions	-	-	(FORMATE; CTP; PROTON)	(DCTP; CARBON-DIOXIDE; WATER)	-	-
+RXN-1623	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8929; ENZRXN6X-8928; ENZRXN6X-7687; ENZRXN6X-7272; ENZRXN6X-5640; ENZRXN6X-5639; ENZRXN6X-2831; ENZRXN6X-2098; ENZRXN6X-1347	(ACYL-COA=(CPD-17623; CPD-17624; CPD-17633); ACYL-SN-GLYCEROL-3P=(CPD-17372))	(L-PHOSPHATIDATE=(CPD-17373); CO-A)	-	-
+URIDINEKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10138; ENZRXN6X-10137; ENZRXN6X-8957; ENZRXN6X-7164; ENZRXN6X-7091; ENZRXN6X-7089; ENZRXN6X-7087; ENZRXN6X-3787; ENZRXN6X-3569; ENZRXN6X-3568	(URIDINE; ATP)	(PROTON; UMP; ADP)	-	-
+RXN-1025	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10789; ENZRXN6X-10290; ENZRXN6X-9905; ENZRXN6X-9125; ENZRXN6X-6863; ENZRXN6X-3944; ENZRXN6X-3499; ENZRXN6X-3159; ENZRXN6X-1309	(Very-Long-Chain-Aldehydes)	(Very-Long-Chain-Alkanes; CARBON-MONOXIDE)	-	-
+6.2.1.34-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(FERULIC-ACID; ATP; CO-A)	(FERULOYL-COA; AMP; PPI)	-	-
+RXN-12299	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9959; ENZRXN6X-9722; ENZRXN6X-1287; ENZRXN6X-1282	(TRANS-2-HEXENOL; NADP)	(TRANS-2-HEXENAL; NADPH; PROTON)	-	-
+DIAMINOPIMEPIM-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7224; ENZRXN6X-7223	(LL-DIAMINOPIMELATE)	(MESO-DIAMINOPIMELATE)	-	-
+RXN-15283	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5959	(CPD-16497; PROTON)	(CPD-7898; CARBON-DIOXIDE)	-	-
+RXN-11832	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10001; ENZRXN6X-6085; ENZRXN6X-3680	(ATP; CMP)	(ADP; CDP)	-	-
+RXN-14693	Chemical-Reactions; Small-Molecule-Reactions	-	-	(D-Glucopyranuronate=(CPD-14488; CPD-12521))	(CPD-15530)	-	-
+RXN-9526	Protein-Modification-Reactions	<i>trans</i> oct-2-enoyl-[acyl-carrier protein] reductase	-	(Octanoyl-ACPs; NADP)	(2-Octenoyl-ACPs; NADPH; PROTON)	<i>trans</i> oct-2-enoyl-ACP reductase; <i>trans</i> oct-2-enoyl acyl-carrier-protein reductase	-
+RXN-11669	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5957	(CPD-14242; PROTON)	(CPD-7901; CARBON-DIOXIDE)	-	-
+RXN-16406	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-17646; NADP)	(CPD-17645; NADPH; PROTON)	-	-
+DCDPKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ATP; DCDP)	(ADP; DCTP)	-	-
+PSII-RXN	Electron-Transfer-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9828; ENZRXN6X-9771; ENZRXN6X-9770; ENZRXN6X-9323; ENZRXN6X-8483; ENZRXN6X-8260; ENZRXN6X-8259; ENZRXN6X-7703; ENZRXN6X-7229; ENZRXN6X-6562; ENZRXN6X-6561; ENZRXN6X-6560; ENZRXN6X-5685; ENZRXN6X-5624; ENZRXN6X-5210; ENZRXN6X-4696; ENZRXN6X-3812; ENZRXN6X-3124; ENZRXN6X-1108; ENZRXN6X-1107; ENZRXN6X-1106; ENZRXN6X-1028; ENZRXN6X-1027; ENZRXN6X-583	(Plastoquinols=(CPD-12829); PROTON; OXYGEN-MOLECULE)	(Light; PLASTOQUINONE; PROTON; WATER)	-	RXN-15490; RXN-15447; RXN0-5265
+ACETOLACTSYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10461; ENZRXN6X-10309; ENZRXN6X-10308; ENZRXN6X-10307; ENZRXN6X-2488	(PROTON; PYRUVATE)	(2-ACETO-LACTATE; CARBON-DIOXIDE)	-	-
+F16BDEPHOS-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7565; ENZRXN6X-6898; ENZRXN6X-5820; ENZRXN6X-429	(FRUCTOSE-16-DIPHOSPHATE; WATER)	(FRUCTOSE-6P; Pi)	-	-
+RXN-9555	Protein-Modification-Reactions	-	-	(Cis-vaccenoyl-ACPs; WATER)	(CPD-9247; ACP; PROTON)	-	-
+RXN-8311	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8084; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8081; WATER; Oxidized-ferredoxins)	-	-
+ACETOOHBUTREDUCTOISOM-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(1-KETO-2-METHYLVALERATE; NADP)	(PROTON; 2-ACETO-2-HYDROXY-BUTYRATE; NADPH)	-	-
+RXN-527	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-474; 2-KETOGLUTARATE; OXYGEN-MOLECULE)	(CPD-520; SUC; CARBON-DIOXIDE; WATER)	-	-
+RXN-9802	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10195; ENZRXN6X-9236; ENZRXN6X-4031; ENZRXN6X-2975; ENZRXN6X-850; ENZRXN6X-69	(16-HYDROXYPALMITATE; NADP)	(CPD-10512; NADPH; PROTON)	-	-
+RXN4FS-4	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD4FS-1; DIACYLGLYCEROL=(CPD-13040; CPD-17375))	(CPD-160; CMP; PROTON)	-	-
+RXN1F-93	Chemical-Reactions; Small-Molecule-Reactions	-	-	(DIHYDROKAEMPFEROL-CMPD; 2-KETOGLUTARATE; OXYGEN-MOLECULE)	(CPD1F-90; SUC; CARBON-DIOXIDE; WATER; PROTON)	-	-
+RXN-16417	Chemical-Reactions; Small-Molecule-Reactions	-	-	(18-OXOOLEATE; NADP; WATER)	(OCTADEC-9-ENE-118-DIOIC-ACID; NADPH; PROTON)	-	-
+2.4.1.46-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9943; ENZRXN6X-9134; ENZRXN6X-4165	(CPD-14553; DIACYLGLYCEROL=(CPD-13040; CPD-17375))	(D-Galactosyl-12-diacyl-glycerols); UDP; PROTON)	-	-
+DCTP-DEAM-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PROTON; WATER; DCTP)	(AMMONIUM; DUTP)	-	-
+RXN-12362	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4795	(ACETYL-COA; BUTANOL)	(CPD-13346; CO-A)	-	-
+F16ALDOLASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10490; ENZRXN6X-8295; ENZRXN6X-6770; ENZRXN6X-5897; ENZRXN6X-4779; ENZRXN6X-2520	(FRUCTOSE-16-DIPHOSPHATE)	(DIHYDROXY-ACETONE-PHOSPHATE; GAP)	-	-
+RXN-20456	Chemical-Reactions; Small-Molecule-Reactions	-	-	(NADPH; WATER)	(CPD-14133)	-	-
+RXN-7921	Chemical-Reactions; Small-Molecule-Reactions	eriodictyol 5'-hydroxylase	-	(CPD-6994; Red-NADPH-Hemoprotein-Reductases; OXYGEN-MOLECULE)	(CPD-7214; Ox-NADPH-Hemoprotein-Reductases; WATER)	-	-
+RXN-1226	Chemical-Reactions; Small-Molecule-Reactions	-	-	(D-Galactosyl-12-diacyl-glycerols))	(CPD-10363; DIACYLGLYCEROL=(CPD-13040; CPD-17375))	-	-
+3-PHOSPHOGLYCERATE-PHOSPHATASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(WATER; G3P)	(GLYCERATE; Pi)	-	-
+ENOYL-ACP-REDUCT-NADH-RXN	Protein-Modification-Reactions	-	ENZRXN6X-9344; ENZRXN6X-9343; ENZRXN6X-9342; ENZRXN6X-9341; ENZRXN6X-4107; ENZRXN6X-3880; ENZRXN6X-3879; ENZRXN6X-3878	(Saturated-Fatty-Acyl-ACPs; NAD)	(TRANS-D2-ENOYL-ACP; NADH; PROTON)	-	-
+RXN-11396	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-2667	(8-Oxo-dGTP; WATER)	(PROTON; CPD-12365; PPI)	-	-
+RXN-8330	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8089; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-8090; WATER; FERRICYTOCHROME-B5)	-	-
+RXN-10973	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-11937; ATP)	(CPD-11939; ADP; PROTON)	-	-
+UDPGLUCEPIM-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9275; ENZRXN6X-8921; ENZRXN6X-7941; ENZRXN6X-4070	(CPD-12575)	(CPD-14553)	-	-
+2.7.8.11-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8700; ENZRXN6X-8699; ENZRXN6X-8698; ENZRXN6X-8697; ENZRXN6X-8696; ENZRXN6X-6909; ENZRXN6X-3476	(CDPDIACYLGLYCEROL; MYO-INOSITOL)	(L-1-phosphatidyl-inositols=(CPD-452; CPD-1113); CMP; PROTON)	-	-
+RXN-8295	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8073; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8074; WATER; Oxidized-ferredoxins)	-	-
+RXN0-4281	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9961; ENZRXN6X-9724; ENZRXN6X-1289; ENZRXN6X-1284	(ACETOL; NADP)	(PROTON; METHYL-GLYOXAL; NADPH)	-	-
+RXN-10747	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-266; ENZRXN6X-263; ENZRXN6X-258	(SPERMIDINE; OXYGEN-MOLECULE; WATER)	(CPD-313; 4-AMINO-BUTYRALDEHYDE; HYDROGEN-PEROXIDE)	-	-
+RXNQT-4192	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Very-Long-Chain-Alcohols; NADP; CO-A)	(VERY-LONG-CHAIN-FATTY-ACYL-COA=(Very-long-Chain-234-Saturated-acyl-CoAs); NADPH; PROTON)	-	-
+2.7.7.15-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10806; ENZRXN6X-10805; ENZRXN6X-4304; ENZRXN6X-1007	(CTP; PHOSPHORYL-CHOLINE; PROTON)	(CDP-CHOLINE; PPI)	-	-
+SEDOHEPTULOSE-BISPHOSPHATASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5779	(WATER; D-SEDOHEPTULOSE-1-7-P2)	(D-SEDOHEPTULOSE-7-P; Pi)	-	-
+PHOSCHOL-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10909; ENZRXN6X-9657; ENZRXN6X-9656; ENZRXN6X-9139; ENZRXN6X-8894; ENZRXN6X-8000; ENZRXN6X-7416; ENZRXN6X-6847; ENZRXN6X-6846; ENZRXN6X-6765; ENZRXN6X-4956; ENZRXN6X-4955; ENZRXN6X-4652; ENZRXN6X-4651; ENZRXN6X-4650; ENZRXN6X-4649; ENZRXN6X-4648; ENZRXN6X-4647; ENZRXN6X-4646; ENZRXN6X-4645; ENZRXN6X-4644; ENZRXN6X-4643; ENZRXN6X-4642; ENZRXN6X-4641; ENZRXN6X-4640; ENZRXN6X-4632; ENZRXN6X-4113; ENZRXN6X-2112; ENZRXN6X-1953; ENZRXN6X-851; ENZRXN6X-672; ENZRXN6X-671; ENZRXN6X-72	(PHOSPHATIDYLCHOLINE); WATER)	(L-PHOSPHATIDATE=(CPD-17373); CHOLINE; PROTON)	-	-
+RXN-9648	Protein-Modification-Reactions	-	-	(Butanoyl-ACPs; MALONYL-COA; PROTON)	(3-oxo-hexanoyl-ACPs; CARBON-DIOXIDE; CO-A)	-	-
+ISOCITRATE-DEHYDROGENASE-NAD+-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10337; ENZRXN6X-4887; ENZRXN6X-4885; ENZRXN6X-3242; ENZRXN6X-3240	(THREO-DS-ISO-CITRATE; NAD)	(2-KETOGLUTARATE; CARBON-DIOXIDE; NADH)	-	-
+1.2.1.9-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3950	(GAP; NADP; WATER)	(PROTON; G3P; NADPH)	-	-
+RXN-12753	Chemical-Reactions; Small-Molecule-Reactions	-	-	(NADH; WATER)	(CPD-653)	-	-
+RXN4FS-2	Chemical-Reactions; Small-Molecule-Reactions	-	-	(S-ADENOSYLMETHIONINE; CPD-160)	(PHOSPHATIDYLCHOLINE); ADENOSYL-HOMO-CYS; PROTON)	-	-
+RXN-7770	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PROTON; UDP-GLUCURONATE)	(UDP-APIOSE; CARBON-DIOXIDE)	-	-
+AGMATINE-DEIMINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3289	(WATER; AGMATHINE)	(AMMONIUM; CPD-597)	-	-
+RXN-8324	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8092; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-8093; WATER; FERRICYTOCHROME-B5)	-	-
+2.7.1.149-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(1-PHOSPHATIDYL-1D-MYO-INOSITOL-5-PHOSPHA; ATP)	(PHOSPHATIDYL-MYO-INOSITOL-45-BISPHOSPHA; ADP; PROTON)	-	-
+2.7.1.150-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9433; ENZRXN6X-9176; ENZRXN6X-9175; ENZRXN6X-6578; ENZRXN6X-6331; ENZRXN6X-4432; ENZRXN6X-3988; ENZRXN6X-3938; ENZRXN6X-3937; ENZRXN6X-2647; ENZRXN6X-2646	(CPD-177; ATP)	(1-PHOSPHATIDYL-1D-MYO-INOSITOL-35-BISPH; ADP; PROTON)	-	-
+GLYCERATE-DEHYDROGENASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(GLYCERATE; NAD)	(PROTON; OH-PYR; NADH)	-	-
+ETHANOLAMINE-KINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9105; ENZRXN6X-7763; ENZRXN6X-5454; ENZRXN6X-5452; ENZRXN6X-4584	(ETHANOL-AMINE; ATP)	(PROTON; PHOSPHORYL-ETHANOLAMINE; ADP)	-	-
+3-DEHYDROSPHINGANINE-REDUCTASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-13612; NADP)	(DEHYDROSPHINGANINE; NADPH; PROTON)	-	-
+2.7.7.44-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6985	(PROTON; CPD-510; UTP)	(UDP-GLUCURONATE; PPI)	-	-
+2.7.4.24-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5629; ENZRXN6X-1597	(ATP; 5-DIPHOSPHO-1D-MYO-INOSITOL-12346P)	(ADP; CPD-11938)	-	-
+RXN-4728	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9151	(CPD-12575; CPD-4209)	(PROTON; CPD-4603; UDP)	-	-
+RXN-6383	Chemical-Reactions; Small-Molecule-Reactions	-	-	(3-HYDROXY-PROPIONYL-COA)	(ACRYLYL-COA; WATER)	-	-
+BRANCHED-CHAINAMINOTRANSFERILEU-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ILE; 2-KETOGLUTARATE)	(GLT; 2-KETO-3-METHYL-VALERATE)	-	-
+TYRAMINE-N-FERULOYLTRANSFERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4405	(FERULOYL-COA; TYRAMINE)	(PROTON; CPD-440; CO-A)	-	-
+RXN-9528	Protein-Modification-Reactions	3-oxo-decanoyl-[acyl-carrier protein] reductase	-	(Beta-hydroxydecanoyl-ACPs; NADP)	(3-oxo-decanoyl-ACPs; NADPH; PROTON)	-	-
+RXN-4732	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9155	(CPD-12575; CPD-4609)	(PROTON; CPD-4611; UDP)	-	-
+GLY3KIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5353	(GLYCERATE; ATP)	(PROTON; G3P; ADP)	-	-
+RXN-4721	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9147	(CPD-12575; CPD-4210)	(PROTON; CPD-4612; UDP)	-	-
+RXN-14250	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10107; ENZRXN6X-8573; ENZRXN6X-6454; ENZRXN6X-6453; ENZRXN6X-6395; ENZRXN6X-5309	(CPD3DJ-82=(Inositolphosphoryl-Ceramides; Plant-Ceramide-Phosphate; Alpha-hydroxydihydroceramides); OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(C18-Phytoceramides; WATER; FERRICYTOCHROME-B5)	-	-
+3.1.4.11-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8427; ENZRXN6X-8421; ENZRXN6X-8127; ENZRXN6X-473	(PHOSPHATIDYL-MYO-INOSITOL-45-BISPHOSPHA; WATER)	(DIACYLGLYCEROL=(CPD-13040; CPD-17375); INOSITOL-1-4-5-TRISPHOSPHATE; PROTON)	-	-
+RXN-12281	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5552; ENZRXN6X-4048	(ACROLEIN; NADPH; PROTON)	(CPD-665; NADP)	-	-
+RXN-12276	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4059; ENZRXN6X-4055	(6-Phosphogluco-Amylopectins; WATER)	(CPD-13198; Pi)	-	-
+RXN4FS-3	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PROTON; CPD-5441; CTP)	(CPD4FS-1; PPI)	-	-
+2.3.1.179-RXN	Protein-Modification-Reactions	-	ENZRXN6X-8606; ENZRXN6X-687	(Palmitoleoyl-ACPs; MALONYL-ACP; PROTON)	(3-oxo-cis-vaccenoyl-ACPs; CARBON-DIOXIDE; ACP)	-	-
+3-OXOACYL-ACP-REDUCT-RXN	Protein-Modification-Reactions	-	ENZRXN6X-10465; ENZRXN6X-10464; ENZRXN6X-10404; ENZRXN6X-8213; ENZRXN6X-8212; ENZRXN6X-3816; ENZRXN6X-3523	(OH-ACYL-ACP; NADP)	(B-KETOACYL-ACP; NADPH; PROTON)	-	-
+3.1.2.14-RXN	Protein-Modification-Reactions	-	ENZRXN6X-10698; ENZRXN6X-9522; ENZRXN6X-8959; ENZRXN6X-6746; ENZRXN6X-6745; ENZRXN6X-6158; ENZRXN6X-6157; ENZRXN6X-5062	(Oleoyl-ACPs; WATER)	(ACP; OLEATE-CPD; PROTON)	-	-
+RXN-12277	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4060; ENZRXN6X-4056	(6-Phosphoglc-3-Phosphoglc-Amylopectins; WATER)	(CPD-13198; Pi)	-	-
+PHOSPHASERSYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7820; ENZRXN6X-4778; ENZRXN6X-4777	(CDPDIACYLGLYCEROL; SER)	(CMP; L-1-PHOSPHATIDYL-SERINE; PROTON)	-	-
+1.8.4.9-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8779	(PROTON; SO3; AMP; OXIDIZED-GLUTATHIONE)	(APS; GLUTATHIONE)	-	-
+PREPHENATE-ASP-TRANSAMINE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-659; OXALACETIC_ACID)	(PREPHENATE; L-ASPARTATE)	-	-
+RXN-7629	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-6979; Red-NADPH-Hemoprotein-Reductases; OXYGEN-MOLECULE)	(CPD-6981; Ox-NADPH-Hemoprotein-Reductases; WATER)	-	-
+RXN-5761	Chemical-Reactions; Small-Molecule-Reactions	-	-	(S-ADENOSYLMETHIONINE; ETHANOL-AMINE)	(PROTON; CPD-5601; ADENOSYL-HOMO-CYS)	-	-
+SERINE--PYRUVATE-AMINOTRANSFERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3847; ENZRXN6X-3843; ENZRXN6X-3839; ENZRXN6X-3835	(PYRUVATE; SER)	(L-ALPHA-ALANINE; OH-PYR)	-	-
+RXN-7799	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD3DJ-82=(Inositolphosphoryl-Ceramides; Plant-Ceramide-Phosphate; Alpha-hydroxydihydroceramides); ATP)	(Plant-Ceramide-Phosphate; ADP; PROTON)	-	-
+4.2.1.61-RXN	Protein-Modification-Reactions	-	-	(R-3-Hydroxypalmitoyl-ACPs)	(WATER; 2-Hexadecenoyl-ACPs)	<small>D</small>-3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase; &beta;-hydroxypalmitoyl-acyl carrier protein dehydrase; &beta;-hydroxypalmitoyl thioester dehydratase; &beta;-hydroxypalmityl-ACP dehydrase; (3<em>R</em>)-3-hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase; (3<em>R</em>)-3-hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase (hexadec-2-enoyl-[acyl-carrier protein]-forming)	-
+ATPSYN-RXN	Small-Molecule-Reactions; TR-13	-	ENZRXN6X-10803; ENZRXN6X-10134; ENZRXN6X-10057; ENZRXN6X-10056; ENZRXN6X-10055; ENZRXN6X-9861; ENZRXN6X-9663; ENZRXN6X-8772; ENZRXN6X-8723; ENZRXN6X-8049; ENZRXN6X-7819; ENZRXN6X-7647; ENZRXN6X-7071; ENZRXN6X-6897; ENZRXN6X-6896; ENZRXN6X-6895; ENZRXN6X-6463; ENZRXN6X-5356; ENZRXN6X-5314; ENZRXN6X-5149; ENZRXN6X-5009; ENZRXN6X-5008; ENZRXN6X-4775; ENZRXN6X-4477; ENZRXN6X-4280; ENZRXN6X-4156; ENZRXN6X-4155; ENZRXN6X-2927; ENZRXN6X-2793; ENZRXN6X-2792; ENZRXN6X-2293; ENZRXN6X-2292; ENZRXN6X-311	(ATP; WATER; PROTON)	(ADP; Pi; PROTON)	-	-
+RXN-7792	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ACYL-COA=(CPD-17623; CPD-17624; CPD-17633); CPD-13612)	(CPD3DJ-82=(Inositolphosphoryl-Ceramides; Plant-Ceramide-Phosphate; Alpha-hydroxydihydroceramides); CO-A; PROTON)	-	-
+6PFRUCTPHOS-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9161; ENZRXN6X-9160; ENZRXN6X-9159; ENZRXN6X-9006; ENZRXN6X-7966; ENZRXN6X-7734; ENZRXN6X-6184; ENZRXN6X-5518; ENZRXN6X-4794; ENZRXN6X-4555; ENZRXN6X-3952; ENZRXN6X-3284; ENZRXN6X-1588; ENZRXN6X-1587; ENZRXN6X-1213	(ATP; FRUCTOSE-6P)	(PROTON; ADP; FRUCTOSE-16-DIPHOSPHATE)	-	-
+PGLYCDEHYDROG-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9662; ENZRXN6X-9661; ENZRXN6X-7364; ENZRXN6X-6864; ENZRXN6X-3941; ENZRXN6X-2765	(G3P; NAD)	(PROTON; 3-P-HYDROXYPYRUVATE; NADH)	-	-
+RXN-8321	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8088; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-8089; WATER; FERRICYTOCHROME-B5)	-	-
+2.6.1.49-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(L-DIHYDROXY-PHENYLALANINE; 2-KETOGLUTARATE)	(34-DIHYDROXYPHENYLPYRUVATE; GLT)	-	-
+RXN-8329	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2182; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-8093; WATER; FERRICYTOCHROME-B5)	-	-
+RXN-9657	Protein-Modification-Reactions	crotonyl-[acp] reductase	-	(Butanoyl-ACPs; NAD)	(Crotonyl-ACPs; NADH; PROTON)	-	-
+RXN0-1134	Composite-Reactions; Protein-Modification-Reactions	-	ENZRXN6X-10494; ENZRXN6X-10093; ENZRXN6X-8950; ENZRXN6X-7137; ENZRXN6X-7136; ENZRXN6X-7135; ENZRXN6X-7134; ENZRXN6X-6361; ENZRXN6X-3779; ENZRXN6X-3778; ENZRXN6X-1924; ENZRXN6X-1521	(PYRUVATE; Pyruvate-dehydrogenase-lipoate; PROTON)	(Pyruvate-dehydrogenase-acetylDHlipoyl; CARBON-DIOXIDE)	-	RXN-12583; RXN-12508
+RXN66-281	Chemical-Reactions; Small-Molecule-Reactions	squalene synthase	-	(CPD-465; NADH-P-OR-NOP=(NADPH; NADH); PROTON)	(SQUALENE; NAD-P-OR-NOP=(NADP; NAD); PPI)	-	-
+RXN-9660	Protein-Modification-Reactions	<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]-reductase	-	(Decanoyl-ACPs; NAD)	(Trans-D2-decenoyl-ACPs; NADH; PROTON)	-	-
+DTMPKI-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8541; ENZRXN6X-8539; ENZRXN6X-8022; ENZRXN6X-4985	(ATP; TMP)	(ADP; TDP)	-	-
+RXN-8369	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8167; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8168; WATER; Oxidized-ferredoxins)	-	-
+TRANSALDOL-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5936; ENZRXN6X-4317	(D-SEDOHEPTULOSE-7-P; GAP)	(FRUCTOSE-6P; ERYTHROSE-4P)	-	-
+RXN-16402	Chemical-Reactions; Small-Molecule-Reactions	-	-	(18-HYDROXYOLEATE; CO-A; ATP)	(CPD-17370; PPI; AMP)	-	-
+RXN-18669	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4797	(ACETYL-COA; PROPANOL)	(CPD-18998; CO-A)	-	-
+RXN-5647	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10669	(PHOSPHORYL-CHOLINE; WATER)	(CHOLINE; Pi)	-	-
+PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7497; ENZRXN6X-7496; ENZRXN6X-7495; ENZRXN6X-829; ENZRXN6X-828	(PYRUVATE; Pi; ATP)	(PROTON; PHOSPHO-ENOL-PYRUVATE; AMP; PPI)	-	-
+RXN-1021	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Very-Long-Chain-Aldehydes; CO-A; NADP)	(VERY-LONG-CHAIN-FATTY-ACYL-COA=(Very-long-Chain-234-Saturated-acyl-CoAs); NADPH; PROTON)	-	-
+RXN-13697	Chemical-Reactions; Small-Molecule-Reactions	-	-	(L-ASPARTATE; 2-KETOGLUTARATE)	(OXALACETIC_ACID; GLT)	-	-
+RXN-9653	Protein-Modification-Reactions	-	-	(Dodecanoyl-ACPs; MALONYL-COA; PROTON)	(3-oxo-myristoyl-ACPs; CARBON-DIOXIDE; CO-A)	-	-
+RXN-10876	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6299	(PAPS; CPD-634)	(3-5-ADP; CPD-19795; PROTON)	-	-
+GLUCURONOKINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4945; ENZRXN6X-4780	(D-Glucopyranuronate=(CPD-14488; CPD-12521); ATP)	(CPD-510; ADP; PROTON)	-	-
+GLYOHMETRANS-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7321; ENZRXN6X-5833; ENZRXN6X-4943; ENZRXN6X-4942; ENZRXN6X-3989; ENZRXN6X-2323; ENZRXN6X-1704; ENZRXN6X-1703; ENZRXN6X-1702	(SER; THF-GLU-N=(THF; CPD-1301))	(GLY; METHYLENE-THF-GLU-N; WATER)	-	-
+SULFATE-ADENYLYLTRANS-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3655; ENZRXN6X-1709	(PROTON; SULFATE; ATP)	(APS; PPI)	-	-
+RXN-11341	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Glucosyl-acyl-sphinganines; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(Glucosyl-acyl-sphingosines; FERRICYTOCHROME-B5; WATER)	-	-
+RXN-16399	Chemical-Reactions; Small-Molecule-Reactions	-	-	(STEARIC_ACID; OXYGEN-MOLECULE; Red-NADPH-Hemoprotein-Reductases)	(CPD-17640; Ox-NADPH-Hemoprotein-Reductases; WATER)	-	-
+RXN-11397	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-12366; WATER)	(PROTON; CPD-12367; PPI)	-	-
+RXN-12280	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Branched-Unphos-Amylopectin-Tails; WATER)	(CPD-7043; Linear-Malto-Oligosaccharides=(MALTOTRIOSE))	-	-
+RXN-15479	Electron-Transfer-Reactions; Protein-Modification-Reactions	-	ENZRXN6X-8835; ENZRXN6X-8313; ENZRXN6X-8048; ENZRXN6X-8047; ENZRXN6X-6274; ENZRXN6X-4164; ENZRXN6X-4163; ENZRXN6X-4038; ENZRXN6X-3422; ENZRXN6X-2299; ENZRXN6X-2298; ENZRXN6X-2297; ENZRXN6X-2288; ENZRXN6X-1796; ENZRXN6X-1795; ENZRXN6X-1794; ENZRXN6X-1683; ENZRXN6X-1026; ENZRXN6X-898	(Oxidized-Plastocyanins; Reduced-ferredoxins)	(Light; Plastocyanin-Reduced; Oxidized-ferredoxins)	-	RXN-15490; RXN-12647; RXN-15468
+RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10832; ENZRXN6X-7437; ENZRXN6X-7436; ENZRXN6X-7435; ENZRXN6X-7327; ENZRXN6X-7324; ENZRXN6X-2291	(G3P; PROTON)	(D-RIBULOSE-15-P2; CARBON-DIOXIDE; WATER)	-	-
+RXN-1064	Chemical-Reactions; Small-Molecule-Reactions	-	-	(A-LIPID-HYDROPEROXIDE; 18-HYDROXYOLEATE)	(910-EPOXY-18-HYDROXYSTEARATE; Lipid-hydroxy-fatty-acids)	-	-
+RXN-9666	Chemical-Reactions; Small-Molecule-Reactions	-	-	(OLEOYL-COA; WATER)	(PROTON; OLEATE-CPD; CO-A)	-	-
+1.1.1.39-RXN	Composite-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8808	(MAL; NAD)	(PYRUVATE; CARBON-DIOXIDE; NADH)	-	MALATE-DEH-RXN; OXALODECARB-RXN
+3-OXOLAURATE-DECARBOXYLASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5956	(3-OXODODECANOATE; PROTON)	(CARBON-DIOXIDE; 2-UNDECANONE)	-	-
+PYRUFLAVREDUCT-RXN	Protein-Modification-Reactions	-	-	(PYRUVATE; CO-A; Oxidized-ferredoxins)	(ACETYL-COA; CARBON-DIOXIDE; Reduced-ferredoxins; PROTON)	-	-
+RXN-8320	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2181; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-8088; WATER; FERRICYTOCHROME-B5)	-	-
+RXNQT-4366	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5966; ENZRXN6X-5098	(CPD-6442; WATER)	(PROTON; CPD-110; METOH)	-	-
+RXN-10727	Protein-Modification-Reactions	myristoyl-ACP hydrolase activity	ENZRXN6X-5714	(Myristoyl-ACPs; WATER)	(ACP; CPD-7836; PROTON)	myristoyl-[acyl-carrier protein] hydrolase activity; tetradecanoyl-[acyl-carrier-protein] hydrolase activity; tetradecanoyl-ACP hydrolase activity	-
+MALONYL-COA-ACP-TRANSACYL-RXN	Protein-Modification-Reactions	-	ENZRXN6X-6473; ENZRXN6X-489	(MALONYL-COA; ACP)	(CO-A; MALONYL-ACP)	-	-
+BIOTINLIG-RXN	Composite-Reactions; Protein-Modification-Reactions	-	ENZRXN6X-10824; ENZRXN6X-10822	(BCCP-L-lysine; BIOTIN; ATP)	(PPI; AMP; BCCP-biotin-L-lysine; PROTON)	-	RXN0-7192; RXN-22002
+TRANS-RXN-374	Small-Molecule-Reactions; Transport-Reactions	-	-	(MAL)	(MAL)	-	-
+RXN-6381	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-313; WATER; OXYGEN-MOLECULE)	(CPD-6082; AMMONIUM; HYDROGEN-PEROXIDE)	-	-
+RXN-16404	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-17370; NADPH; PROTON)	(CPD-17644; CO-A; NADP)	-	-
+SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3846; ENZRXN6X-3842; ENZRXN6X-3838; ENZRXN6X-3834	(GLYOX; SER)	(OH-PYR; GLY)	SGAT	-
+RXN-13336	Chemical-Reactions; Small-Molecule-Reactions	-	-	(L-PHOSPHATIDATE=(CPD-17373); ATP)	(DIACYLGLYCEROL-PYROPHOSPHATE; ADP)	-	-
+RXN-7913	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ATP; DCMP)	(ADP; DCDP)	-	-
+RXN-10958	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3726	(1-PHOSPHATIDYL-1D-MYO-INOSITOL-35-BISPH; WATER)	(1-PHOSPHATIDYL-1D-MYO-INOSITOL-5-PHOSPHA; Pi)	-	-
+RXN-8368	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8166; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8168; WATER; Oxidized-ferredoxins)	-	-
+RXN-1223	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7464	(UDP-SULFOQUINOVOSE; WATER)	(CPD-12575; SO3; PROTON)	-	-
+RXN-6425	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-6123)	(PROTON; CPD-6122)	-	-
+RXN-11540	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10722; ENZRXN6X-10720; ENZRXN6X-8561; ENZRXN6X-8559; ENZRXN6X-8557; ENZRXN6X-8519; ENZRXN6X-7498; ENZRXN6X-6751; ENZRXN6X-6266; ENZRXN6X-6173; ENZRXN6X-5046; ENZRXN6X-4620; ENZRXN6X-649; ENZRXN6X-643; ENZRXN6X-641; ENZRXN6X-638	(CPD-634; OXYGEN-MOLECULE; Red-NADPH-Hemoprotein-Reductases)	(CPD-12500; WATER; Ox-NADPH-Hemoprotein-Reductases)	-	-
+RXNQT-4193	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Very-Long-Chain-Alcohols; Long-Chain-Acyl-CoAs=(Long-Chain-3S-Hydroxyacyl-CoAs; CPD0-2228; CPD-10254; CPD-17621; CPD-10255; CPD-14775; CPD-14826))	(VLC-alcohol-LC-acyl-ester; CO-A)	-	-
+RXN-18668	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4796	(PROPIONYL-COA; BUTANOL)	(CPD-19956; CO-A)	-	-
+GLYC3PDEHYDROGBIOSYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(GLYCEROL-3P; NAD-P-OR-NOP=(NADP; NAD))	(DIHYDROXY-ACETONE-PHOSPHATE; NADH-P-OR-NOP=(NADPH; NADH); PROTON)	-	-
+RXN-9514	Protein-Modification-Reactions	acetoacetyl-[acyl-carrier protein] reductase	-	(Beta-3-hydroxybutyryl-ACPs; NADP)	(Acetoacetyl-ACPs; NADPH; PROTON)	-	-
+GLYCINE-AMINOTRANSFERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9825; ENZRXN6X-3845; ENZRXN6X-3841; ENZRXN6X-3837; ENZRXN6X-3833	(GLY; 2-KETOGLUTARATE)	(GLYOX; GLT)	-	-
+DIAMINOPIMDECARB-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7180	(MESO-DIAMINOPIMELATE; PROTON)	(LYS; CARBON-DIOXIDE)	-	-
+MALATE-DEH-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8571; ENZRXN6X-8570; ENZRXN6X-7871; ENZRXN6X-7870; ENZRXN6X-7108; ENZRXN6X-3964; ENZRXN6X-3963; ENZRXN6X-3962; ENZRXN6X-3961; ENZRXN6X-3045; ENZRXN6X-1781; ENZRXN6X-1319	(MAL; NAD)	(OXALACETIC_ACID; NADH; PROTON)	malate dehydrogenation	-
+SPERMACTRAN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ACETYL-COA; SPERMIDINE)	(CPD-568; PROTON; CO-A)	-	-
+UDP-GLUCURONATE-4-EPIMERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9964; ENZRXN6X-8964; ENZRXN6X-3863; ENZRXN6X-3790; ENZRXN6X-406	(UDP-GLUCURONATE)	(UDP-D-GALACTURONATE)	-	-
+RXN-1728	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2187; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-2188; WATER; Oxidized-ferredoxins)	-	-
+RXN-12391	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Glucans); MALTOTRIOSE)	(Glucans); Glucopyranose=(ALPHA-GLUCOSE; GLC))	-	-
+CYTIDEAM2-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5435	(PROTON; WATER; CYTIDINE)	(URIDINE; AMMONIUM)	-	-
+RXN-8317	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8086; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8087; WATER; Oxidized-ferredoxins)	-	-
+BIOTIN-CARBOXYL-RXN	Protein-Modification-Reactions	-	ENZRXN6X-3619; ENZRXN6X-3617; ENZRXN6X-3615; ENZRXN6X-3613; ENZRXN6X-3611; ENZRXN6X-1209; ENZRXN6X-1207; ENZRXN6X-1205; ENZRXN6X-1203	(biotin-L-lysine-in-BCCP-dimers; HCO3; ATP)	(Pi; carboxybiotin-L-lysine-in-BCCP-dimers; ADP; PROTON)	-	-
+RXN-8308	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8076; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8078; WATER; Oxidized-ferredoxins)	-	-
+3-OXOACYL-ACP-SYNTH-RXN	Protein-Modification-Reactions	-	-	(Saturated-Fatty-Acyl-ACPs; MALONYL-ACP; PROTON)	(B-KETOACYL-ACP; CARBON-DIOXIDE; ACP)	-	-
+TRIACYLGLYCEROL-LIPASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10983; ENZRXN6X-10926; ENZRXN6X-10910; ENZRXN6X-10755; ENZRXN6X-10754; ENZRXN6X-10545; ENZRXN6X-10544; ENZRXN6X-10493; ENZRXN6X-10473; ENZRXN6X-10296; ENZRXN6X-10240; ENZRXN6X-10201; ENZRXN6X-10200; ENZRXN6X-10144; ENZRXN6X-10123; ENZRXN6X-10122; ENZRXN6X-10095; ENZRXN6X-10079; ENZRXN6X-10020; ENZRXN6X-9886; ENZRXN6X-9513; ENZRXN6X-9447; ENZRXN6X-9423; ENZRXN6X-9333; ENZRXN6X-9332; ENZRXN6X-9328; ENZRXN6X-8896; ENZRXN6X-8826; ENZRXN6X-8609; ENZRXN6X-8586; ENZRXN6X-8459; ENZRXN6X-8383; ENZRXN6X-8211; ENZRXN6X-8052; ENZRXN6X-7722; ENZRXN6X-7630; ENZRXN6X-7532; ENZRXN6X-7531; ENZRXN6X-7506; ENZRXN6X-7472; ENZRXN6X-7225; ENZRXN6X-7051; ENZRXN6X-7050; ENZRXN6X-7049; ENZRXN6X-7048; ENZRXN6X-7047; ENZRXN6X-7046; ENZRXN6X-7045; ENZRXN6X-6860; ENZRXN6X-6821; ENZRXN6X-6820; ENZRXN6X-6819; ENZRXN6X-6772; ENZRXN6X-6682; ENZRXN6X-6582; ENZRXN6X-6505; ENZRXN6X-6389; ENZRXN6X-6342; ENZRXN6X-6337; ENZRXN6X-6306; ENZRXN6X-6176; ENZRXN6X-6175; ENZRXN6X-6072; ENZRXN6X-6032; ENZRXN6X-6029; ENZRXN6X-5880; ENZRXN6X-5724; ENZRXN6X-5587; ENZRXN6X-5542; ENZRXN6X-5488; ENZRXN6X-5376; ENZRXN6X-5280; ENZRXN6X-5076; ENZRXN6X-4819; ENZRXN6X-4657; ENZRXN6X-4570; ENZRXN6X-4399; ENZRXN6X-4343; ENZRXN6X-3788; ENZRXN6X-3695; ENZRXN6X-3567; ENZRXN6X-3172; ENZRXN6X-2994; ENZRXN6X-2993; ENZRXN6X-2961; ENZRXN6X-2755; ENZRXN6X-2593; ENZRXN6X-2450; ENZRXN6X-2447; ENZRXN6X-2200; ENZRXN6X-2004; ENZRXN6X-1895; ENZRXN6X-1641; ENZRXN6X-1580; ENZRXN6X-1450; ENZRXN6X-1448; ENZRXN6X-1354; ENZRXN6X-1263; ENZRXN6X-1056; ENZRXN6X-973; ENZRXN6X-593; ENZRXN6X-519; ENZRXN6X-223; ENZRXN6X-220	(Triacylglycerols=(CPD-13014); WATER)	(DIACYLGLYCEROL=(CPD-13040; CPD-17375); Fatty-Acids=(Cutin-Monomers); PROTON)	-	-
+RXN-8296	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2188; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8075; WATER; Oxidized-ferredoxins)	-	-
+RXN-6722	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9487; ENZRXN6X-9486	(S-ADENOSYLMETHIONINE; BENZOATE)	(CPD-6441; ADENOSYL-HOMO-CYS)	-	-
+HYDROXYPYRUVATE-REDUCTASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10982; ENZRXN6X-3678; ENZRXN6X-3676; ENZRXN6X-3674; ENZRXN6X-3672	(GLYCERATE; NAD-P-OR-NOP=(NADP; NAD))	(OH-PYR; NADH-P-OR-NOP=(NADPH; NADH); PROTON)	-	-
+2.5.1.19-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6138	(SHIKIMATE-5P; PHOSPHO-ENOL-PYRUVATE)	(3-ENOLPYRUVYL-SHIKIMATE-5P; Pi)	-	-
+RXN-6384	Chemical-Reactions; Small-Molecule-Reactions	-	-	(3-HYDROXY-PROPIONYL-COA; WATER)	(PROTON; 3-HYDROXY-PROPIONATE; CO-A)	-	-
+DEOXYCYTIDINE-KINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9645; ENZRXN6X-7553; ENZRXN6X-5830	(DEOXYCYTIDINE; Nucleoside-Triphosphates))	(DCMP; Nucleoside-Diphosphates); PROTON)	-	-
+RXN-15745	Electron-Transfer-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3621	(ETR-Quinones=(Rhodoquinones; PLASTOQUINONE); GLYCEROL-3P)	(ETR-Quinols=(Rhodoquinols; CPD-12831); DIHYDROXY-ACETONE-PHOSPHATE)	-	RXN0-5259; RXN0-5257
+RXN-8300	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8079; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8080; WATER; Oxidized-ferredoxins)	-	-
+1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN	Protein-Modification-Reactions	-	-	(ACYL-ACP; ACYL-SN-GLYCEROL-3P=(CPD-17372))	(L-PHOSPHATIDATE=(CPD-17373); ACP)	-	-
+RXN-4730	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9153	(CPD-12575; CPD-4604)	(PROTON; CPD-4608; UDP)	-	-
+ASPARTATEKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9517; ENZRXN6X-9325; ENZRXN6X-5940; ENZRXN6X-1986	(L-ASPARTATE; ATP)	(L-BETA-ASPARTYL-P; ADP)	-	-
+RXN0-949	Protein-Modification-Reactions	-	ENZRXN6X-7699; ENZRXN6X-5612; ENZRXN6X-3345	(S-ADENOSYLMETHIONINE; Octanoylated-domains=(a-pyruvate-dehydrogenase-E2-protein-Nsup; Octanoylated-Gcv-H); Fe4S4-Cluster-Protein; PROTON; Reduced-ferredoxins)	(Dihydro-Lipoyl-Proteins=(Oxo-glutarate-dehydrogenase-DH-lipoyl; BCAA-dehydrogenase-DH-lipoyl; Pyruvate-dehydrogenase-dihydrolipoate; DIHYDROLIPOYL-GCVH); CH33ADO; MET; Iron-Sulfur-Cluster-Scaffold-Proteins; CPD-7046; FE+2; Oxidized-ferredoxins)	-	-
+RXN-4731	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9154	(CPD-12575; CPD-4609)	(PROTON; CPD-4610; UDP)	-	-
+CYTIDEAM-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5434	(PROTON; WATER; DEOXYCYTIDINE)	(DEOXYURIDINE; AMMONIUM)	-	-
+RXN-18667	Chemical-Reactions; Small-Molecule-Reactions	-	-	(BENZOYLCOA; BUTANOL)	(CPD-19955; CO-A)	-	-
+RXN-4726	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-12575; CPD-332)	(PROTON; CPD-4617; UDP)	-	-
+RXN-9807	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-10515; OXYGEN-MOLECULE; Red-NADPH-Hemoprotein-Reductases)	(91018-TRIHYDROXYSTEARATE; WATER; Ox-NADPH-Hemoprotein-Reductases)	-	-
+RXN-6382	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-6082; NAD-P-OR-NOP=(NADP; NAD); WATER)	(B-ALANINE; NADH-P-OR-NOP=(NADPH; NADH); PROTON)	-	-
+RXN-10979	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ATP; 5-DIPHOSPHO-1D-MYO-INOSITOL-12346P)	(ADP; CPD-11939)	-	-
+ADENYLYLSULFKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8688; ENZRXN6X-8687; ENZRXN6X-2102; ENZRXN6X-2101; ENZRXN6X-284; ENZRXN6X-283	(APS; ATP)	(PROTON; PAPS; ADP)	-	-
+RXN-8306	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2189; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8080; WATER; Oxidized-ferredoxins)	-	-
+CDPREDUCT-RXN	Protein-Modification-Reactions	-	-	(DCDP; Ox-Thioredoxin; WATER)	(CDP; Red-Thioredoxin)	-	-
+DUDPKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ATP; DUDP)	(ADP; DUTP)	-	-
+RXN-9939	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ACETYL-COA; SPERMINE)	(N1-ACETYLSPERMINE; CO-A; PROTON)	-	-
+PALMITOYL-COA-HYDROLASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8939; ENZRXN6X-5861; ENZRXN6X-5859; ENZRXN6X-5857; ENZRXN6X-3013	(PALMITYL-COA; WATER)	(PROTON; PALMITATE; CO-A)	-	-
+RXN-9650	Protein-Modification-Reactions	-	-	(Hexanoyl-ACPs; MALONYL-COA; PROTON)	(3-Oxo-octanoyl-ACPs; CARBON-DIOXIDE; CO-A)	-	-
+RXN-1224	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9838; ENZRXN6X-4708; ENZRXN6X-426	(UDP-SULFOQUINOVOSE; DIACYLGLYCEROL=(CPD-13040; CPD-17375))	(SULFOQUINOVOSYLDIACYLGLYCEROL; UDP; PROTON)	-	-
+2.7.1.90-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10130; ENZRXN6X-9305; ENZRXN6X-6458; ENZRXN6X-6359; ENZRXN6X-6358; ENZRXN6X-4449; ENZRXN6X-4093	(FRUCTOSE-6P; PPI)	(PROTON; Pi; FRUCTOSE-16-DIPHOSPHATE)	-	-
+ACONITATEDEHYDR-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CIT)	(CIS-ACONITATE; WATER)	-	-
+RXN-11277	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9295; ENZRXN6X-9293; ENZRXN6X-9291; ENZRXN6X-9289; ENZRXN6X-9287; ENZRXN6X-8691; ENZRXN6X-7805; ENZRXN6X-7803; ENZRXN6X-7801; ENZRXN6X-7799; ENZRXN6X-6786; ENZRXN6X-6775; ENZRXN6X-5954; ENZRXN6X-5379; ENZRXN6X-4712; ENZRXN6X-4085	(DIACYLGLYCEROL-PYROPHOSPHATE; WATER)	(L-PHOSPHATIDATE=(CPD-17373); Pi; PROTON)	-	-
+2.3.1.133-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10303; ENZRXN6X-9138; ENZRXN6X-8270; ENZRXN6X-7590; ENZRXN6X-4402; ENZRXN6X-3701; ENZRXN6X-3184; ENZRXN6X-3183; ENZRXN6X-3064; ENZRXN6X-1214	(P-COUMAROYL-COA; SHIKIMATE)	(CPD-412; CO-A)	-	-
+4.2.1.93-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-2430	(ATP; CPD-653)	(PROTON; Pi; NADH; ADP)	-	-
+CYCLOHEXADIENYL-DEHYDROGENASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7002; ENZRXN6X-7001	(CPD-659; NAD)	(TYR; CARBON-DIOXIDE; NADH)	-	-
+CDPKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ATP; CDP)	(ADP; CTP)	-	-
+ACONITATEHYDR-RXN	Chemical-Reactions; Small-Molecule-Reactions	cis-aconitate hydratase	-	(CIS-ACONITATE; WATER)	(THREO-DS-ISO-CITRATE)	-	-
+RXN-12300	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9960; ENZRXN6X-9723; ENZRXN6X-1288; ENZRXN6X-1283	(CIS-3-HEXENAL; NADPH; PROTON)	(CIS-3-HEXENOL; NADP)	-	-
+ASPAMINOTRANS-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10655; ENZRXN6X-9950; ENZRXN6X-7556; ENZRXN6X-6623; ENZRXN6X-5582; ENZRXN6X-5581	(L-ASPARTATE; 2-KETOGLUTARATE)	(OXALACETIC_ACID; GLT)	-	-
+2.1.1.103-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7792; ENZRXN6X-7455; ENZRXN6X-7454; ENZRXN6X-5758; ENZRXN6X-5382; ENZRXN6X-5381; ENZRXN6X-1317	(S-ADENOSYLMETHIONINE; PHOSPHORYL-ETHANOLAMINE)	(PROTON; ADENOSYL-HOMO-CYS; CPD-406)	-	-
+RXN-8323	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2182; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-8090; WATER; FERRICYTOCHROME-B5)	-	-
+RXN-14753	Chemical-Reactions; Small-Molecule-Reactions	-	-	(D-Galactopyranuronate=(CPD-12523; CPD-12524; CPD-23305))	(CPD-15633)	-	-
+RXN-4681	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-4208; WATER; FAD; PROTON)	(ADENOSINE; CPD-4483; FADH2)	-	-
+RXN-8367	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8165; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8166; WATER; Oxidized-ferredoxins)	-	-
+RXN-15513	Composite-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10054; ENZRXN6X-6402; ENZRXN6X-3591; ENZRXN6X-3590; ENZRXN6X-3589; ENZRXN6X-2276	(2-PG)	(G3P)	-	RXN-15509; RXN-15510; RXN-15511; RXN-15512
+RXN-4733	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9156	(CPD-12575; CPD-4441)	(PROTON; CPD-4618; UDP)	-	-
+RXN-16398	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-180	(PALMITATE; OXYGEN-MOLECULE; Red-NADPH-Hemoprotein-Reductases)	(16-HYDROXYPALMITATE; Ox-NADPH-Hemoprotein-Reductases; WATER)	-	-
+MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-1198; ENZRXN6X-255	(D-glucopyranose-6-phosphate=(ALPHA-GLC-6-P; GLC-6-P))	(1-L-MYO-INOSITOL-1-P)	-	-
+SHIKIMATE-5-DEHYDROGENASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7265; ENZRXN6X-7264; ENZRXN6X-7263; ENZRXN6X-7262; ENZRXN6X-5000; ENZRXN6X-4999	(SHIKIMATE; NADP)	(PROTON; 3-DEHYDRO-SHIKIMATE; NADPH)	-	-
+RXN-1104	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-2045; ENZRXN6X-2040; ENZRXN6X-9; ENZRXN6X-6; ENZRXN6X-2	(S-ADENOSYLMETHIONINE; CPD-676)	(PROTON; FERULIC-ACID; ADENOSYL-HOMO-CYS)	-	-
+RXN-1126	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-676; CO-A; ATP)	(CAFFEOYL-COA; AMP; PPI)	-	-
+RXN-4724	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-12575; CPD-332)	(PROTON; CPD-4615; UDP)	-	-
+THYMIDYLATESYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-2304	(METHYLENE-THF-GLU-N; DUMP)	(TMP; DIHYDROFOLATE-GLU-N=(DIHYDROFOLATE))	-	-
+RXN-15123	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-16013; WATER; PROTON)	(2-OXOBUTANOATE; AMMONIUM)	-	-
+RXN-9535	Protein-Modification-Reactions	-	-	(Dodecanoyl-ACPs; MALONYL-ACP; PROTON)	(3-oxo-myristoyl-ACPs; CARBON-DIOXIDE; ACP)	&beta;-ketoacyl-ACP synthase I; &beta;-ketoacyl-acyl carrier protein synthetase; &beta;-ketoacyl-[acyl carrier protein] synthase; condensing enzyme; &beta;-ketoacyl acyl carrier protein synthase; 3-oxoacyl-[acyl-carrier-protein] synthase; acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] <em>C</em>-acyltransferase (decarboxylating)	-
+SPERMIDINESYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10575; ENZRXN6X-9512	(PUTRESCINE; S-ADENOSYLMETHIONINAMINE)	(PROTON; SPERMIDINE; 5-METHYLTHIOADENOSINE)	-	-
+PHENYLALANINE-AMMONIA-LYASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10278; ENZRXN6X-10277; ENZRXN6X-10276; ENZRXN6X-10275; ENZRXN6X-10274; ENZRXN6X-3136; ENZRXN6X-3135; ENZRXN6X-697	(PHE)	(CPD-674; AMMONIUM)	-	-
+RXN-8325	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8093; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(1-183-2-183-SN-GLYCEROL-PHOSPHOCHOLINE; WATER; FERRICYTOCHROME-B5)	-	-
+PHOSPHOLIPASE-A2-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10246; ENZRXN6X-9850; ENZRXN6X-9785; ENZRXN6X-9113; ENZRXN6X-9111; ENZRXN6X-9042; ENZRXN6X-9041; ENZRXN6X-8596; ENZRXN6X-8512; ENZRXN6X-7558; ENZRXN6X-7149; ENZRXN6X-6914; ENZRXN6X-5827; ENZRXN6X-4706; ENZRXN6X-4436; ENZRXN6X-4112; ENZRXN6X-3894; ENZRXN6X-3893; ENZRXN6X-3892; ENZRXN6X-3891; ENZRXN6X-2197; ENZRXN6X-2187; ENZRXN6X-2177; ENZRXN6X-2176; ENZRXN6X-2127; ENZRXN6X-2126; ENZRXN6X-1812; ENZRXN6X-1675; ENZRXN6X-1634; ENZRXN6X-1517; ENZRXN6X-1515; ENZRXN6X-1514; ENZRXN6X-1422; ENZRXN6X-1421; ENZRXN6X-673; ENZRXN6X-420; ENZRXN6X-410; ENZRXN6X-358; ENZRXN6X-356	(PHOSPHATIDYLCHOLINE); WATER)	(2-Lysophosphatidylcholines; Fatty-Acids=(Cutin-Monomers); PROTON)	-	-
+RXN-2601	Chemical-Reactions; Small-Molecule-Reactions	-	-	(P-COUMAROYL-COA; QUINATE)	(4-COUMAROYLQUINATE; CO-A)	-	-
+SUCCCOASYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10286; ENZRXN6X-8666; ENZRXN6X-1094	(SUC; CO-A; ATP)	(SUC-COA; ADP; Pi)	Succinate thiokinase; succinyl CoA synthesis	-
+RXN-9523	Protein-Modification-Reactions	3-oxo-octanoyl-[acyl-carrier protein] synthase	-	(Hexanoyl-ACPs; MALONYL-ACP; PROTON)	(3-Oxo-octanoyl-ACPs; CARBON-DIOXIDE; ACP)	-	-
+SAMDECARB-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10305; ENZRXN6X-9127; ENZRXN6X-8076; ENZRXN6X-3189	(S-ADENOSYLMETHIONINE; PROTON)	(CARBON-DIOXIDE; S-ADENOSYLMETHIONINAMINE)	-	-
+RXN-969	Chemical-Reactions; Small-Molecule-Reactions	-	-	(GLYCOLLATE; OXYGEN-MOLECULE)	(GLYOX; HYDROGEN-PEROXIDE)	-	-
+RXN-4621	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10685; ENZRXN6X-4564	(CPD-4209; FAD; WATER; PROTON)	(PRENAL; ADENINE; FADH2)	-	-
+RXN-9806	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-10514; WATER)	(CPD-10515)	-	-
+RXN-8365	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8163; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8164; WATER; Oxidized-ferredoxins)	-	-
+4-COUMARATE--COA-LIGASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10167; ENZRXN6X-6866; ENZRXN6X-4162; ENZRXN6X-4092; ENZRXN6X-3940; ENZRXN6X-2361; ENZRXN6X-2360; ENZRXN6X-601; ENZRXN6X-151; ENZRXN6X-150; ENZRXN6X-149; ENZRXN6X-94	(COUMARATE; CO-A; ATP)	(P-COUMAROYL-COA; AMP; PPI)	-	-
+RXN-15122	Chemical-Reactions; Small-Molecule-Reactions	-	-	(THR)	(CPD-15056; WATER; PROTON)	-	-
+RXN-1381	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10921; ENZRXN6X-8737; ENZRXN6X-7613; ENZRXN6X-7610; ENZRXN6X-7589; ENZRXN6X-7343; ENZRXN6X-7232; ENZRXN6X-5792; ENZRXN6X-5252; ENZRXN6X-4932; ENZRXN6X-4831; ENZRXN6X-4377; ENZRXN6X-4026; ENZRXN6X-2049; ENZRXN6X-1932; ENZRXN6X-1698; ENZRXN6X-1695; ENZRXN6X-1219; ENZRXN6X-1003; ENZRXN6X-963; ENZRXN6X-176	(ACYL-COA=(CPD-17623; CPD-17624; CPD-17633); GLYCEROL-3P)	(ACYL-SN-GLYCEROL-3P=(CPD-17372); CO-A)	-	-
+RXN-11468	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-12449; MALONYL-COA; PROTON)	(PHLORETIN; CO-A; CARBON-DIOXIDE)	-	-
+1TRANSKETO-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6139; ENZRXN6X-6136; ENZRXN6X-3608; ENZRXN6X-3606	(D-SEDOHEPTULOSE-7-P; GAP)	(RIBOSE-5P=(CPD-15317; CPD-15895); XYLULOSE-5-PHOSPHATE)	-	-
+APIGNAR-RXN	Chemical-Reactions; Small-Molecule-Reactions	Naringenin chalcone isomerase	-	(CPD-20012)	(NARINGENIN-CMPD)	-	-
+RXN-13698	Chemical-Reactions; Small-Molecule-Reactions	-	-	(2-KETOGLUTARATE; L-ALPHA-ALANINE)	(GLT; PYRUVATE)	-	-
+RXN-4736	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9158	(CPD-12575; CPD-4614)	(PROTON; CPD-4622; UDP)	-	-
+RXN-10974	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5631; ENZRXN6X-1599	(CPD-11700; ATP)	(CPD-11938; ADP)	-	-
+GCVMULTI-RXN	Composite-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10811	(GLY; THF-GLU-N=(THF; CPD-1301); NAD)	(METHYLENE-THF-GLU-N; AMMONIUM; CARBON-DIOXIDE; NADH)	-	GCVP-RXN; GCVT-RXN; RXN-8629
+ARGDECARBOX-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6130; ENZRXN6X-1974; ENZRXN6X-1973; ENZRXN6X-1972; ENZRXN6X-1971	(ARG; PROTON)	(AGMATHINE; CARBON-DIOXIDE)	-	-
+RXN-16389	Chemical-Reactions; Small-Molecule-Reactions	-	-	(16-HYDROXYPALMITATE; CO-A; ATP)	(CPD-17621; PPI; AMP)	-	-
+RXN-15280	Protein-Modification-Reactions	-	ENZRXN6X-3042; ENZRXN6X-3039; ENZRXN6X-1566	(3-oxo-myristoyl-ACPs; WATER)	(CPD-14242; ACP; PROTON)	-	-
+RXN-16049	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-475	(CPD-17293; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-17292; WATER; Oxidized-ferredoxins)	-	-
+CHOLINE-KINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5453; ENZRXN6X-5451; ENZRXN6X-4583	(CHOLINE; ATP)	(PROTON; PHOSPHORYL-CHOLINE; ADP)	-	-
+LIPIDXSYNTHESIS-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6976	(WATER; OH-MYRISTOYL)	(PROTON; BISOHMYR-GLUCOSAMINYL-1P; UMP)	-	-
+SHIKIMATE-KINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10061; ENZRXN6X-6401; ENZRXN6X-2801	(SHIKIMATE; ATP)	(PROTON; SHIKIMATE-5P; ADP)	-	-
+2.7.7.14-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9102; ENZRXN6X-9101; ENZRXN6X-8391; ENZRXN6X-4217; ENZRXN6X-4216; ENZRXN6X-4215; ENZRXN6X-4214; ENZRXN6X-4213; ENZRXN6X-2605	(PROTON; PHOSPHORYL-ETHANOLAMINE; CTP)	(CDP-ETHANOLAMINE; PPI)	-	-
+RXN-9644	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9410; ENZRXN6X-9406; ENZRXN6X-9402; ENZRXN6X-9398; ENZRXN6X-9394; ENZRXN6X-9390; ENZRXN6X-9386; ENZRXN6X-9382; ENZRXN6X-9378; ENZRXN6X-9374; ENZRXN6X-9370; ENZRXN6X-8343; ENZRXN6X-8300; ENZRXN6X-8117; ENZRXN6X-8113; ENZRXN6X-8109; ENZRXN6X-8105; ENZRXN6X-8101; ENZRXN6X-6202; ENZRXN6X-5347; ENZRXN6X-5304; ENZRXN6X-2559; ENZRXN6X-2536; ENZRXN6X-2532; ENZRXN6X-2528; ENZRXN6X-2182	(OLEATE-CPD; CO-A; ATP)	(OLEOYL-COA; AMP; PPI)	-	-
+RXN-9515	Protein-Modification-Reactions	crotonyl-[acyl-carrier protein] reductase (NADP)	-	(Butanoyl-ACPs; NADP)	(Crotonyl-ACPs; NADPH; PROTON)	-	-
+RXN-4662	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-4441; WATER; FAD; PROTON)	(CPD-4482; ADENINE; FADH2)	-	-
+2.7.1.68-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9078; ENZRXN6X-8861; ENZRXN6X-8860; ENZRXN6X-8859; ENZRXN6X-8858; ENZRXN6X-8857; ENZRXN6X-8856; ENZRXN6X-8855; ENZRXN6X-8854; ENZRXN6X-8853; ENZRXN6X-8852; ENZRXN6X-8851; ENZRXN6X-8509; ENZRXN6X-8348; ENZRXN6X-7073; ENZRXN6X-7072; ENZRXN6X-3912; ENZRXN6X-2563; ENZRXN6X-1630; ENZRXN6X-1626; ENZRXN6X-1373; ENZRXN6X-976; ENZRXN6X-611; ENZRXN6X-610; ENZRXN6X-609; ENZRXN6X-421	(CPD-1108; ATP)	(PHOSPHATIDYL-MYO-INOSITOL-45-BISPHOSPHA; ADP; PROTON)	-	-
+RXN-3142	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PROTON; P-COUMAROYL-COA; MALONYL-COA; NADPH)	(CPD-3041; CO-A; CARBON-DIOXIDE; NADP; WATER)	-	-
+RXN0-1132	Protein-Modification-Reactions	-	-	(Pyruvate-dehydrogenase-dihydrolipoate; NAD)	(Pyruvate-dehydrogenase-lipoate; NADH; PROTON)	-	-
+1.2.1.13-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3325; ENZRXN6X-90	(GAP; Pi; NADP)	(DPG; NADPH; PROTON)	-	-
+MALSYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3223; ENZRXN6X-3222	(ACETYL-COA; WATER; GLYOX)	(PROTON; MAL; CO-A)	-	-
+RXN-12203	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Starch=(Alpha-Amyloses; CPD-7043; 6-Phosphoglc-3-Phosphoglc-Amylopectins; 6-Phosphogluco-Amylopectins); ATP; WATER)	(6-Phosphogluco-Amylopectins; AMP; Pi)	-	-
+RXN-8307	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8074; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8076; WATER; Oxidized-ferredoxins)	-	-
+DIHYDRODIPICSYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6884; ENZRXN6X-6567; ENZRXN6X-2964; ENZRXN6X-2376	(PYRUVATE; L-ASPARTATE-SEMIALDEHYDE)	(CPD-14443; WATER; PROTON)	dihydropicolinate synthetase; dihydrodipicolinic acid synthase	-
+RXN0-5114	Chemical-Reactions; Small-Molecule-Reactions	-	-	(3-P-SERINE; WATER)	(SER; Pi)	-	-
+RXN-1065	Chemical-Reactions; Small-Molecule-Reactions	-	-	(910-EPOXY-18-HYDROXYSTEARATE; WATER)	(91018-TRIHYDROXYSTEARATE)	-	-
+RXN-10952	Chemical-Reactions; Small-Molecule-Reactions	-	-	(D-MYO-INOSITOL-4-PHOSPHATE; WATER)	(MYO-INOSITOL; Pi)	-	-
+RXN-8294	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2187; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8073; WATER; Oxidized-ferredoxins)	-	-
+DURIDKI-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(DEOXYURIDINE; ATP)	(PROTON; DUMP; ADP)	-	-
+SQUALENE-MONOOXYGENASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-363; ENZRXN6X-362	(SQUALENE; OXYGEN-MOLECULE; Red-NADPH-Hemoprotein-Reductases)	(EPOXYSQUALENE; WATER; Ox-NADPH-Hemoprotein-Reductases)	-	-
+ALANINE-AMINOTRANSFERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9823; ENZRXN6X-9118; ENZRXN6X-8602; ENZRXN6X-1169; ENZRXN6X-1168	(2-KETOGLUTARATE; L-ALPHA-ALANINE)	(GLT; PYRUVATE)	-	-
+3.1.3.57-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(INOSITOL-1-4-BISPHOSPHATE; WATER)	(Pi; D-MYO-INOSITOL-4-PHOSPHATE)	-	-
+RXN-8298	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8077; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-2189; WATER; Oxidized-ferredoxins)	-	-
+1.1.1.222-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4454; ENZRXN6X-4452	(CPD-2222; NAD-P-OR-NOP=(NADP; NAD))	(P-HYDROXY-PHENYLPYRUVATE; NADH-P-OR-NOP=(NADPH; NADH); PROTON)	-	-
+ACETOLACTREDUCTOISOM-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7865; ENZRXN6X-5297	(CPD-13357; NADP)	(2-ACETO-LACTATE; NADPH; PROTON)	-	-
+SULFITE-REDUCTASE-FERREDOXIN-RXN	Protein-Modification-Reactions	-	ENZRXN6X-7689	(HS; Oxidized-ferredoxins; WATER)	(SO3; Reduced-ferredoxins; PROTON)	-	-
+RXN-12959	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CTP; DIACYLGLYCEROL=(CPD-13040; CPD-17375))	(CDP; L-PHOSPHATIDATE=(CPD-17373); PROTON)	-	-
+DTDPKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ATP; TDP)	(ADP; TTP)	-	-
+RXN-7163	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-2745; ENZRXN6X-2744; ENZRXN6X-2743; ENZRXN6X-2742; ENZRXN6X-2741	(ATP; CPD-1107)	(ADP; MI-HEXAKISPHOSPHATE; PROTON)	-	-
+RXN-18332	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-663)	(CPD-11540)	-	-
+RXN-9623	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9409; ENZRXN6X-9405; ENZRXN6X-9401; ENZRXN6X-9397; ENZRXN6X-9393; ENZRXN6X-9389; ENZRXN6X-9385; ENZRXN6X-9381; ENZRXN6X-9377; ENZRXN6X-9373; ENZRXN6X-9369; ENZRXN6X-8342; ENZRXN6X-8299; ENZRXN6X-8116; ENZRXN6X-8112; ENZRXN6X-8108; ENZRXN6X-8104; ENZRXN6X-8100; ENZRXN6X-6201; ENZRXN6X-5346; ENZRXN6X-5303; ENZRXN6X-2558; ENZRXN6X-2535; ENZRXN6X-2531; ENZRXN6X-2527; ENZRXN6X-2181	(PALMITATE; CO-A; ATP)	(PALMITYL-COA; PPI; AMP)	-	-
+RXN-9651	Protein-Modification-Reactions	-	-	(Octanoyl-ACPs; MALONYL-COA; PROTON)	(3-oxo-decanoyl-ACPs; CARBON-DIOXIDE; CO-A)	-	-
+RXN-8328	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8088; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-2182; WATER; FERRICYTOCHROME-B5)	-	-
+RXN-7796	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7118; ENZRXN6X-7117; ENZRXN6X-7116; ENZRXN6X-1798	(CPD3DJ-82=(Inositolphosphoryl-Ceramides; Plant-Ceramide-Phosphate; Alpha-hydroxydihydroceramides); OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(Alpha-hydroxydihydroceramides; FERRICYTOCHROME-B5; WATER)	-	-
+RXN-9558	Protein-Modification-Reactions	-	-	(Cis-vaccenoyl-ACPs; NAD)	(cis-vaccen-2-enoyl-ACPs; NADH; PROTON)	-	-
+RXN-8366	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8165; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8167; WATER; Oxidized-ferredoxins)	-	-
+RXN-1023	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Secondary-Alcohols; Acceptor)	(LONG-CHAIN-KETONE=(ACETOIN; CPD-10198; CPD-13222; CPD-13223; CPD-13218; CPD-13220; CPD-13369); Donor-H2)	-	-
+CDPDIGLYSYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10887; ENZRXN6X-10886; ENZRXN6X-9283; ENZRXN6X-5578; ENZRXN6X-5577; ENZRXN6X-2191	(CTP; L-PHOSPHATIDATE=(CPD-17373); PROTON)	(CDPDIACYLGLYCEROL; PPI)	-	-
+RXN-8297	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8075; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8076; WATER; Oxidized-ferredoxins)	-	-
+RXN-5642	Chemical-Reactions; Small-Molecule-Reactions	-	-	(S-ADENOSYLMETHIONINE; CPD-406)	(PROTON; CPD-5441; ADENOSYL-HOMO-CYS)	-	-
+RXN-7902	Protein-Modification-Reactions	-	ENZRXN6X-10222; ENZRXN6X-10220; ENZRXN6X-5715; ENZRXN6X-3037	(Fatty-acyl-ACPs; WATER)	(Fatty-Acids=(Cutin-Monomers); ACP; PROTON)	-	-
+3.1.3.56-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9348; ENZRXN6X-8968; ENZRXN6X-7766; ENZRXN6X-7764; ENZRXN6X-3795	(WATER; INOSITOL-1-4-5-TRISPHOSPHATE)	(INOSITOL-1-4-BISPHOSPHATE; Pi)	-	-
+PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	Electron-Transfer-Reactions; Protein-Modification-Reactions	Q-cycle	ENZRXN6X-10573; ENZRXN6X-9432; ENZRXN6X-4419; ENZRXN6X-2290	(Plastoquinols=(CPD-12829); Oxidized-Plastocyanins; PROTON)	(PLASTOQUINONE; Plastocyanin-Reduced; PROTON)	-	RXN-15451; RXN-12647
+RXN-7737	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8603; ENZRXN6X-493; ENZRXN6X-270	(LL-DIAMINOPIMELATE; 2-KETOGLUTARATE)	(DELTA1-PIPERIDEINE-2-6-DICARBOXYLATE; GLT; WATER; PROTON)	-	-
+RXN-12184	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CO-A; CPD-17637; ATP)	(CPD-17638; PPI; AMP)	-	-
+RXN-9520	Protein-Modification-Reactions	-	-	(R-3-hydroxyhexanoyl-ACPs)	(Hex-2-enoyl-ACPs; WATER)	-	-
+RXN-6723	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6371; ENZRXN6X-6341; ENZRXN6X-5404; ENZRXN6X-5403; ENZRXN6X-4240	(S-ADENOSYLMETHIONINE; CPD-110)	(CPD-6442; ADENOSYL-HOMO-CYS)	-	-
+RXN-18670	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4798	(PROPIONYL-COA; ETOH)	(CPD-19958; CO-A)	-	-
+RXN-10938	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9982; ENZRXN6X-6279; ENZRXN6X-5034; ENZRXN6X-5033; ENZRXN6X-5032; ENZRXN6X-4422; ENZRXN6X-1509; ENZRXN6X-231	(1-PHOSPHATIDYL-1D-MYO-INOSITOL-35-BISPH; WATER)	(CPD-177; Pi)	-	-
+URIDINE-NUCLEOSIDASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6885; ENZRXN6X-3709	(URIDINE; WATER)	(D-Ribofuranose=(CPD-10330; CPD0-1108); URACIL)	-	-
+RXN-9531	Protein-Modification-Reactions	3-oxo-dodecanoyl-[acyl-carrier protein] synthase	-	(Decanoyl-ACPs; MALONYL-ACP; PROTON)	(3-oxo-dodecanoyl-ACPs; CARBON-DIOXIDE; ACP)	-	-
+RXN-11467	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-12449; NADP)	(P-COUMAROYL-COA; NADPH; PROTON)	-	-
+RXN-12297	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9958; ENZRXN6X-9721; ENZRXN6X-1286; ENZRXN6X-1281	(CPD-13229; NADP)	(CPD-13228; NADPH; PROTON)	-	-
+RXN-10972	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5630; ENZRXN6X-1598	(ATP; MI-HEXAKISPHOSPHATE)	(ADP; CPD-11700)	-	-
+DUTP-PYROP-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-1561	(DUTP; WATER)	(PROTON; DUMP; PPI)	-	-
+RXN0-5055	Protein-Modification-Reactions	-	-	(ACETYL-COA; carboxybiotin-L-lysine-in-BCCP-dimers)	(MALONYL-COA; biotin-L-lysine-in-BCCP-dimers)	-	-
+RXN-9624	Chemical-Reactions; Small-Molecule-Reactions	-	-	(STEAROYL-COA; WATER)	(PROTON; STEARIC_ACID; CO-A)	-	-
+GPH-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9358; ENZRXN6X-3210	(WATER; CPD-67)	(GLYCOLLATE; Pi)	-	-
+RXN-8318	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4266	(CPD-8086; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-2185; WATER; Oxidized-ferredoxins)	-	-
+RXN-12157	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-17633; NADP; WATER)	(CPD-14775; NADPH; PROTON)	-	-
+UDPREDUCT-RXN	Protein-Modification-Reactions	-	-	(DUDP; Ox-Thioredoxin; WATER)	(UDP; Red-Thioredoxin)	-	-
+RXN-16407	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-17638; MALONYL-COA; PROTON)	(CPD-17645; CARBON-DIOXIDE; CO-A)	-	-
+RXN-8301	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8080; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-2190; WATER; Oxidized-ferredoxins)	-	-
+RXN4FS-1	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CDP-N-METHYLETHANOLAMIN; DIACYLGLYCEROL=(CPD-13040; CPD-17375))	(CPD-405; CMP; PROTON)	-	-
+MALATE-DEHYDROGENASE-NADP+-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3702	(MAL; NADP)	(PROTON; NADPH; OXALACETIC_ACID)	-	-
+PHOSPHORIBULOKINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10165; ENZRXN6X-2934	(RIBULOSE-5P; ATP)	(PROTON; D-RIBULOSE-15-P2; ADP)	-	-
+RXN-10749	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5932; ENZRXN6X-2286	(FERULOYL-COA; 16-HYDROXYPALMITATE)	(CO-A; CPD-11591)	-	-
+RXN-15282	Protein-Modification-Reactions	3-oxo-hexadecanoyl-ACP hydrolase	ENZRXN6X-3044; ENZRXN6X-3041; ENZRXN6X-1568	(3-oxo-palmitoyl-ACPs; WATER)	(CPD-16497; ACP; PROTON)	-	-
+RXN-14188	Chemical-Reactions; Small-Molecule-Reactions	-	-	(5-HYDROXY-CTP; WATER)	(CPD-15158; PPI; PROTON)	-	-
+RXN-8305	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8075; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-2189; WATER; Oxidized-ferredoxins)	-	-
+2.7.1.152-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5628; ENZRXN6X-1596	(MI-HEXAKISPHOSPHATE; ATP)	(5-DIPHOSPHO-1D-MYO-INOSITOL-12346P; ADP)	-	-
+UDP-GLUCOSE-46-DEHYDRATASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-12575)	(WATER; CPD-663)	-	-
+RXN-16405	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-17641; NADPH; PROTON)	(CPD-17643; CO-A; NADP)	-	-
+RXN-4661	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10686; ENZRXN6X-4565	(CPD-4210; WATER; FAD; PROTON)	(ADENINE; CPD-4483; FADH2)	-	-
+TYROSINE-AMINOTRANSFERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10528; ENZRXN6X-4605; ENZRXN6X-4602; ENZRXN6X-4599; ENZRXN6X-4596; ENZRXN6X-2357; ENZRXN6X-2354	(TYR; 2-KETOGLUTARATE)	(P-HYDROXY-PHENYLPYRUVATE; GLT)	-	-
+DIACYLGLYKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9970; ENZRXN6X-9698; ENZRXN6X-8981; ENZRXN6X-8239; ENZRXN6X-8238; ENZRXN6X-7951; ENZRXN6X-7210; ENZRXN6X-7209; ENZRXN6X-7208; ENZRXN6X-7207; ENZRXN6X-7206; ENZRXN6X-7205; ENZRXN6X-5987; ENZRXN6X-5986; ENZRXN6X-5985; ENZRXN6X-5646; ENZRXN6X-4272; ENZRXN6X-4271; ENZRXN6X-4270; ENZRXN6X-4269; ENZRXN6X-4154; ENZRXN6X-2809; ENZRXN6X-2808; ENZRXN6X-752; ENZRXN6X-751; ENZRXN6X-750; ENZRXN6X-81	(ATP; DIACYLGLYCEROL=(CPD-13040; CPD-17375))	(PROTON; L-PHOSPHATIDATE=(CPD-17373); ADP)	-	-
+ALLYL-ALCOHOL-DEHYDROGENASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ALLYL-ALCOHOL; NADP)	(ACROLEIN; NADPH; PROTON)	-	-
+PEPCARBOX-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10644; ENZRXN6X-9284; ENZRXN6X-6616; ENZRXN6X-5576; ENZRXN6X-5575; ENZRXN6X-4782; ENZRXN6X-4524; ENZRXN6X-4082; ENZRXN6X-4081	(Pi; OXALACETIC_ACID)	(PHOSPHO-ENOL-PYRUVATE; HCO3)	-	-
+RXN-12186	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4378	(DODECANOATE; Red-NADPH-Hemoprotein-Reductases; OXYGEN-MOLECULE)	(CPD-17637; Ox-NADPH-Hemoprotein-Reductases; WATER)	-	-
+RXN-5682	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6615; ENZRXN6X-6614	(CPD-659; NADP)	(TYR; CARBON-DIOXIDE; NADPH)	-	-
+DEOXYADENOSINE-KINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9644; ENZRXN6X-7552; ENZRXN6X-5829	(DEOXYADENOSINE; ATP)	(PROTON; DAMP; ADP)	-	-
+RXN-16635	Chemical-Reactions; Small-Molecule-Reactions	-	-	(D-Galactosyl-12-diacyl-glycerols); CPD-10364)	(Tetragalactosyldiacylglycerol; DIACYLGLYCEROL=(CPD-13040; CPD-17375))	-	-
+RXN-8319	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4267	(CPD-8087; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-2186; WATER; Oxidized-ferredoxins)	-	-
+3PGAREARR-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10096; ENZRXN6X-7261; ENZRXN6X-5707; ENZRXN6X-555	(2-PG)	(G3P)	-	-
+BETA-UREIDOPROPIONASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8823	(3-UREIDO-PROPIONATE; WATER; PROTON)	(B-ALANINE; AMMONIUM; CARBON-DIOXIDE)	-	-
+RXN-9549	Protein-Modification-Reactions	-	ENZRXN6X-5716	(Palmitoyl-ACPs; WATER)	(PALMITATE; ACP; PROTON)	-	-
+RXN-12293	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5554; ENZRXN6X-4050	(CPD-8847; NADPH; PROTON)	(MEK; NADP)	-	-
+RXN-9804	Chemical-Reactions; Small-Molecule-Reactions	-	-	(OLEATE-CPD; A-LIPID-HYDROPEROXIDE)	(CPD-10514; Lipid-hydroxy-fatty-acids)	-	-
+TRANS-RXN-400	Small-Molecule-Reactions; Transport-Reactions	-	-	(PHOSPHO-ENOL-PYRUVATE)	(PHOSPHO-ENOL-PYRUVATE)	-	-
+GALACTURONOKINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-2908	(D-Galactopyranuronate=(CPD-12523; CPD-12524; CPD-23305); ATP)	(PROTON; CPD-501; ADP)	-	-
+RXN-7903	Protein-Modification-Reactions	-	ENZRXN6X-10463; ENZRXN6X-8951; ENZRXN6X-6940; ENZRXN6X-5920; ENZRXN6X-5845; ENZRXN6X-5844; ENZRXN6X-4245; ENZRXN6X-3512; ENZRXN6X-1093; ENZRXN6X-1092; ENZRXN6X-1091; ENZRXN6X-1087; ENZRXN6X-1086; ENZRXN6X-1040; ENZRXN6X-1013; ENZRXN6X-704	(Stearoyl-ACPs; Reduced-ferredoxins; OXYGEN-MOLECULE; PROTON)	(Oleoyl-ACPs; Oxidized-ferredoxins; WATER)	-	-
+RXN-8361	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8158; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-8159; WATER; FERRICYTOCHROME-B5)	-	-
+DIHYDROXYISOVALDEHYDRAT-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-3706	(CPD-13357)	(2-KETO-ISOVALERATE; WATER)	-	-
+RXN0-724	Protein-Modification-Reactions	-	-	(FORMATE; UTP; PROTON)	(DUTP; CARBON-DIOXIDE; WATER)	-	-
+1.18.1.2-RXN	Electron-Transfer-Reactions; Protein-Modification-Reactions	-	-	(NADP; PROTON; Reduced-ferredoxins)	(Oxidized-ferredoxins; NADPH)	-	RXN-19772; RXN-15468
+NARINGENIN-3-DIOXYGENASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(NARINGENIN-CMPD; 2-KETOGLUTARATE; OXYGEN-MOLECULE)	(DIHYDROKAEMPFEROL-CMPD; SUC; CARBON-DIOXIDE)	Flavonone 3-hydroxylase; Naringenin,2-oxoglutarate 3-dioxygenase	-
+RXN18C3-61	Chemical-Reactions; Small-Molecule-Reactions	acibenzolar-<i>S</i>-methyl esterase	-	(CPD-19219; WATER)	(CPD-19221; METOH)	-	-
+2TRANSKETO-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6140; ENZRXN6X-6137; ENZRXN6X-3609; ENZRXN6X-3607	(ERYTHROSE-4P; XYLULOSE-5-PHOSPHATE)	(FRUCTOSE-6P; GAP)	-	-
+RXN-1022	Small-Molecule-Reactions; Unknown-Conversions	-	ENZRXN6X-4574	(Alkanes=(Short-Chain-Alkanes; Very-Long-Chain-Alkanes))	(Secondary-Alcohols)	-	-
+RXN-11465	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5501; ENZRXN6X-5394; ENZRXN6X-5393	(CPD-12575; PHLORETIN)	(CPD-12447; UDP)	-	-
+THIOESTER-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Saturated-Fatty-Acyl-CoA=(Very-long-Chain-234-Saturated-acyl-CoAs); WATER)	(CPD66-39); CO-A; PROTON)	-	-
+RXN-9661	Protein-Modification-Reactions	<i>trans</i> dodec-2-enoyl-[acp] reductase	-	(Dodecanoyl-ACPs; NAD)	(Dodec-2-enoyl-ACPs; NADH; PROTON)	-	-
+SPERMINE-SYNTHASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10576; ENZRXN6X-9089; ENZRXN6X-6504; ENZRXN6X-6503; ENZRXN6X-3803	(SPERMIDINE; S-ADENOSYLMETHIONINAMINE)	(PROTON; SPERMINE; 5-METHYLTHIOADENOSINE)	-	-
+RXN-4641	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-4207; WATER; FAD; PROTON)	(ADENOSINE; PRENAL; FADH2)	-	-
+L-ARABINOKINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10844; ENZRXN6X-9735; ENZRXN6X-6994; ENZRXN6X-6993; ENZRXN6X-6992	(BETA-L-ARABINOSE; ATP)	(CPD-1825; ADP; PROTON)	-	-
+DIHYDROPYRIMIDINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10089; ENZRXN6X-5710; ENZRXN6X-5709; ENZRXN6X-5691	(WATER; DI-H-URACIL)	(PROTON; 3-UREIDO-PROPIONATE)	-	-
+RXN-7798	Chemical-Reactions; Small-Molecule-Reactions	ceramide II desaturase	ENZRXN6X-9254	(C18-Phytoceramides; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(4-Hydroxysphing-8E-enine-ceramides; FERRICYTOCHROME-B5; WATER)	-	-
+RXN-7631	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-6978; Red-NADPH-Hemoprotein-Reductases; OXYGEN-MOLECULE)	(CPD-6981; Ox-NADPH-Hemoprotein-Reductases; WATER)	-	-
+DADPKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ATP; DADP)	(ADP; DATP)	-	-
+RXN-9537	Protein-Modification-Reactions	-	-	(R-3-hydroxymyristoyl-ACPs)	(Tetradec-2-enoyl-ACPs; WATER)	(3<i>R</i>)-hydroxymyristoyl-ACP dehydratase	-
+PROPCOASYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PROPIONYL-COA; ETF-Oxidized; PROTON)	(ACRYLYL-COA; ETF-Reduced)	-	-
+DGDPKIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ATP; DGDP)	(ADP; DGTP)	-	-
+RXN-8309	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8078; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-2190; WATER; Oxidized-ferredoxins)	-	-
+2OXOGLUTARATEDEH-RXN	Composite-Reactions; Small-Molecule-Reactions	2-oxoglutarate dehydrogenase complex	-	(2-KETOGLUTARATE; CO-A; NAD)	(SUC-COA; CARBON-DIOXIDE; NADH)	2-oxoglutarate dehydrogenation; &alpha;-ketoglutarate oxidative decarboxylation	2OXOGLUTDECARB-RXN; RXN0-1147; RXN-7716
+RXN-11409	Chemical-Reactions; Small-Molecule-Reactions	-	-	(GTP; CPD-12377)	(CPD-12366; WATER)	-	-
+PROPIONATE--COA-LIGASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9211	(CO-A; PROPIONATE; ATP)	(PROPIONYL-COA; PPI; AMP)	-	-
+RXN-7952	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9198; ENZRXN6X-8321; ENZRXN6X-8157; ENZRXN6X-5426; ENZRXN6X-5293; ENZRXN6X-5016; ENZRXN6X-4540; ENZRXN6X-3437; ENZRXN6X-1661; ENZRXN6X-664; ENZRXN6X-222	(CPD-409; WATER)	(GLYCEROL; Fatty-Acids=(Cutin-Monomers); PROTON)	-	-
+RXN-9803	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-10512; NADP; WATER)	(CPD-10511; NADPH; PROTON)	-	-
+ETHANOLAMINEPHOSPHOTRANSFERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10911; ENZRXN6X-9097; ENZRXN6X-6293	(DIACYLGLYCEROL=(CPD-13040; CPD-17375); CDP-ETHANOLAMINE)	(L-1-PHOSPHATIDYL-ETHANOLAMINE=(CPD-160; CPD-405); CMP; PROTON)	-	-
+UDP-ARABINOSE-4-EPIMERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9787; ENZRXN6X-2871; ENZRXN6X-499; ENZRXN6X-498	(CPD-12513)	(UDP-D-XYLOSE)	-	-
+RXN-7711	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4701	(Very-long-Chain-234-Saturated-acyl-CoAs; NADP)	(Very-Long-Chain-Trans-23-Dehydroacyl-CoA; NADPH; PROTON)	-	-
+1-PHOSPHATIDYLINOSITOL-KINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10547; ENZRXN6X-10546; ENZRXN6X-9024; ENZRXN6X-7933; ENZRXN6X-6575; ENZRXN6X-6574; ENZRXN6X-6573; ENZRXN6X-6572; ENZRXN6X-6571; ENZRXN6X-6570; ENZRXN6X-6569; ENZRXN6X-6568; ENZRXN6X-6530; ENZRXN6X-6529; ENZRXN6X-4877; ENZRXN6X-3867; ENZRXN6X-3866; ENZRXN6X-2724; ENZRXN6X-2723; ENZRXN6X-2722; ENZRXN6X-2721; ENZRXN6X-2720; ENZRXN6X-2421; ENZRXN6X-2186; ENZRXN6X-1640	(L-1-phosphatidyl-inositols=(CPD-452; CPD-1113); ATP)	(CPD-1108; ADP; PROTON)	-	-
+RXN-8364	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8161; OXYGEN-MOLECULE; Donor-H2)	(CPD-8162; WATER; Acceptor)	-	-
+RXN-10462	Protein-Modification-Reactions	-	ENZRXN6X-10919; ENZRXN6X-8736; ENZRXN6X-7611; ENZRXN6X-7608; ENZRXN6X-7587; ENZRXN6X-7342; ENZRXN6X-7231; ENZRXN6X-5790; ENZRXN6X-5251; ENZRXN6X-4931; ENZRXN6X-4830; ENZRXN6X-4376; ENZRXN6X-4025; ENZRXN6X-2048; ENZRXN6X-1931; ENZRXN6X-1696; ENZRXN6X-1693; ENZRXN6X-1217; ENZRXN6X-1002; ENZRXN6X-962; ENZRXN6X-174	(ACYL-ACP; GLYCEROL-3P)	(ACYL-SN-GLYCEROL-3P=(CPD-17372); ACP)	-	-
+SERINE-C-PALMITOYLTRANSFERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5942; ENZRXN6X-2280; ENZRXN6X-408	(PALMITYL-COA; SER; PROTON)	(DEHYDROSPHINGANINE; CARBON-DIOXIDE; CO-A)	-	-
+RXN-11541	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10723; ENZRXN6X-10721; ENZRXN6X-8562; ENZRXN6X-8560; ENZRXN6X-8558; ENZRXN6X-8520; ENZRXN6X-7499; ENZRXN6X-6752; ENZRXN6X-6267; ENZRXN6X-6174; ENZRXN6X-5047; ENZRXN6X-4621; ENZRXN6X-650; ENZRXN6X-644; ENZRXN6X-642; ENZRXN6X-639	(CPD-697; OXYGEN-MOLECULE; Donor-H2)	(CPD-12501; WATER; Acceptor)	-	-
+N-CARBAMOYLPUTRESCINE-AMIDASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10429	(PROTON; CPD-597; WATER)	(PUTRESCINE; CARBON-DIOXIDE; AMMONIUM)	-	-
+LIPIDADISACCHARIDESYNTH-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5551; ENZRXN6X-5550	(BISOHMYR-GLUCOSAMINYL-1P; OH-MYRISTOYL)	(BISOHMYR-GLC; UDP; PROTON)	-	-
+RXN-9532	Protein-Modification-Reactions	3-oxo-dodecanoyl-[acyl-carrier protein] reductase	-	(R-3-hydroxydodecanoyl-ACPs; NADP)	(3-oxo-dodecanoyl-ACPs; NADPH; PROTON)	-	-
+2PGADEHYDRAT-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9763; ENZRXN6X-9762; ENZRXN6X-9223; ENZRXN6X-7355; ENZRXN6X-6566; ENZRXN6X-6142; ENZRXN6X-6141; ENZRXN6X-3668; ENZRXN6X-3667; ENZRXN6X-3666; ENZRXN6X-427	(2-PG)	(PHOSPHO-ENOL-PYRUVATE; WATER)	-	-
+PREPHENATE-TRANSAMINE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-659; 2-KETOGLUTARATE)	(PREPHENATE; GLT)	-	-
+RXN-9245	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-5094; ENZRXN6X-4789; ENZRXN6X-3974	(CPD-6481; ACET; NADP)	(CPD-9875; NADPH)	-	-
+RXN0-5224	Chemical-Reactions; Small-Molecule-Reactions	-	-	(HCO3; PROTON)	(CARBON-DIOXIDE; WATER)	-	-
+SEDOBISALDOL-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(D-SEDOHEPTULOSE-1-7-P2)	(DIHYDROXY-ACETONE-PHOSPHATE; ERYTHROSE-4P)	-	-
+RXN-11750	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7622; ENZRXN6X-4700; ENZRXN6X-4699; ENZRXN6X-4698; ENZRXN6X-4697	(Very-Long-Chain-3-Hydroxyacyl-CoAs)	(Very-Long-Chain-Trans-23-Dehydroacyl-CoA; WATER)	-	-
+RXN-4735	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10784; ENZRXN6X-10714; ENZRXN6X-10712; ENZRXN6X-10709; ENZRXN6X-10560; ENZRXN6X-10265; ENZRXN6X-8588; ENZRXN6X-8504; ENZRXN6X-7997; ENZRXN6X-7995; ENZRXN6X-6314; ENZRXN6X-6311; ENZRXN6X-6308; ENZRXN6X-4618; ENZRXN6X-4616; ENZRXN6X-3515; ENZRXN6X-3175; ENZRXN6X-3174; ENZRXN6X-3121; ENZRXN6X-3118; ENZRXN6X-3115; ENZRXN6X-3019; ENZRXN6X-3018; ENZRXN6X-3017; ENZRXN6X-3016; ENZRXN6X-3015; ENZRXN6X-2307; ENZRXN6X-1665; ENZRXN6X-1503; ENZRXN6X-793; ENZRXN6X-771; ENZRXN6X-769; ENZRXN6X-767; ENZRXN6X-137	(CPD-12575; CPD-4441)	(CPD-4620; PROTON; UDP)	-	-
+RXN-9539	Protein-Modification-Reactions	3-oxo-palmitoyl-[acyl-carrier protein] synthase	-	(Myristoyl-ACPs; MALONYL-ACP; PROTON)	(3-oxo-palmitoyl-ACPs; CARBON-DIOXIDE; ACP)	-	-
+RXN-12204	Chemical-Reactions; Small-Molecule-Reactions	-	-	(6-Phosphogluco-Amylopectins; ATP; WATER)	(6-Phosphoglc-3-Phosphoglc-Amylopectins; AMP; Pi)	-	-
+RXN-9659	Protein-Modification-Reactions	<i>trans</i> oct-2-enoyl-[acp] reductase	-	(Octanoyl-ACPs; NAD)	(2-Octenoyl-ACPs; NADH; PROTON)	-	-
+RXN-9521	Protein-Modification-Reactions	<i>trans</i> hex-2-enoyl-[acp] reductase	-	(Hexanoyl-ACPs; NADP)	(Hex-2-enoyl-ACPs; NADPH; PROTON)	-	-
+CITSYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10745; ENZRXN6X-10744; ENZRXN6X-10659	(ACETYL-COA; WATER; OXALACETIC_ACID)	(CIT; CO-A; PROTON)	Condensing enzyme; citrate synthesis	-
+NARINGENIN-CHALCONE-SYNTHASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-2236; ENZRXN6X-2235; ENZRXN6X-2234; ENZRXN6X-2230; ENZRXN6X-2227; ENZRXN6X-1565; ENZRXN6X-1328	(PROTON; P-COUMAROYL-COA; MALONYL-COA)	(CPD-20012; CARBON-DIOXIDE; CO-A)	-	-
+3.1.2.21-RXN	Protein-Modification-Reactions	-	-	(Dodecanoyl-ACPs; WATER)	(ACP; DODECANOATE; PROTON)	-	-
+RXN-7698	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10330; ENZRXN6X-9442; ENZRXN6X-6477; ENZRXN6X-6476; ENZRXN6X-6475; ENZRXN6X-6316; ENZRXN6X-6117; ENZRXN6X-4687; ENZRXN6X-4686; ENZRXN6X-4685; ENZRXN6X-3566; ENZRXN6X-3565; ENZRXN6X-3564; ENZRXN6X-3228; ENZRXN6X-3227; ENZRXN6X-3226; ENZRXN6X-2508; ENZRXN6X-935; ENZRXN6X-934; ENZRXN6X-933; ENZRXN6X-58	(Very-Long-Chain-3-Hydroxyacyl-CoAs; NADP)	(Very-Long-Chain-oxoacyl-CoAs; NADPH; PROTON)	-	-
+RXN-12089	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10038; ENZRXN6X-5417; ENZRXN6X-4345; ENZRXN6X-3002; ENZRXN6X-2998; ENZRXN6X-2846; ENZRXN6X-2842; ENZRXN6X-2838; ENZRXN6X-2707; ENZRXN6X-2703; ENZRXN6X-885; ENZRXN6X-881; ENZRXN6X-877	(SPERMIDINE; OXYGEN-MOLECULE; WATER)	(PUTRESCINE; CPD-6082; HYDROGEN-PEROXIDE)	-	-
+ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-1752	(L-ASPARTATE-SEMIALDEHYDE; Pi; NADP)	(L-BETA-ASPARTYL-P; NADPH; PROTON)	-	-
+RXN-13142	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6756; ENZRXN6X-1191; ENZRXN6X-1187; ENZRXN6X-1183	(CPD-14133)	(CPD0-2474)	-	-
+RXN-9940	Chemical-Reactions; Small-Molecule-Reactions	-	-	(N1-ACETYLSPERMINE; OXYGEN-MOLECULE; WATER)	(SPERMIDINE; CPD-10687; HYDROGEN-PEROXIDE)	-	-
+RXN-11410	Chemical-Reactions; Small-Molecule-Reactions	-	-	(DGTP; CPD-12377)	(8-Oxo-dGTP; WATER)	-	-
+RXN-4725	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9149	(CPD-12575; CPD-332)	(PROTON; CPD-4616; UDP)	-	-
+2.3.1.180-RXN	Protein-Modification-Reactions	-	ENZRXN6X-2790	(ACETYL-COA; MALONYL-ACP; PROTON)	(Acetoacetyl-ACPs; CO-A; CARBON-DIOXIDE)	-	-
+TRANS-RXN-399	Small-Molecule-Reactions; Transport-Reactions	L-alanine translocation	-	(L-ALPHA-ALANINE)	(L-ALPHA-ALANINE)	-	-
+RXN-4941	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-1107; ATP)	(DIPHOSPHO-1D-MYO-INOSITOL-TETRAKISPHOSPH; ADP)	-	-
+RXN-9536	Protein-Modification-Reactions	3-oxo-meristoyl-[acyl-carrier protein] reductase	-	(R-3-hydroxymyristoyl-ACPs; NADP)	(3-oxo-myristoyl-ACPs; NADPH; PROTON)	-	-
+CINNAMATE-GLUCOSYLTRANSFERASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7389; ENZRXN6X-7380; ENZRXN6X-7371; ENZRXN6X-5267; ENZRXN6X-4675; ENZRXN6X-2394; ENZRXN6X-2385; ENZRXN6X-787; ENZRXN6X-778; ENZRXN6X-745; ENZRXN6X-736; ENZRXN6X-727; ENZRXN6X-718; ENZRXN6X-709; ENZRXN6X-303	(CPD-12575; CPD-674)	(UDP; TRANS-CINNAMOYL-BETA-D-GLUCOSE)	-	-
+2.6.1.18-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(MALONATE-S-ALD; L-ALPHA-ALANINE)	(B-ALANINE; PYRUVATE)	-	-
+ACETOOHBUTSYN-RXN	Chemical-Reactions; Small-Molecule-Reactions	2-aceto-2-hydroxy-butyrate synthase	-	(PROTON; PYRUVATE; 2-OXOBUTANOATE)	(2-ACETO-2-HYDROXY-BUTYRATE; CARBON-DIOXIDE)	-	-
+RXN-7628	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-6976; Red-NADPH-Hemoprotein-Reductases; OXYGEN-MOLECULE)	(CPD-6979; Ox-NADPH-Hemoprotein-Reductases; WATER)	-	-
+RXN-9662	Protein-Modification-Reactions	<i>trans</i> tetradec-2-enoyl-[acp] reductase	-	(Myristoyl-ACPs; NAD)	(Tetradec-2-enoyl-ACPs; NADH; PROTON)	-	-
+RXN-9557	Protein-Modification-Reactions	3-hydroxy-cis-vaccenoyl-[acyl-carrier protein] dehydratase	-	(R-3-hydroxy-cis-vaccenoyl-ACPs)	(cis-vaccen-2-enoyl-ACPs; WATER)	-	-
+RXN-7633	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-4404	(CPD-6982; CAFFEOYL-COA)	(CPD-6981; CO-A)	-	-
+RXN-10875	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6298	(PAPS; CPD-697)	(3-5-ADP; CPD-19794; PROTON)	-	-
+RXN-7793	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-12575; CPD3DJ-82=(Inositolphosphoryl-Ceramides; Plant-Ceramide-Phosphate; Alpha-hydroxydihydroceramides))	(Glucosyl-acyl-sphinganines; UDP; PROTON)	-	-
+PSERTRANSAM-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-159	(3-P-SERINE; 2-KETOGLUTARATE)	(GLT; 3-P-HYDROXYPYRUVATE)	-	-
+RXN-7401	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PROTON; CPD-1825; UTP)	(CPD-12513; PPI)	-	-
+RXN-8299	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-2189; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8078; WATER; Oxidized-ferredoxins)	-	-
+DEOXYGUANOSINE-KINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9646; ENZRXN6X-7554; ENZRXN6X-5831	(DEOXYGUANOSINE; ATP)	(PROTON; DGMP; ADP)	-	-
+RXN-16393	Chemical-Reactions; Small-Molecule-Reactions	-	-	(DODECANOATE; CO-A; ATP)	(LAUROYLCOA-CPD; PPI; AMP)	-	-
+RXN-22408	Electron-Transfer-Reactions; Protein-Modification-Reactions	-	-	(Reduced-ferredoxins; PROTON; PLASTOQUINONE)	(PROTON; Oxidized-ferredoxins; Plastoquinols=(CPD-12829))	-	TRANS-RXN-395; RXN-15468; RXN-15447
+RXN-4734	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9157	(CPD-12575; CPD-4441)	(PROTON; CPD-4619; UDP)	-	-
+RIB5PISOM-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-9710; ENZRXN6X-7604; ENZRXN6X-5093; ENZRXN6X-3559; ENZRXN6X-1802	(RIBOSE-5P=(CPD-15317; CPD-15895))	(RIBULOSE-5P)	-	-
+RXN-15281	Protein-Modification-Reactions	-	ENZRXN6X-3043; ENZRXN6X-3040; ENZRXN6X-1567	(3-oxo-dodecanoyl-ACPs; WATER)	(3-OXODODECANOATE; ACP; PROTON)	-	-
+RXN-2981	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-6949; ENZRXN6X-2545	(INDOLE-3-ACETYL-ALA; WATER)	(INDOLE_ACETATE_AUXIN; L-ALPHA-ALANINE)	-	-
+RXN-20457	Chemical-Reactions; Small-Molecule-Reactions	-	-	(NADPH; WATER)	(CPD0-2474)	-	-
+PHOSPHOLIPASE-A1-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10245; ENZRXN6X-10239; ENZRXN6X-9112; ENZRXN6X-9110; ENZRXN6X-8947; ENZRXN6X-8946; ENZRXN6X-8747; ENZRXN6X-8746; ENZRXN6X-8461; ENZRXN6X-8158; ENZRXN6X-8153; ENZRXN6X-7869; ENZRXN6X-7868; ENZRXN6X-7557; ENZRXN6X-7505; ENZRXN6X-7471; ENZRXN6X-7444; ENZRXN6X-6031; ENZRXN6X-6028; ENZRXN6X-5974; ENZRXN6X-5882; ENZRXN6X-5881; ENZRXN6X-5826; ENZRXN6X-5422; ENZRXN6X-5296; ENZRXN6X-5289; ENZRXN6X-5287; ENZRXN6X-4569; ENZRXN6X-4412; ENZRXN6X-4411; ENZRXN6X-4342; ENZRXN6X-3516; ENZRXN6X-2877; ENZRXN6X-2876; ENZRXN6X-2875; ENZRXN6X-2449; ENZRXN6X-2446; ENZRXN6X-2071; ENZRXN6X-972	(PHOSPHATIDYLCHOLINE); WATER)	(2-Acylglycero-Phosphocholines; Fatty-Acids=(Cutin-Monomers); PROTON)	-	-
+RXN-9534	Protein-Modification-Reactions	<i>trans</i> dodec-2-enoyl-[acyl-carrier protein] reductase	-	(Dodecanoyl-ACPs; NADP)	(Dodec-2-enoyl-ACPs; NADPH; PROTON)	-	-
+RXN-1602	Chemical-Reactions; Small-Molecule-Reactions	-	-	(DIACYLGLYCEROL=(CPD-13040; CPD-17375); WATER)	(CPD-409; Fatty-Acids=(Cutin-Monomers); PROTON)	-	-
+RXN-7652	Chemical-Reactions; Small-Molecule-Reactions	naringenin 3'-hydroxylase	-	(NARINGENIN-CMPD; OXYGEN-MOLECULE; Red-NADPH-Hemoprotein-Reductases)	(CPD-6994; Ox-NADPH-Hemoprotein-Reductases; WATER; PROTON)	-	-
+RXN-6423	Chemical-Reactions; Small-Molecule-Reactions	-	-	(4-AMINO-BUTYRALDEHYDE)	(CPD-6124; WATER)	-	-
+RXN-14971	Electron-Transfer-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10878; ENZRXN6X-9227; ENZRXN6X-6108; ENZRXN6X-4406; ENZRXN6X-4385; ENZRXN6X-3639; ENZRXN6X-1790; ENZRXN6X-1789	(ETR-Quinones=(Rhodoquinones; PLASTOQUINONE); SUC)	(ETR-Quinols=(Rhodoquinols; CPD-12831); FUM)	-	RXN0-5259; RXN0-5245
+RXN-16408	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-17638; NADPH; PROTON)	(CPD-17647; CO-A; NADP)	-	-
+RXN-9540	Protein-Modification-Reactions	3-oxo-palmitoyl-[acyl-carrier protein] reductase	-	(R-3-Hydroxypalmitoyl-ACPs; NADP)	(3-oxo-palmitoyl-ACPs; NADPH; PROTON)	-	-
+RXN-12091	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10040; ENZRXN6X-5419; ENZRXN6X-4347; ENZRXN6X-3004; ENZRXN6X-3000; ENZRXN6X-2848; ENZRXN6X-2844; ENZRXN6X-2840; ENZRXN6X-2709; ENZRXN6X-2705; ENZRXN6X-887; ENZRXN6X-883; ENZRXN6X-879	(CPD-568; OXYGEN-MOLECULE; WATER)	(PUTRESCINE; CPD-10687; HYDROGEN-PEROXIDE)	-	-
+RXN-2622	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CAFFEOYLQUINATE; CO-A)	(CAFFEOYL-COA; QUINATE)	-	-
+RXN-9779	Chemical-Reactions; Small-Molecule-Reactions	-	-	(PHOSPHATIDYL-MYO-INOSITOL-45-BISPHOSPHA; WATER)	(1-PHOSPHATIDYL-1D-MYO-INOSITOL-5-PHOSPHA; Pi)	-	-
+ENOYL-ACP-REDUCT-NADPH-RXN	Protein-Modification-Reactions	2,3,4-saturated fatty acyl-[acp] dehydrogenase	ENZRXN6X-8422	(Saturated-Fatty-Acyl-ACPs; NADP)	(NADPH; TRANS-D2-ENOYL-ACP; PROTON)	-	-
+RXN-8360	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8157; OXYGEN-MOLECULE; FERROCYTOCHROME-B5; PROTON)	(CPD-8158; WATER; FERRICYTOCHROME-B5)	-	-
+URACIL-PRIBOSYLTRANS-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8956; ENZRXN6X-7602; ENZRXN6X-7601; ENZRXN6X-7090; ENZRXN6X-7088; ENZRXN6X-7086; ENZRXN6X-3786	(PPI; UMP)	(PRPP; URACIL)	-	-
+TYROSINE-3-MONOOXYGENASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(TYR; 5678-TETRAHYDROPTERIDINE=(TETRA-H-BIOPTERIN); OXYGEN-MOLECULE)	(L-DIHYDROXY-PHENYLALANINE; 4a-Hydroxytetrahydroopteridines=(CPD-5881))	-	-
+RXN0-1133	Protein-Modification-Reactions	-	ENZRXN6X-10974; ENZRXN6X-9171; ENZRXN6X-8271; ENZRXN6X-4656; ENZRXN6X-3976; ENZRXN6X-1878; ENZRXN6X-1877	(ACETYL-COA; Pyruvate-dehydrogenase-dihydrolipoate)	(CO-A; Pyruvate-dehydrogenase-acetylDHlipoyl)	-	-
+GLYCPDIESTER-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10761; ENZRXN6X-10455; ENZRXN6X-10345; ENZRXN6X-10013; ENZRXN6X-8620; ENZRXN6X-8619; ENZRXN6X-7807; ENZRXN6X-6826; ENZRXN6X-6825; ENZRXN6X-5588; ENZRXN6X-5373; ENZRXN6X-5371; ENZRXN6X-3831; ENZRXN6X-3781; ENZRXN6X-3489; ENZRXN6X-3488; ENZRXN6X-3256; ENZRXN6X-3255; ENZRXN6X-3254; ENZRXN6X-2459; ENZRXN6X-1480	(Glycerophosphodiesters=(L-1-GLYCERO-PHOSPHORYLCHOLINE); WATER)	(Alcohols=(CPD-21112; Secondary-Alcohols; CIS-3-HEXENOL; TRANS-2-HEXENOL; CPD-8692; CPD-8691); GLYCEROL-3P; PROTON)	-	-
+RXN-9658	Protein-Modification-Reactions	<i>trans</i> hex-2-enoyl-[acp]-reductase	-	(Hexanoyl-ACPs; NAD)	(Hex-2-enoyl-ACPs; NADH; PROTON)	-	-
+RXN-12384	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Linear-Malto-Oligosaccharides=(MALTOTRIOSE); WATER)	(Linear-Malto-Oligosaccharides=(MALTOTRIOSE); MALTOSE=(CPD-15717))	-	-
+TETRAACYLDISACC4KIN-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7181	(BISOHMYR-GLC; ATP)	(LIPID-IV-A; ADP; PROTON)	-	-
+3-DEHYDROQUINATE-DEHYDRATASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	-	(DEHYDROQUINATE)	(WATER; 3-DEHYDRO-SHIKIMATE)	-	-
+CHORISMATEMUT-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-10773; ENZRXN6X-5591; ENZRXN6X-3947	(CHORISMATE)	(PREPHENATE)	-	-
+RXN-16403	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-17621; NADPH; PROTON)	(CPD-17642; CO-A; NADP)	-	-
+RXN-15121	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-15056)	(CPD-16013)	-	-
+RXN-8314	Chemical-Reactions; Small-Molecule-Reactions	-	-	(CPD-8083; OXYGEN-MOLECULE; Reduced-ferredoxins; PROTON)	(CPD-8081; WATER; Oxidized-ferredoxins)	-	-
+1-PHOSPHATIDYLINOSITOL-3-KINASE-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7661; ENZRXN6X-4172; ENZRXN6X-4171; ENZRXN6X-4170; ENZRXN6X-4169; ENZRXN6X-4168; ENZRXN6X-4116; ENZRXN6X-4115; ENZRXN6X-2591	(L-1-phosphatidyl-inositols=(CPD-452; CPD-1113); ATP)	(CPD-177; ADP; PROTON)	-	-
+RXN-2581	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-7666; ENZRXN6X-5676; ENZRXN6X-1155	(CPD-412; Red-NADPH-Hemoprotein-Reductases; OXYGEN-MOLECULE)	(CAFFEOYLSHIKIMATE; Ox-NADPH-Hemoprotein-Reductases; WATER)	-	-
+RXN-16997	Chemical-Reactions; Small-Molecule-Reactions	-	-	(Phosphorylated-phosphoglucomutase; GLC-1-P)	(ALPHA-GLUCOSE-16-BISPHOSPHATE; Phosphoglucomutase)	-	-
+RXN-16998	Chemical-Reactions; Small-Molecule-Reactions	-	-	(ALPHA-GLUCOSE-16-BISPHOSPHATE; Phosphoglucomutase)	(D-glucopyranose-6-phosphate=(ALPHA-GLC-6-P; GLC-6-P); Phosphorylated-phosphoglucomutase)	-	-
+OXALODECARB-RXN	Chemical-Reactions; Small-Molecule-Reactions	-	ENZRXN6X-8448; ENZRXN6X-5045; ENZRXN6X-4684; ENZRXN6X-4683; ENZRXN6X-4682; ENZRXN6X-1937; ENZRXN6X-1935; ENZRXN6X-1052; ENZRXN6X-1050	(OXALACETIC_ACID; PROTON)	(PYRUVATE; CARBON-DIOXIDE)	-	-
+RXN-15490	Light-Interactions	-	-	-	(Light)	-	-
+RXN-15447	Redox-Half-Reactions	-	-	(PLASTOQUINONE; E-; PROTON)	(Plastoquinols=(CPD-12829))	-	-
+RXN0-5265	Redox-Half-Reactions	-	-	(OXYGEN-MOLECULE; PROTON; E-)	(WATER)	-	-
+RXN-12583	Chemical-Reactions; Small-Molecule-Reactions	pyruvate:thiamin diphosphate acetaldehydetransferase (decarboxylating)	-	(PROTON; PYRUVATE; THIAMINE-PYROPHOSPHATE)	(2-ALPHA-HYDROXYETHYL-THPP; CARBON-DIOXIDE)	-	-
+RXN-12508	Chemical-Reactions; Small-Molecule-Reactions	2-(&alpha;-hydroxyethyl)-TPP:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine acetyltransferase	-	(2-ALPHA-HYDROXYETHYL-THPP; Pyruvate-dehydrogenase-lipoate)	(Pyruvate-dehydrogenase-acetylDHlipoyl; THIAMINE-PYROPHOSPHATE)	-	-
+RXN-12647	Redox-Half-Reactions	-	-	(Oxidized-Plastocyanins; E-)	(Plastocyanin-Reduced)	-	-
+RXN-15468	Redox-Half-Reactions	-	-	(Oxidized-ferredoxins; E-)	(Reduced-ferredoxins)	-	-
+RXN0-7192	Protein-Modification-Reactions	-	-	(BIOTIN; ATP; PROTON)	(BIO-5-AMP; PPI)	-	-
+RXN-22002	Protein-Modification-Reactions	-	-	(BCCP-L-lysine; BIO-5-AMP)	(BCCP-biotin-L-lysine; AMP; PROTON)	-	-
+RXN0-5259	Redox-Half-Reactions	-	-	(ETR-Quinones=(Rhodoquinones; PLASTOQUINONE); PROTON; E-)	(ETR-Quinols=(Rhodoquinols; CPD-12831))	-	-
+RXN0-5257	Redox-Half-Reactions	-	-	(DIHYDROXY-ACETONE-PHOSPHATE; PROTON; E-)	(GLYCEROL-3P)	-	-
+RXN-15509	Protein-Modification-Reactions	-	-	(Protein-Histidines=(eEF-2-Histidines); 23-DIPHOSPHOGLYCERATE)	(Protein-pi-phospho-L-histidines; CPD-16758=(2-PG; G3P))	-	-
+RXN-15510	Protein-Modification-Reactions	-	-	(Protein-pi-phospho-L-histidines; 2-PG)	(Protein-Histidines=(eEF-2-Histidines); 23-DIPHOSPHOGLYCERATE)	-	-
+RXN-15511	Protein-Modification-Reactions	-	-	(Protein-Histidines=(eEF-2-Histidines); 23-DIPHOSPHOGLYCERATE)	(Protein-pi-phospho-L-histidines; G3P)	-	-
+RXN-15512	Protein-Modification-Reactions	-	-	(Protein-pi-phospho-L-histidines; CPD-16758=(2-PG; G3P))	(Protein-Histidines=(eEF-2-Histidines); 23-DIPHOSPHOGLYCERATE)	-	-
+GCVP-RXN	Protein-Modification-Reactions	-	ENZRXN6X-5432; ENZRXN6X-5431; ENZRXN6X-5430; ENZRXN6X-5429; ENZRXN6X-5428	(GLY; PROTEIN-LIPOYLLYSINE; PROTON)	(AMINOMETHYLDIHYDROLIPOYL-GCVH; CARBON-DIOXIDE)	-	-
+GCVT-RXN	Protein-Modification-Reactions	-	ENZRXN6X-2834	(AMINOMETHYLDIHYDROLIPOYL-GCVH; THF-GLU-N=(THF; CPD-1301))	(DIHYDROLIPOYL-GCVH; METHYLENE-THF-GLU-N; AMMONIUM)	-	-
+RXN-8629	Protein-Modification-Reactions	-	-	(DIHYDROLIPOYL-GCVH; NAD)	(PROTEIN-LIPOYLLYSINE; NADH; PROTON)	-	-
+RXN-15451	Redox-Half-Reactions	-	-	(PLASTOQUINONE; E-; PROTON)	(Plastoquinols=(CPD-12829); PROTON)	-	-
+RXN-19772	Redox-Half-Reactions	-	-	(NADP; PROTON; E-)	(NADPH)	-	-
+2OXOGLUTDECARB-RXN	Protein-Modification-Reactions	-	ENZRXN6X-8423; ENZRXN6X-5276; ENZRXN6X-3505; ENZRXN6X-3504; ENZRXN6X-3503; ENZRXN6X-3502; ENZRXN6X-3501; ENZRXN6X-3500	(2-KETOGLUTARATE; Oxo-glutarate-dehydrogenase-lipoyl; PROTON)	(Oxo-glutarate-dehydro-suc-DH-lipoyl; CARBON-DIOXIDE)	Oxoglutarate decarboxylase; 2-oxoglutarate decarboxylation	-
+RXN0-1147	Protein-Modification-Reactions	-	ENZRXN6X-10454; ENZRXN6X-3487	(SUC-COA; Oxo-glutarate-dehydrogenase-DH-lipoyl)	(CO-A; Oxo-glutarate-dehydro-suc-DH-lipoyl)	-	-
+RXN-7716	Protein-Modification-Reactions	-	-	(Oxo-glutarate-dehydrogenase-DH-lipoyl; NAD)	(Oxo-glutarate-dehydrogenase-lipoyl; NADH; PROTON)	-	-
+TRANS-RXN-395	Small-Molecule-Reactions; Transport-Reactions	-	-	(PROTON)	(PROTON)	-	-
+RXN0-5245	Redox-Half-Reactions	-	-	(FUM; PROTON; E-)	(SUC)	-	-

@@ -1,0 +1,3 @@
+[submodule "network-inference"]
+	path = network-inference
+	url = https://gitlab.lrz.de/lipitum/network-inference.git

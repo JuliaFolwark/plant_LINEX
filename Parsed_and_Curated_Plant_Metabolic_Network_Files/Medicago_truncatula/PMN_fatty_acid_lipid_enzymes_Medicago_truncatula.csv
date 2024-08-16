@@ -1,0 +1,1722 @@
+ID	Types	Enzyme_name	Common_name	Cofactors	Regulated-By	Reaction
+ENZRXN5F-7249	Enzymatic-Reactions	1-18:1-2-16:0-monogalactosyldiacylglycerol desaturase	-	-	RXN-1728	-
+ENZRXN5F-8138	Enzymatic-Reactions	UDP-glucose:kinetin 7-N-glucosyltransferase	-	-	RXN-4731	-
+ENZRXN5F-8125	Enzymatic-Reactions	UDP-glucose:kinetin 7-N-glucosyltransferase	-	-	RXN-4731	-
+ENZRXN5F-10759	Enzymatic-Reactions	sedoheptulose bisphosphatase	-	-	SEDOHEPTULOSE-BISPHOSPHATASE-RXN	-
+ENZRXN5F-8115	Enzymatic-Reactions	sedoheptulose bisphosphatase	-	-	SEDOHEPTULOSE-BISPHOSPHATASE-RXN	-
+ENZRXN5F-1690	Enzymatic-Reactions	sedoheptulose bisphosphatase	-	-	SEDOHEPTULOSE-BISPHOSPHATASE-RXN	-
+ENZRXN5F-11318	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11316	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11311	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11310	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11309	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11308	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11307	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11305	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11304	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11302	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11301	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11298	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11297	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11296	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-11152	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-10905	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-7196	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-3944	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-3943	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-3942	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-3941	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-3940	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-3939	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-3180	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-2756	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-2755	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-361	Enzymatic-Reactions	midchain alkane hydroxylase	-	-	RXN-1022	-
+ENZRXN5F-1486	Enzymatic-Reactions	malate dehydrogenase, NAD-requiring	-	-	1.1.1.39-RXN	-
+ENZRXN5F-1151	Enzymatic-Reactions	malate dehydrogenase, NAD-requiring	-	-	1.1.1.39-RXN	-
+ENZRXN5F-11029	Enzymatic-Reactions	caffeoyl-CoA <em>O</em>-methyltransferase	-	-	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	-
+ENZRXN5F-9315	Enzymatic-Reactions	caffeoyl-CoA <em>O</em>-methyltransferase	-	-	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	-
+ENZRXN5F-6258	Enzymatic-Reactions	caffeoyl-CoA <em>O</em>-methyltransferase	-	-	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	-
+ENZRXN5F-5976	Enzymatic-Reactions	caffeoyl-CoA <em>O</em>-methyltransferase	-	-	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	-
+ENZRXN5F-5975	Enzymatic-Reactions	caffeoyl-CoA <em>O</em>-methyltransferase	-	-	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	-
+ENZRXN5F-5965	Enzymatic-Reactions	caffeoyl-CoA <em>O</em>-methyltransferase	-	-	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	-
+ENZRXN5F-5961	Enzymatic-Reactions	caffeoyl-CoA <em>O</em>-methyltransferase	-	-	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	-
+ENZRXN5F-3111	Enzymatic-Reactions	caffeoyl-CoA <em>O</em>-methyltransferase	-	-	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	-
+ENZRXN5F-1299	Enzymatic-Reactions	caffeoyl-CoA <em>O</em>-methyltransferase	-	-	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	-
+ENZRXN5F-103	Enzymatic-Reactions	caffeoyl-CoA <em>O</em>-methyltransferase	-	-	CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	-
+ENZRXN5F-7876	Enzymatic-Reactions	UDP-glucuronate 4-epimerase	-	-	UDP-GLUCURONATE-4-EPIMERASE-RXN	-
+ENZRXN5F-7049	Enzymatic-Reactions	UDP-glucuronate 4-epimerase	-	-	UDP-GLUCURONATE-4-EPIMERASE-RXN	-
+ENZRXN5F-5875	Enzymatic-Reactions	UDP-glucuronate 4-epimerase	-	-	UDP-GLUCURONATE-4-EPIMERASE-RXN	-
+ENZRXN5F-5413	Enzymatic-Reactions	UDP-glucuronate 4-epimerase	-	-	UDP-GLUCURONATE-4-EPIMERASE-RXN	-
+ENZRXN5F-5147	Enzymatic-Reactions	UDP-glucuronate 4-epimerase	-	-	UDP-GLUCURONATE-4-EPIMERASE-RXN	-
+ENZRXN5F-2713	Enzymatic-Reactions	UDP-glucuronate 4-epimerase	-	-	UDP-GLUCURONATE-4-EPIMERASE-RXN	-
+ENZRXN5F-11355	Enzymatic-Reactions	propanoyl-CoA:ethanol <i>O</i>-propanoyltransferase	-	-	RXN-18670	-
+ENZRXN5F-11188	Enzymatic-Reactions	propanoyl-CoA:ethanol <i>O</i>-propanoyltransferase	-	-	RXN-18670	-
+ENZRXN5F-8099	Enzymatic-Reactions	propanoyl-CoA:ethanol <i>O</i>-propanoyltransferase	-	-	RXN-18670	-
+ENZRXN5F-7401	Enzymatic-Reactions	propanoyl-CoA:ethanol <i>O</i>-propanoyltransferase	-	-	RXN-18670	-
+ENZRXN-12834	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-8572	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-8571	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-7319	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-7314	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-7313	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-6851	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-2736	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-1361	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-1359	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-1358	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-1356	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-1355	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-1353	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-1351	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-1349	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-1347	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-1346	Enzymatic-Reactions	&beta;-amyrin synthase	-	-	RXN-7570	-
+ENZRXN5F-4157	Enzymatic-Reactions	dihydropyrimidinase	-	-	DIHYDROPYRIMIDINASE-RXN	-
+ENZRXN5F-4156	Enzymatic-Reactions	dihydropyrimidinase	-	-	DIHYDROPYRIMIDINASE-RXN	-
+ENZRXN5F-4155	Enzymatic-Reactions	dihydropyrimidinase	-	-	DIHYDROPYRIMIDINASE-RXN	-
+ENZRXN5F-8142	Enzymatic-Reactions	<i>trans</i>-zeatin-<i>O</i>-glucoside UDP glycosyltransferase	-	-	RXN-4736	-
+ENZRXN5F-8129	Enzymatic-Reactions	<i>trans</i>-zeatin-<i>O</i>-glucoside UDP glycosyltransferase	-	-	RXN-4736	-
+ENZRXN5F-6071	Enzymatic-Reactions	&beta;-ureidopropionase	-	-	BETA-UREIDOPROPIONASE-RXN	-
+ENZRXN5F-6070	Enzymatic-Reactions	&beta;-ureidopropionase	-	-	BETA-UREIDOPROPIONASE-RXN	-
+ENZRXN5F-11669	Enzymatic-Reactions	arabinose kinase	-	-	L-ARABINOKINASE-RXN	-
+ENZRXN5F-11558	Enzymatic-Reactions	serine palmitoyltransferase	-	-	SERINE-C-PALMITOYLTRANSFERASE-RXN	-
+ENZRXN5F-11557	Enzymatic-Reactions	serine palmitoyltransferase	-	-	SERINE-C-PALMITOYLTRANSFERASE-RXN	-
+ENZRXN5F-11556	Enzymatic-Reactions	serine palmitoyltransferase	-	-	SERINE-C-PALMITOYLTRANSFERASE-RXN	-
+ENZRXN5F-9019	Enzymatic-Reactions	serine palmitoyltransferase	-	-	SERINE-C-PALMITOYLTRANSFERASE-RXN	-
+ENZRXN5F-8414	Enzymatic-Reactions	serine palmitoyltransferase	-	-	SERINE-C-PALMITOYLTRANSFERASE-RXN	-
+ENZRXN5F-4534	Enzymatic-Reactions	serine palmitoyltransferase	-	-	SERINE-C-PALMITOYLTRANSFERASE-RXN	-
+ENZRXN5F-4385	Enzymatic-Reactions	serine palmitoyltransferase	-	-	SERINE-C-PALMITOYLTRANSFERASE-RXN	-
+ENZRXN5F-3614	Enzymatic-Reactions	serine palmitoyltransferase	-	-	SERINE-C-PALMITOYLTRANSFERASE-RXN	-
+ENZRXN5F-1360	Enzymatic-Reactions	&alpha;-amyrin synthase	-	-	RXN-8434	-
+ENZRXN5F-1357	Enzymatic-Reactions	&alpha;-amyrin synthase	-	-	RXN-8434	-
+ENZRXN5F-1354	Enzymatic-Reactions	&alpha;-amyrin synthase	-	-	RXN-8434	-
+ENZRXN5F-1352	Enzymatic-Reactions	&alpha;-amyrin synthase	-	-	RXN-8434	-
+ENZRXN5F-1350	Enzymatic-Reactions	&alpha;-amyrin synthase	-	-	RXN-8434	-
+ENZRXN5F-1348	Enzymatic-Reactions	&alpha;-amyrin synthase	-	-	RXN-8434	-
+ENZRXN5F-11495	Enzymatic-Reactions	UDP-glucose 4-epimerase	-	-	UDPGLUCEPIM-RXN	-
+ENZRXN5F-5543	Enzymatic-Reactions	UDP-glucose 4-epimerase	-	-	UDPGLUCEPIM-RXN	-
+ENZRXN5F-5319	Enzymatic-Reactions	UDP-glucose 4-epimerase	-	-	UDPGLUCEPIM-RXN	-
+ENZRXN5F-5209	Enzymatic-Reactions	UDP-glucose 4-epimerase	-	-	UDPGLUCEPIM-RXN	-
+ENZRXN5F-5208	Enzymatic-Reactions	UDP-glucose 4-epimerase	-	-	UDPGLUCEPIM-RXN	-
+ENZRXN5F-198	Enzymatic-Reactions	UDP-glucose 4-epimerase	-	-	UDPGLUCEPIM-RXN	-
+ENZRXN5F-143	Enzymatic-Reactions	UDP-glucose 4-epimerase	-	-	UDPGLUCEPIM-RXN	-
+ENZRXN5F-11629	Enzymatic-Reactions	aspartate transaminase	-	-	ASPAMINOTRANS-RXN	-
+ENZRXN5F-7466	Enzymatic-Reactions	aspartate transaminase	-	-	ASPAMINOTRANS-RXN	-
+ENZRXN5F-7169	Enzymatic-Reactions	aspartate transaminase	-	-	ASPAMINOTRANS-RXN	-
+ENZRXN5F-6358	Enzymatic-Reactions	aspartate transaminase	-	-	ASPAMINOTRANS-RXN	-
+ENZRXN5F-6357	Enzymatic-Reactions	aspartate transaminase	-	-	ASPAMINOTRANS-RXN	-
+ENZRXN5F-6356	Enzymatic-Reactions	aspartate transaminase	-	-	ASPAMINOTRANS-RXN	-
+ENZRXN5F-3315	Enzymatic-Reactions	aspartate transaminase	-	-	ASPAMINOTRANS-RXN	-
+ENZRXN5F-1854	Enzymatic-Reactions	aspartate transaminase	-	-	ASPAMINOTRANS-RXN	-
+ENZRXN5F-301	Enzymatic-Reactions	aspartate transaminase	-	-	ASPAMINOTRANS-RXN	-
+ENZRXN5F-11621	Enzymatic-Reactions	chorismate mutase	-	-	CHORISMATEMUT-RXN	-
+ENZRXN5F-7513	Enzymatic-Reactions	chorismate mutase	-	-	CHORISMATEMUT-RXN	-
+ENZRXN5F-7512	Enzymatic-Reactions	chorismate mutase	-	-	CHORISMATEMUT-RXN	-
+ENZRXN5F-4655	Enzymatic-Reactions	chorismate mutase	-	-	CHORISMATEMUT-RXN	-
+ENZRXN5F-3814	Enzymatic-Reactions	chorismate mutase	-	-	CHORISMATEMUT-RXN	-
+ENZRXN5F-957	Enzymatic-Reactions	chorismate mutase	-	-	CHORISMATEMUT-RXN	-
+ENZRXN5F-950	Enzymatic-Reactions	chorismate mutase	-	-	CHORISMATEMUT-RXN	-
+ENZRXN5F-50	Enzymatic-Reactions	aspartate-semialdehyde dehydrogenase	-	-	ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	-
+ENZRXN5F-9997	Enzymatic-Reactions	sphinganine kinase	-	-	SPHINGANINE-KINASE-RXN	-
+ENZRXN5F-3954	Enzymatic-Reactions	sphinganine kinase	-	-	SPHINGANINE-KINASE-RXN	-
+ENZRXN5F-8493	Enzymatic-Reactions	ribulose-phosphate 3-epimerase	-	-	RIBULP3EPIM-RXN	-
+ENZRXN5F-5781	Enzymatic-Reactions	ribulose-phosphate 3-epimerase	-	-	RIBULP3EPIM-RXN	-
+ENZRXN5F-2787	Enzymatic-Reactions	ribulose-phosphate 3-epimerase	-	-	RIBULP3EPIM-RXN	-
+ENZRXN5F-5000	Enzymatic-Reactions	UDP-glucose:sinapaldehyde 4-&beta;-D-glucosyltransferase	-	-	RXN-92	-
+ENZRXN5F-8922	Enzymatic-Reactions	threonine synthase	-	-	THRESYN-RXN	-
+ENZRXN5F-5491	Enzymatic-Reactions	threonine synthase	-	-	THRESYN-RXN	-
+ENZRXN5F-8016	Enzymatic-Reactions	pyruvate:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine 2-oxidoreductase	-	-	RXN0-1134	-
+ENZRXN5F-4693	Enzymatic-Reactions	pyruvate:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine 2-oxidoreductase	-	-	RXN0-1134	-
+ENZRXN5F-3079	Enzymatic-Reactions	pyruvate:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine 2-oxidoreductase	-	-	RXN0-1134	-
+ENZRXN5F-3018	Enzymatic-Reactions	pyruvate:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine 2-oxidoreductase	-	-	RXN0-1134	-
+ENZRXN5F-3017	Enzymatic-Reactions	pyruvate:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine 2-oxidoreductase	-	-	RXN0-1134	-
+ENZRXN5F-1581	Enzymatic-Reactions	pyruvate:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine 2-oxidoreductase	-	-	RXN0-1134	-
+ENZRXN5F-1276	Enzymatic-Reactions	pyruvate:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine 2-oxidoreductase	-	-	RXN0-1134	-
+ENZRXN5F-839	Enzymatic-Reactions	pyruvate:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine 2-oxidoreductase	-	-	RXN0-1134	-
+ENZRXN5F-462	Enzymatic-Reactions	pyruvate:[dihydrolipoyllysine-residue acetyltransferase]-lipoyllysine 2-oxidoreductase	-	-	RXN0-1134	-
+ENZRXN5F-7343	Enzymatic-Reactions	thymidylate synthase	-	-	THYMIDYLATESYN-RXN	-
+ENZRXN5F-6898	Enzymatic-Reactions	thymidylate synthase	-	-	THYMIDYLATESYN-RXN	-
+ENZRXN5F-6520	Enzymatic-Reactions	thymidylate synthase	-	-	THYMIDYLATESYN-RXN	-
+ENZRXN5F-3766	Enzymatic-Reactions	thymidylate synthase	-	-	THYMIDYLATESYN-RXN	-
+ENZRXN5F-4743	Enzymatic-Reactions	glutamate&mdash;pyruvate aminotransferase	-	-	ALANINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-4730	Enzymatic-Reactions	glutamate&mdash;pyruvate aminotransferase	-	-	ALANINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-4725	Enzymatic-Reactions	glutamate&mdash;pyruvate aminotransferase	-	-	ALANINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-1291	Enzymatic-Reactions	glutamate&mdash;pyruvate aminotransferase	-	-	ALANINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-8351	Enzymatic-Reactions	uridine kinase	-	-	URIDINEKIN-RXN	-
+ENZRXN5F-6488	Enzymatic-Reactions	uridine kinase	-	-	URIDINEKIN-RXN	-
+ENZRXN5F-6293	Enzymatic-Reactions	uridine kinase	-	-	URIDINEKIN-RXN	-
+ENZRXN5F-5858	Enzymatic-Reactions	uridine kinase	-	-	URIDINEKIN-RXN	-
+ENZRXN5F-5762	Enzymatic-Reactions	uridine kinase	-	-	URIDINEKIN-RXN	-
+ENZRXN5F-4573	Enzymatic-Reactions	uridine kinase	-	-	URIDINEKIN-RXN	-
+ENZRXN5F-3997	Enzymatic-Reactions	uridine kinase	-	-	URIDINEKIN-RXN	-
+ENZRXN5F-3690	Enzymatic-Reactions	uridine kinase	-	-	URIDINEKIN-RXN	-
+ENZRXN5F-2789	Enzymatic-Reactions	uridine kinase	-	-	URIDINEKIN-RXN	-
+ENZRXN5F-727	Enzymatic-Reactions	uridine kinase	-	-	URIDINEKIN-RXN	-
+ENZRXN5F-8877	Enzymatic-Reactions	(R+)-3-(4-hydroxyphenyl)lactate:NADP+ oxidoreductase	-	-	1.1.1.222-RXN	-
+ENZRXN5F-7189	Enzymatic-Reactions	(R+)-3-(4-hydroxyphenyl)lactate:NADP+ oxidoreductase	-	-	1.1.1.222-RXN	-
+ENZRXN5F-7185	Enzymatic-Reactions	(R+)-3-(4-hydroxyphenyl)lactate:NADP+ oxidoreductase	-	-	1.1.1.222-RXN	-
+ENZRXN5F-7182	Enzymatic-Reactions	(R+)-3-(4-hydroxyphenyl)lactate:NADP+ oxidoreductase	-	-	1.1.1.222-RXN	-
+ENZRXN5F-7180	Enzymatic-Reactions	(R+)-3-(4-hydroxyphenyl)lactate:NADP+ oxidoreductase	-	-	1.1.1.222-RXN	-
+ENZRXN5F-3098	Enzymatic-Reactions	cytidine deaminase	-	-	CYTIDEAM2-RXN	-
+ENZRXN5F-111	Enzymatic-Reactions	cytidine deaminase	-	-	CYTIDEAM2-RXN	-
+ENZRXN5F-11518	Enzymatic-Reactions	brassinolide C-26 hydroxylase	-	-	RXN-11541	-
+ENZRXN5F-10926	Enzymatic-Reactions	brassinolide C-26 hydroxylase	-	-	RXN-11541	-
+ENZRXN5F-10701	Enzymatic-Reactions	brassinolide C-26 hydroxylase	-	-	RXN-11541	-
+ENZRXN5F-5743	Enzymatic-Reactions	brassinolide C-26 hydroxylase	-	-	RXN-11541	-
+ENZRXN5F-3253	Enzymatic-Reactions	brassinolide C-26 hydroxylase	-	-	RXN-11541	-
+ENZRXN5F-2038	Enzymatic-Reactions	brassinolide C-26 hydroxylase	-	-	RXN-11541	-
+ENZRXN5F-11713	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-10931	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-10743	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-7111	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-7102	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-7095	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-7088	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-6870	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-5393	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-4915	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-2556	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-2091	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-2086	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-1706	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-721	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-714	Enzymatic-Reactions	<i>trans</i>-2-hexenal reductase	-	-	RXN-12299	-
+ENZRXN5F-8476	Enzymatic-Reactions	coniferyl alcohol acetyltransferase	-	-	RXN-9244	-
+ENZRXN5F-8474	Enzymatic-Reactions	coniferyl alcohol acetyltransferase	-	-	RXN-9244	-
+ENZRXN5F-4837	Enzymatic-Reactions	coniferyl alcohol acetyltransferase	-	-	RXN-9244	-
+ENZRXN5F-4111	Enzymatic-Reactions	coniferyl alcohol acetyltransferase	-	-	RXN-9244	-
+ENZRXN5F-4109	Enzymatic-Reactions	coniferyl alcohol acetyltransferase	-	-	RXN-9244	-
+ENZRXN5F-4107	Enzymatic-Reactions	coniferyl alcohol acetyltransferase	-	-	RXN-9244	-
+ENZRXN5F-7107	Enzymatic-Reactions	acrolein aldehyde reductase	-	-	ALLYL-ALCOHOL-DEHYDROGENASE-RXN	-
+ENZRXN5F-7098	Enzymatic-Reactions	acrolein aldehyde reductase	-	-	ALLYL-ALCOHOL-DEHYDROGENASE-RXN	-
+ENZRXN5F-7091	Enzymatic-Reactions	acrolein aldehyde reductase	-	-	ALLYL-ALCOHOL-DEHYDROGENASE-RXN	-
+ENZRXN5F-7084	Enzymatic-Reactions	acrolein aldehyde reductase	-	-	ALLYL-ALCOHOL-DEHYDROGENASE-RXN	-
+ENZRXN5F-6866	Enzymatic-Reactions	acrolein aldehyde reductase	-	-	ALLYL-ALCOHOL-DEHYDROGENASE-RXN	-
+ENZRXN5F-2552	Enzymatic-Reactions	acrolein aldehyde reductase	-	-	ALLYL-ALCOHOL-DEHYDROGENASE-RXN	-
+ENZRXN5F-717	Enzymatic-Reactions	acrolein aldehyde reductase	-	-	ALLYL-ALCOHOL-DEHYDROGENASE-RXN	-
+ENZRXN5F-710	Enzymatic-Reactions	acrolein aldehyde reductase	-	-	ALLYL-ALCOHOL-DEHYDROGENASE-RXN	-
+ENZRXN5F-11767	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-11752	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-11751	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-11227	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-9761	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-9033	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-8729	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-8569	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-8568	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-7676	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-7290	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-6958	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-6957	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-6956	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-6955	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-6954	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-6953	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-6937	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-6925	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-6924	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-6727	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-4651	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-4588	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-3024	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-2871	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-2723	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-2664	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-2350	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-1580	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-1278	Enzymatic-Reactions	photosystem I	-	-	RXN-15479	-
+ENZRXN5F-7745	Enzymatic-Reactions	stearoyl-[acp] 9-desaturase	-	-	RXN-8389	-
+ENZRXN5F-9420	Enzymatic-Reactions	citrate synthase	-	-	CITSYN-RXN	-
+ENZRXN5F-8447	Enzymatic-Reactions	citrate synthase	-	-	CITSYN-RXN	-
+ENZRXN5F-4089	Enzymatic-Reactions	citrate synthase	-	-	CITSYN-RXN	-
+ENZRXN5F-10239	Enzymatic-Reactions	phosphatidylserine synthase	-	-	PHOSPHASERSYN-RXN	-
+ENZRXN5F-9845	Enzymatic-Reactions	3-ketodihydrosphingosine reductase	-	-	3-DEHYDROSPHINGANINE-REDUCTASE-RXN	-
+ENZRXN5F-7611	Enzymatic-Reactions	3-ketodihydrosphingosine reductase	-	-	3-DEHYDROSPHINGANINE-REDUCTASE-RXN	-
+ENZRXN5F-3857	Enzymatic-Reactions	3-ketodihydrosphingosine reductase	-	-	3-DEHYDROSPHINGANINE-REDUCTASE-RXN	-
+ENZRXN5F-2740	Enzymatic-Reactions	3-ketodihydrosphingosine reductase	-	-	3-DEHYDROSPHINGANINE-REDUCTASE-RXN	-
+ENZRXN5F-9406	Enzymatic-Reactions	phosphocholine phosphatase	-	-	RXN-5647	-
+ENZRXN5F-8905	Enzymatic-Reactions	phosphocholine phosphatase	-	-	RXN-5647	-
+ENZRXN5F-8902	Enzymatic-Reactions	phosphocholine phosphatase	-	-	RXN-5647	-
+ENZRXN5F-8899	Enzymatic-Reactions	phosphocholine phosphatase	-	-	RXN-5647	-
+ENZRXN5F-1391	Enzymatic-Reactions	phosphocholine phosphatase	-	-	RXN-5647	-
+ENZRXN5F-1388	Enzymatic-Reactions	phosphocholine phosphatase	-	-	RXN-5647	-
+ENZRXN5F-1385	Enzymatic-Reactions	phosphocholine phosphatase	-	-	RXN-5647	-
+ENZRXN5F-1382	Enzymatic-Reactions	phosphocholine phosphatase	-	-	RXN-5647	-
+ENZRXN5F-11618	Enzymatic-Reactions	monogalactosyldiacylglycerol synthase	-	-	2.4.1.46-RXN	-
+ENZRXN5F-5712	Enzymatic-Reactions	monogalactosyldiacylglycerol synthase	-	-	2.4.1.46-RXN	-
+ENZRXN5F-1253	Enzymatic-Reactions	monogalactosyldiacylglycerol synthase	-	-	2.4.1.46-RXN	-
+ENZRXN5F-1252	Enzymatic-Reactions	monogalactosyldiacylglycerol synthase	-	-	2.4.1.46-RXN	-
+ENZRXN5F-1244	Enzymatic-Reactions	monogalactosyldiacylglycerol synthase	-	-	2.4.1.46-RXN	-
+ENZRXN5F-8819	Enzymatic-Reactions	&beta;-ketoacyl-ACP synthase	-	-	2.3.1.180-RXN	-
+ENZRXN5F-7275	Enzymatic-Reactions	&beta;-ketoacyl-ACP synthase	-	-	2.3.1.180-RXN	-
+ENZRXN5F-5194	Enzymatic-Reactions	&beta;-ketoacyl-ACP synthase	-	-	2.3.1.180-RXN	-
+ENZRXN5F-9980	Enzymatic-Reactions	acetolactate synthase	-	-	ACETOLACTSYN-RXN	-
+ENZRXN5F-9782	Enzymatic-Reactions	acetolactate synthase	-	-	ACETOLACTSYN-RXN	-
+ENZRXN5F-7606	Enzymatic-Reactions	acetolactate synthase	-	-	ACETOLACTSYN-RXN	-
+ENZRXN5F-355	Enzymatic-Reactions	acetolactate synthase	-	-	ACETOLACTSYN-RXN	-
+ENZRXN5F-5600	Enzymatic-Reactions	pyruvate phosphate dikinase	-	-	PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN	-
+ENZRXN5F-5599	Enzymatic-Reactions	pyruvate phosphate dikinase	-	-	PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN	-
+ENZRXN5F-5598	Enzymatic-Reactions	pyruvate phosphate dikinase	-	-	PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN	-
+ENZRXN5F-1882	Enzymatic-Reactions	uridine nucleosidase	-	-	URIDINE-NUCLEOSIDASE-RXN	-
+ENZRXN5F-6499	Enzymatic-Reactions	phosphatidylinositol synthase	-	-	2.7.8.11-RXN	-
+ENZRXN5F-10009	Enzymatic-Reactions	arginine decarboxylase, biosynthetic	-	-	ARGDECARBOX-RXN	-
+ENZRXN5F-7379	Enzymatic-Reactions	arginine decarboxylase, biosynthetic	-	-	ARGDECARBOX-RXN	-
+ENZRXN5F-6556	Enzymatic-Reactions	arginine decarboxylase, biosynthetic	-	-	ARGDECARBOX-RXN	-
+ENZRXN5F-6555	Enzymatic-Reactions	arginine decarboxylase, biosynthetic	-	-	ARGDECARBOX-RXN	-
+ENZRXN5F-6554	Enzymatic-Reactions	arginine decarboxylase, biosynthetic	-	-	ARGDECARBOX-RXN	-
+ENZRXN5F-6510	Enzymatic-Reactions	arginine decarboxylase, biosynthetic	-	-	ARGDECARBOX-RXN	-
+ENZRXN5F-8515	Enzymatic-Reactions	phosphatidylcholine phosphohydrolase	-	-	PHOSPHOLIPASE-C-RXN	-
+ENZRXN5F-8514	Enzymatic-Reactions	phosphatidylcholine phosphohydrolase	-	-	PHOSPHOLIPASE-C-RXN	-
+ENZRXN5F-8316	Enzymatic-Reactions	phosphatidylcholine phosphohydrolase	-	-	PHOSPHOLIPASE-C-RXN	-
+ENZRXN5F-7607	Enzymatic-Reactions	phosphatidylcholine phosphohydrolase	-	-	PHOSPHOLIPASE-C-RXN	-
+ENZRXN5F-1450	Enzymatic-Reactions	phosphatidylcholine phosphohydrolase	-	-	PHOSPHOLIPASE-C-RXN	-
+ENZRXN5F-1449	Enzymatic-Reactions	phosphatidylcholine phosphohydrolase	-	-	PHOSPHOLIPASE-C-RXN	-
+ENZRXN5F-10398	Enzymatic-Reactions	4-hydroxy-tetrahydrodipicolinate reductase	-	-	RXN-14014	-
+ENZRXN5F-1221	Enzymatic-Reactions	4-hydroxy-tetrahydrodipicolinate reductase	-	-	RXN-14014	-
+ENZRXN5F-2440	Enzymatic-Reactions	ethanolamine-phosphate cytidylyltransferase	-	-	2.7.7.14-RXN	-
+ENZRXN5F-116	Enzymatic-Reactions	ethanolamine-phosphate cytidylyltransferase	-	-	2.7.7.14-RXN	-
+ENZRXN5F-5947	Enzymatic-Reactions	adenylyl-sulfate kinase	-	-	ADENYLYLSULFKIN-RXN	-
+ENZRXN5F-5088	Enzymatic-Reactions	adenylyl-sulfate kinase	-	-	ADENYLYLSULFKIN-RXN	-
+ENZRXN5F-2234	Enzymatic-Reactions	adenylyl-sulfate kinase	-	-	ADENYLYLSULFKIN-RXN	-
+ENZRXN5F-11138	Enzymatic-Reactions	glycerol-3-phosphate dehydrogenase	-	-	RXN-15745	-
+ENZRXN5F-10525	Enzymatic-Reactions	glycerol-3-phosphate dehydrogenase	-	-	RXN-15745	-
+ENZRXN5F-11353	Enzymatic-Reactions	propanoyl-CoA:butanol <i>O</i>-propanoyltransferase	-	-	RXN-18668	-
+ENZRXN5F-11186	Enzymatic-Reactions	propanoyl-CoA:butanol <i>O</i>-propanoyltransferase	-	-	RXN-18668	-
+ENZRXN5F-8097	Enzymatic-Reactions	propanoyl-CoA:butanol <i>O</i>-propanoyltransferase	-	-	RXN-18668	-
+ENZRXN5F-7399	Enzymatic-Reactions	propanoyl-CoA:butanol <i>O</i>-propanoyltransferase	-	-	RXN-18668	-
+ENZRXN5F-11531	Enzymatic-Reactions	succinate dehydrogenase	-	-	RXN-14971	-
+ENZRXN5F-10562	Enzymatic-Reactions	succinate dehydrogenase	-	-	RXN-14971	-
+ENZRXN5F-7989	Enzymatic-Reactions	succinate dehydrogenase	-	-	RXN-14971	-
+ENZRXN5F-7974	Enzymatic-Reactions	succinate dehydrogenase	-	-	RXN-14971	-
+ENZRXN5F-6761	Enzymatic-Reactions	succinate dehydrogenase	-	-	RXN-14971	-
+ENZRXN5F-6298	Enzymatic-Reactions	succinate dehydrogenase	-	-	RXN-14971	-
+ENZRXN5F-4984	Enzymatic-Reactions	succinate dehydrogenase	-	-	RXN-14971	-
+ENZRXN5F-2714	Enzymatic-Reactions	succinate dehydrogenase	-	-	RXN-14971	-
+ENZRXN5F-1245	Enzymatic-Reactions	succinate dehydrogenase	-	-	RXN-14971	-
+ENZRXN5F-8760	Enzymatic-Reactions	Cb-isoeugenol synthase	-	-	RXN-9246	-
+ENZRXN5F-11679	Enzymatic-Reactions	3-oxoacyl-[ACP] reductase	-	-	3-OXOACYL-ACP-REDUCT-RXN	-
+ENZRXN5F-7839	Enzymatic-Reactions	3-oxoacyl-[ACP] reductase	-	-	3-OXOACYL-ACP-REDUCT-RXN	-
+ENZRXN5F-6646	Enzymatic-Reactions	3-oxoacyl-[ACP] reductase	-	-	3-OXOACYL-ACP-REDUCT-RXN	-
+ENZRXN5F-6645	Enzymatic-Reactions	3-oxoacyl-[ACP] reductase	-	-	3-OXOACYL-ACP-REDUCT-RXN	-
+ENZRXN5F-6585	Enzymatic-Reactions	3-oxoacyl-[ACP] reductase	-	-	3-OXOACYL-ACP-REDUCT-RXN	-
+ENZRXN5F-6524	Enzymatic-Reactions	3-oxoacyl-[ACP] reductase	-	-	3-OXOACYL-ACP-REDUCT-RXN	-
+ENZRXN5F-6521	Enzymatic-Reactions	3-oxoacyl-[ACP] reductase	-	-	3-OXOACYL-ACP-REDUCT-RXN	-
+ENZRXN5F-5317	Enzymatic-Reactions	3-oxoacyl-[ACP] reductase	-	-	3-OXOACYL-ACP-REDUCT-RXN	-
+ENZRXN5F-10725	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-9681	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-8907	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-8825	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-7809	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-7514	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-7507	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-7506	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-7365	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-7246	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-5151	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-5150	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-4896	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-4895	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-2403	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-1372	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-1121	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-352	Enzymatic-Reactions	phosphatidylcholine cholineesterase	-	-	PHOSCHOL-RXN	-
+ENZRXN5F-11169	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-10678	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-9642	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-8463	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-8457	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-8455	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-7164	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-5450	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-4797	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-4523	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-4262	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-4095	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-2513	Enzymatic-Reactions	acyl-CoA:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-1381	-
+ENZRXN5F-9475	Enzymatic-Reactions	acyl-[acp] thioesterase	-	-	RXN-7902	-
+ENZRXN5F-4552	Enzymatic-Reactions	acyl-[acp] thioesterase	-	-	RXN-7902	-
+ENZRXN5F-4550	Enzymatic-Reactions	acyl-[acp] thioesterase	-	-	RXN-7902	-
+ENZRXN5F-4548	Enzymatic-Reactions	acyl-[acp] thioesterase	-	-	RXN-7902	-
+ENZRXN5F-9735	Enzymatic-Reactions	sphingolipid very long chain fatty acid &alpha;-hydroxylase	-	-	RXN-7796	-
+ENZRXN5F-6020	Enzymatic-Reactions	sphingolipid very long chain fatty acid &alpha;-hydroxylase	-	-	RXN-7796	-
+ENZRXN5F-6019	Enzymatic-Reactions	sphingolipid very long chain fatty acid &alpha;-hydroxylase	-	-	RXN-7796	-
+ENZRXN5F-6018	Enzymatic-Reactions	sphingolipid very long chain fatty acid &alpha;-hydroxylase	-	-	RXN-7796	-
+ENZRXN5F-11588	Enzymatic-Reactions	ceramide II desaturase	-	-	RXN-7798	-
+ENZRXN5F-11584	Enzymatic-Reactions	ceramide II desaturase	-	-	RXN-7798	-
+ENZRXN5F-10452	Enzymatic-Reactions	ethanolamine kinase	-	-	ETHANOLAMINE-KINASE-RXN	-
+ENZRXN5F-9467	Enzymatic-Reactions	ethanolamine kinase	-	-	ETHANOLAMINE-KINASE-RXN	-
+ENZRXN5F-8709	Enzymatic-Reactions	ethanolamine kinase	-	-	ETHANOLAMINE-KINASE-RXN	-
+ENZRXN5F-3478	Enzymatic-Reactions	ethanolamine kinase	-	-	ETHANOLAMINE-KINASE-RXN	-
+ENZRXN5F-1013	Enzymatic-Reactions	ethanolamine kinase	-	-	ETHANOLAMINE-KINASE-RXN	-
+ENZRXN5F-11520	Enzymatic-Reactions	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-<i>O</i>-acyltransferase	-	-	RXN-1623	-
+ENZRXN5F-11488	Enzymatic-Reactions	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-<i>O</i>-acyltransferase	-	-	RXN-1623	-
+ENZRXN5F-11107	Enzymatic-Reactions	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-<i>O</i>-acyltransferase	-	-	RXN-1623	-
+ENZRXN5F-8951	Enzymatic-Reactions	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-<i>O</i>-acyltransferase	-	-	RXN-1623	-
+ENZRXN5F-7392	Enzymatic-Reactions	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-<i>O</i>-acyltransferase	-	-	RXN-1623	-
+ENZRXN5F-6538	Enzymatic-Reactions	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-<i>O</i>-acyltransferase	-	-	RXN-1623	-
+ENZRXN5F-4650	Enzymatic-Reactions	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-<i>O</i>-acyltransferase	-	-	RXN-1623	-
+ENZRXN5F-2132	Enzymatic-Reactions	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-<i>O</i>-acyltransferase	-	-	RXN-1623	-
+ENZRXN5F-140	Enzymatic-Reactions	acyl-CoA:1-acyl-sn-glycerol-3-phosphate 2-<i>O</i>-acyltransferase	-	-	RXN-1623	-
+ENZRXN5F-10564	Enzymatic-Reactions	phosphatidylinositol-3,5-bisphosphate 3-phosphatase	-	-	RXN-10958	-
+ENZRXN5F-10105	Enzymatic-Reactions	phosphatidylserine decarboxylase	-	-	PHOSPHASERDECARB-RXN	-
+ENZRXN5F-5130	Enzymatic-Reactions	phosphatidylserine decarboxylase	-	-	PHOSPHASERDECARB-RXN	-
+ENZRXN5F-8350	Enzymatic-Reactions	uracil phosphoribosyltransferase	-	-	URACIL-PRIBOSYLTRANS-RXN	-
+ENZRXN5F-7118	Enzymatic-Reactions	uracil phosphoribosyltransferase	-	-	URACIL-PRIBOSYLTRANS-RXN	-
+ENZRXN5F-5857	Enzymatic-Reactions	uracil phosphoribosyltransferase	-	-	URACIL-PRIBOSYLTRANS-RXN	-
+ENZRXN5F-3996	Enzymatic-Reactions	uracil phosphoribosyltransferase	-	-	URACIL-PRIBOSYLTRANS-RXN	-
+ENZRXN5F-3689	Enzymatic-Reactions	uracil phosphoribosyltransferase	-	-	URACIL-PRIBOSYLTRANS-RXN	-
+ENZRXN5F-2788	Enzymatic-Reactions	uracil phosphoribosyltransferase	-	-	URACIL-PRIBOSYLTRANS-RXN	-
+ENZRXN5F-11222	Enzymatic-Reactions	malate dehydrogenase	-	-	MALATE-DEH-RXN	-
+ENZRXN5F-10826	Enzymatic-Reactions	malate dehydrogenase	-	-	MALATE-DEH-RXN	-
+ENZRXN5F-6085	Enzymatic-Reactions	malate dehydrogenase	-	-	MALATE-DEH-RXN	-
+ENZRXN5F-5785	Enzymatic-Reactions	malate dehydrogenase	-	-	MALATE-DEH-RXN	-
+ENZRXN5F-5100	Enzymatic-Reactions	malate dehydrogenase	-	-	MALATE-DEH-RXN	-
+ENZRXN5F-1567	Enzymatic-Reactions	malate dehydrogenase	-	-	MALATE-DEH-RXN	-
+ENZRXN5F-910	Enzymatic-Reactions	malate dehydrogenase	-	-	MALATE-DEH-RXN	-
+ENZRXN5F-341	Enzymatic-Reactions	malate dehydrogenase	-	-	MALATE-DEH-RXN	-
+ENZRXN5F-4899	Enzymatic-Reactions	citrate hydro-lyase (cis-aconitate-forming)	-	-	ACONITATEDEHYDR-RXN	-
+ENZRXN5F-8141	Enzymatic-Reactions	<i>cis</i>-zeatin UDP glycosyltransferase	-	-	RXN-4734	-
+ENZRXN5F-8128	Enzymatic-Reactions	<i>cis</i>-zeatin UDP glycosyltransferase	-	-	RXN-4734	-
+ENZRXN5F-11137	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-10981	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-9215	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-9214	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-8693	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-8632	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-8077	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-8063	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-7636	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-5914	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-5802	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-5163	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-5162	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-4530	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-4527	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-3457	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-2685	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-2170	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-1541	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-1054	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-435	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-434	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-433	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-421	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-348	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-295	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-285	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-282	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-228	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-226	Enzymatic-Reactions	phosphatidylinositol 4 phosphate 5 kinase	-	-	2.7.1.68-RXN	-
+ENZRXN5F-4553	Enzymatic-Reactions	palmitoleoyl-[acp] thioesterase	-	-	RXN-9550	-
+ENZRXN5F-4551	Enzymatic-Reactions	palmitoleoyl-[acp] thioesterase	-	-	RXN-9550	-
+ENZRXN5F-4549	Enzymatic-Reactions	palmitoleoyl-[acp] thioesterase	-	-	RXN-9550	-
+ENZRXN5F-11715	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-10933	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-10745	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-7112	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-7103	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-7096	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-7089	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-6871	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-5395	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-4917	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-2557	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-2093	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-2088	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-1708	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-722	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-715	Enzymatic-Reactions	methylglyoxal reductase	-	-	RXN0-4281	-
+ENZRXN5F-3747	Enzymatic-Reactions	6-phosphogluconate dehydrogenase, decarboxylating	-	-	RXN-9952	-
+ENZRXN5F-3746	Enzymatic-Reactions	6-phosphogluconate dehydrogenase, decarboxylating	-	-	RXN-9952	-
+ENZRXN5F-2888	Enzymatic-Reactions	6-phosphogluconate dehydrogenase, decarboxylating	-	-	RXN-9952	-
+ENZRXN5F-158	Enzymatic-Reactions	6-phosphogluconate dehydrogenase, decarboxylating	-	-	RXN-9952	-
+ENZRXN5F-2133	Enzymatic-Reactions	adenylosuccinate synthetase	-	-	ADENYLOSUCCINATE-SYNTHASE-RXN	-
+ENZRXN5F-10593	Enzymatic-Reactions	8-oxo-dGTP diphosphatase	-	-	RXN-11396	-
+ENZRXN5F-4505	Enzymatic-Reactions	8-oxo-dGTP diphosphatase	-	-	RXN-11396	-
+ENZRXN5F-4906	Enzymatic-Reactions	diaminopimelate decarboxylase	-	-	DIAMINOPIMDECARB-RXN	-
+ENZRXN5F-8451	Enzymatic-Reactions	isocitrate lyase	-	-	ISOCIT-CLEAV-RXN	-
+ENZRXN5F-6763	Enzymatic-Reactions	isocitrate lyase	-	-	ISOCIT-CLEAV-RXN	-
+ENZRXN5F-6378	Enzymatic-Reactions	orcinol <i>O</i>-methyltransferase	-	-	RXN-9017	-
+ENZRXN5F-4341	Enzymatic-Reactions	orcinol <i>O</i>-methyltransferase	-	-	RXN-9017	-
+ENZRXN5F-4337	Enzymatic-Reactions	orcinol <i>O</i>-methyltransferase	-	-	RXN-9017	-
+ENZRXN5F-4333	Enzymatic-Reactions	orcinol <i>O</i>-methyltransferase	-	-	RXN-9017	-
+ENZRXN5F-4329	Enzymatic-Reactions	orcinol <i>O</i>-methyltransferase	-	-	RXN-9017	-
+ENZRXN5F-4324	Enzymatic-Reactions	orcinol <i>O</i>-methyltransferase	-	-	RXN-9017	-
+ENZRXN5F-11642	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-11303	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-11234	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-10817	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-10365	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-10223	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-10160	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-10117	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-9967	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-9667	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-9625	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-9473	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-8975	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-8067	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-8066	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-7595	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-7518	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-6715	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-6703	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-6702	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-6698	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-6697	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-6624	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-6623	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-6622	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-6529	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-5747	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-4547	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-3623	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-3622	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-3434	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-3242	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-2304	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-2303	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-1702	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-1585	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-1584	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-1583	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-565	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-399	Enzymatic-Reactions	very-long-chain 3-ketoacyl-CoA synthase	-	-	RXN-7697	-
+ENZRXN5F-10487	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-10485	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-9938	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-9884	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-6961	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-6825	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-6423	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-6360	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-6311	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-6181	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-6175	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-5906	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-5503	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-5378	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-5123	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-4723	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-3061	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-2340	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-2307	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-2305	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-2066	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-2063	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-2060	Enzymatic-Reactions	phospholipase A<small><sub>1</sub></small>	-	-	PHOSPHOLIPASE-A1-RXN	-
+ENZRXN5F-9122	Enzymatic-Reactions	arogenate dehydratase	-	-	CARBOXYCYCLOHEXADIENYL-DEHYDRATASE-RXN	-
+ENZRXN5F-9086	Enzymatic-Reactions	arogenate dehydratase	-	-	CARBOXYCYCLOHEXADIENYL-DEHYDRATASE-RXN	-
+ENZRXN5F-6686	Enzymatic-Reactions	arogenate dehydratase	-	-	CARBOXYCYCLOHEXADIENYL-DEHYDRATASE-RXN	-
+ENZRXN5F-6629	Enzymatic-Reactions	arogenate dehydratase	-	-	CARBOXYCYCLOHEXADIENYL-DEHYDRATASE-RXN	-
+ENZRXN5F-5368	Enzymatic-Reactions	arogenate dehydratase	-	-	CARBOXYCYCLOHEXADIENYL-DEHYDRATASE-RXN	-
+ENZRXN5F-10758	Enzymatic-Reactions	fructose-1,6-bisphosphatase	-	-	F16BDEPHOS-RXN	-
+ENZRXN5F-10109	Enzymatic-Reactions	fructose-1,6-bisphosphatase	-	-	F16BDEPHOS-RXN	-
+ENZRXN5F-6073	Enzymatic-Reactions	fructose-1,6-bisphosphatase	-	-	F16BDEPHOS-RXN	-
+ENZRXN5F-3534	Enzymatic-Reactions	fructose-1,6-bisphosphatase	-	-	F16BDEPHOS-RXN	-
+ENZRXN5F-2521	Enzymatic-Reactions	fructose-1,6-bisphosphatase	-	-	F16BDEPHOS-RXN	-
+ENZRXN5F-1689	Enzymatic-Reactions	fructose-1,6-bisphosphatase	-	-	F16BDEPHOS-RXN	-
+ENZRXN5F-9720	Enzymatic-Reactions	UDP-xylose 4-epimerase	-	-	UDP-ARABINOSE-4-EPIMERASE-RXN	-
+ENZRXN5F-347	Enzymatic-Reactions	UDP-xylose 4-epimerase	-	-	UDP-ARABINOSE-4-EPIMERASE-RXN	-
+ENZRXN5F-197	Enzymatic-Reactions	UDP-xylose 4-epimerase	-	-	UDP-ARABINOSE-4-EPIMERASE-RXN	-
+ENZRXN5F-1485	Enzymatic-Reactions	dCMP kinase	-	-	RXN-7913	-
+ENZRXN5F-8215	Enzymatic-Reactions	dUTP diphosphatase	-	-	DUTP-PYROP-RXN	-
+ENZRXN5F-7854	Enzymatic-Reactions	dUTP diphosphatase	-	-	DUTP-PYROP-RXN	-
+ENZRXN5F-2460	Enzymatic-Reactions	diaminopimelate epimerase	-	-	DIAMINOPIMEPIM-RXN	-
+ENZRXN5F-1991	Enzymatic-Reactions	diaminopimelate epimerase	-	-	DIAMINOPIMEPIM-RXN	-
+ENZRXN5F-8434	Enzymatic-Reactions	1-18:2-2-16:0-phosphatidylglycerol desaturase	-	-	RXN-8318	-
+ENZRXN5F-8136	Enzymatic-Reactions	UDP-glucose:benzyladenine 7-N-glucosyltransferase	-	-	RXN-4729	-
+ENZRXN5F-8123	Enzymatic-Reactions	UDP-glucose:benzyladenine 7-N-glucosyltransferase	-	-	RXN-4729	-
+ENZRXN5F-7863	Enzymatic-Reactions	aspartate kinase	-	-	ASPARTATEKIN-RXN	-
+ENZRXN5F-3617	Enzymatic-Reactions	aspartate kinase	-	-	ASPARTATEKIN-RXN	-
+ENZRXN5F-2284	Enzymatic-Reactions	aspartate kinase	-	-	ASPARTATEKIN-RXN	-
+ENZRXN5F-404	Enzymatic-Reactions	aspartate kinase	-	-	ASPARTATEKIN-RXN	-
+ENZRXN5F-9071	Enzymatic-Reactions	2,3-dihydroxy-isovalerate dehydratase	-	-	DIHYDROXYISOVALDEHYDRAT-RXN	-
+ENZRXN5F-8878	Enzymatic-Reactions	hydroxyphenyllactate dehydrogenase	-	-	RXN-7632	-
+ENZRXN5F-7190	Enzymatic-Reactions	hydroxyphenyllactate dehydrogenase	-	-	RXN-7632	-
+ENZRXN5F-7186	Enzymatic-Reactions	hydroxyphenyllactate dehydrogenase	-	-	RXN-7632	-
+ENZRXN5F-7184	Enzymatic-Reactions	hydroxyphenyllactate dehydrogenase	-	-	RXN-7632	-
+ENZRXN5F-7181	Enzymatic-Reactions	hydroxyphenyllactate dehydrogenase	-	-	RXN-7632	-
+ENZRXN5F-10967	Enzymatic-Reactions	phenylalanine ammonia-lyase	-	-	PHENYLALANINE-AMMONIA-LYASE-RXN	-
+ENZRXN5F-10522	Enzymatic-Reactions	phenylalanine ammonia-lyase	-	-	PHENYLALANINE-AMMONIA-LYASE-RXN	-
+ENZRXN5F-8990	Enzymatic-Reactions	phenylalanine ammonia-lyase	-	-	PHENYLALANINE-AMMONIA-LYASE-RXN	-
+ENZRXN5F-3975	Enzymatic-Reactions	phenylalanine ammonia-lyase	-	-	PHENYLALANINE-AMMONIA-LYASE-RXN	-
+ENZRXN5F-1963	Enzymatic-Reactions	phenylalanine ammonia-lyase	-	-	PHENYLALANINE-AMMONIA-LYASE-RXN	-
+ENZRXN5F-1962	Enzymatic-Reactions	phenylalanine ammonia-lyase	-	-	PHENYLALANINE-AMMONIA-LYASE-RXN	-
+ENZRXN5F-1961	Enzymatic-Reactions	phenylalanine ammonia-lyase	-	-	PHENYLALANINE-AMMONIA-LYASE-RXN	-
+ENZRXN5F-294	Enzymatic-Reactions	shikimate kinase	-	-	SHIKIMATE-KINASE-RXN	-
+ENZRXN5F-11022	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-8145	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-8106	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-8105	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-8104	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-6255	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-4402	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-4401	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-4238	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-4237	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-4236	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-4235	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-2910	Enzymatic-Reactions	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase	-	-	3.1.4.11-RXN	-
+ENZRXN5F-8798	Enzymatic-Reactions	2'-deoxyadenosine kinase	-	-	DEOXYADENOSINE-KINASE-RXN	-
+ENZRXN5F-2780	Enzymatic-Reactions	glycerol-3-phosphate dehydrogenase	-	-	GLYC3PDEHYDROGBIOSYN-RXN	-
+ENZRXN5F-9645	Enzymatic-Reactions	CTP:phosphocholine cytidylyltransferase	-	-	2.7.7.15-RXN	-
+ENZRXN5F-7909	Enzymatic-Reactions	CTP:phosphocholine cytidylyltransferase	-	-	2.7.7.15-RXN	-
+ENZRXN5F-6600	Enzymatic-Reactions	CTP:phosphocholine cytidylyltransferase	-	-	2.7.7.15-RXN	-
+ENZRXN5F-6599	Enzymatic-Reactions	CTP:phosphocholine cytidylyltransferase	-	-	2.7.7.15-RXN	-
+ENZRXN5F-6598	Enzymatic-Reactions	CTP:phosphocholine cytidylyltransferase	-	-	2.7.7.15-RXN	-
+ENZRXN5F-114	Enzymatic-Reactions	D-galacturonokinase	-	-	GALACTURONOKINASE-RXN	-
+ENZRXN5F-11178	Enzymatic-Reactions	digalactosyldiacylglycerol synthase	-	-	RXN-1225	-
+ENZRXN5F-11035	Enzymatic-Reactions	digalactosyldiacylglycerol synthase	-	-	RXN-1225	-
+ENZRXN5F-3114	Enzymatic-Reactions	digalactosyldiacylglycerol synthase	-	-	RXN-1225	-
+ENZRXN5F-2393	Enzymatic-Reactions	digalactosyldiacylglycerol synthase	-	-	RXN-1225	-
+ENZRXN5F-2392	Enzymatic-Reactions	digalactosyldiacylglycerol synthase	-	-	RXN-1225	-
+ENZRXN5F-1865	Enzymatic-Reactions	digalactosyldiacylglycerol synthase	-	-	RXN-1225	-
+ENZRXN5F-2238	Enzymatic-Reactions	inosine 5'-monophosphate dehydrogenase	-	-	IMP-DEHYDROG-RXN	-
+ENZRXN5F-11755	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-11747	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-11746	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-10963	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-10827	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-10243	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-10242	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-10098	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-9880	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-9834	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-9369	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-9368	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-9367	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-9366	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-9365	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-9364	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-9363	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-9362	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-8565	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-8564	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-8426	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-8404	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-8178	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-7601	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-7311	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-7296	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-7283	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-7245	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-7244	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-6949	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-6930	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-6929	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-6921	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-6489	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-6377	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-5860	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-5771	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-5414	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-5188	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-4735	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-4670	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-4113	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-4063	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-3420	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-3027	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-2862	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-2861	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-2860	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-2791	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-2752	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-2751	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-2719	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-2478	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-1969	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-1958	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-1594	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-559	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-500	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-468	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-157	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-28	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-24	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-5	Enzymatic-Reactions	ATP synthase	-	-	ATPSYN-RXN	-
+ENZRXN5F-1398	Enzymatic-Reactions	<i>myo</i>-inositol oxygenase	-	-	MYO-INOSITOL-OXYGENASE-RXN	-
+ENZRXN5F-102	Enzymatic-Reactions	<i>myo</i>-inositol oxygenase	-	-	MYO-INOSITOL-OXYGENASE-RXN	-
+ENZRXN5F-8765	Enzymatic-Reactions	eugenol synthase	-	-	RXN-9245	-
+ENZRXN5F-8762	Enzymatic-Reactions	eugenol synthase	-	-	RXN-9245	-
+ENZRXN5F-8761	Enzymatic-Reactions	eugenol synthase	-	-	RXN-9245	-
+ENZRXN5F-7410	Enzymatic-Reactions	eugenol synthase	-	-	RXN-9245	-
+ENZRXN5F-7408	Enzymatic-Reactions	eugenol synthase	-	-	RXN-9245	-
+ENZRXN5F-6526	Enzymatic-Reactions	eugenol synthase	-	-	RXN-9245	-
+ENZRXN5F-4965	Enzymatic-Reactions	eugenol synthase	-	-	RXN-9245	-
+ENZRXN5F-7772	Enzymatic-Reactions	glucuronate-1-phosphate uridylyltransferase	-	-	2.7.7.44-RXN	-
+ENZRXN5F-8132	Enzymatic-Reactions	<i>trans</i>-zeatin UDP glycosyltransferase	-	-	RXN-4722	-
+ENZRXN5F-8119	Enzymatic-Reactions	<i>trans</i>-zeatin UDP glycosyltransferase	-	-	RXN-4722	-
+ENZRXN5F-9372	Enzymatic-Reactions	phosphoglycerate kinase	-	-	PHOSGLYPHOS-RXN	-
+ENZRXN5F-9371	Enzymatic-Reactions	phosphoglycerate kinase	-	-	PHOSGLYPHOS-RXN	-
+ENZRXN5F-9370	Enzymatic-Reactions	phosphoglycerate kinase	-	-	PHOSGLYPHOS-RXN	-
+ENZRXN5F-3703	Enzymatic-Reactions	phosphoglycerate kinase	-	-	PHOSGLYPHOS-RXN	-
+ENZRXN5F-7429	Enzymatic-Reactions	phospho<i>enol</i>pyruvate carboxykinase (ATP)	-	-	PEPCARBOXYKIN-RXN	-
+ENZRXN5F-4783	Enzymatic-Reactions	phospho<i>enol</i>pyruvate carboxykinase (ATP)	-	-	PEPCARBOXYKIN-RXN	-
+ENZRXN5F-1631	Enzymatic-Reactions	phospho<i>enol</i>pyruvate carboxykinase (ATP)	-	-	PEPCARBOXYKIN-RXN	-
+ENZRXN5F-769	Enzymatic-Reactions	phospho<i>enol</i>pyruvate carboxykinase (ATP)	-	-	PEPCARBOXYKIN-RXN	-
+ENZRXN5F-10363	Enzymatic-Reactions	sulfate adenylyltransferase	-	-	SULFATE-ADENYLYLTRANS-RXN	-
+ENZRXN5F-3751	Enzymatic-Reactions	sulfate adenylyltransferase	-	-	SULFATE-ADENYLYLTRANS-RXN	-
+ENZRXN5F-3750	Enzymatic-Reactions	sulfate adenylyltransferase	-	-	SULFATE-ADENYLYLTRANS-RXN	-
+ENZRXN5F-7251	Enzymatic-Reactions	1-18:3-2-16:0-monogalactosyldiacylglycerol desaturase	-	-	RXN-8307	-
+ENZRXN5F-9087	Enzymatic-Reactions	prephenate dehydratase	-	-	PREPHENATEDEHYDRAT-RXN	-
+ENZRXN5F-6630	Enzymatic-Reactions	prephenate dehydratase	-	-	PREPHENATEDEHYDRAT-RXN	-
+ENZRXN5F-5369	Enzymatic-Reactions	prephenate dehydratase	-	-	PREPHENATEDEHYDRAT-RXN	-
+ENZRXN5F-9476	Enzymatic-Reactions	&omega;-hydroxypalmitate O-feruloyl transferase	-	-	RXN-10749	-
+ENZRXN5F-7609	Enzymatic-Reactions	&omega;-hydroxypalmitate O-feruloyl transferase	-	-	RXN-10749	-
+ENZRXN5F-7069	Enzymatic-Reactions	&omega;-hydroxypalmitate O-feruloyl transferase	-	-	RXN-10749	-
+ENZRXN5F-5972	Enzymatic-Reactions	&omega;-hydroxypalmitate O-feruloyl transferase	-	-	RXN-10749	-
+ENZRXN5F-2809	Enzymatic-Reactions	&omega;-hydroxypalmitate O-feruloyl transferase	-	-	RXN-10749	-
+ENZRXN5F-2640	Enzymatic-Reactions	&omega;-hydroxypalmitate O-feruloyl transferase	-	-	RXN-10749	-
+ENZRXN5F-2255	Enzymatic-Reactions	&omega;-hydroxypalmitate O-feruloyl transferase	-	-	RXN-10749	-
+ENZRXN5F-521	Enzymatic-Reactions	&omega;-hydroxypalmitate O-feruloyl transferase	-	-	RXN-10749	-
+ENZRXN5F-209	Enzymatic-Reactions	&omega;-hydroxypalmitate O-feruloyl transferase	-	-	RXN-10749	-
+ENZRXN5F-3958	Enzymatic-Reactions	homoserine kinase	-	-	HOMOSERKIN-RXN	-
+ENZRXN5F-11758	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-11753	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-11744	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-11610	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-11443	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-11036	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-10689	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-10688	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-9583	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-9160	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-9069	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-8201	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-7780	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-7754	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-7528	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-7487	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-7350	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-7285	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-7062	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-6952	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-6951	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-6946	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-6932	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-6923	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-6918	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-6917	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-6916	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-6913	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-6912	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-6493	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-5494	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-4080	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-4029	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-3702	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-3600	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-3588	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-3483	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-2892	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-2866	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-2176	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-1741	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-1405	Enzymatic-Reactions	photosystem II	-	-	PSII-RXN	-
+ENZRXN5F-10992	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-8944	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-8280	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-7051	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-5649	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-5622	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-4617	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-4614	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-4313	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-1940	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-1938	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-1933	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-1930	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-1927	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-1924	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-1718	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-1601	Enzymatic-Reactions	UDP-glucose:cis-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4735	-
+ENZRXN5F-10907	Enzymatic-Reactions	succinyl-CoA synthetase	-	-	SUCCCOASYN-RXN	-
+ENZRXN5F-3222	Enzymatic-Reactions	succinyl-CoA synthetase	-	-	SUCCCOASYN-RXN	-
+ENZRXN5F-8491	Enzymatic-Reactions	serine-glyoxylate aminotransferase	-	-	SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-4459	Enzymatic-Reactions	serine-glyoxylate aminotransferase	-	-	SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-4457	Enzymatic-Reactions	serine-glyoxylate aminotransferase	-	-	SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-4151	Enzymatic-Reactions	serine-glyoxylate aminotransferase	-	-	SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-4059	Enzymatic-Reactions	serine-glyoxylate aminotransferase	-	-	SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-4057	Enzymatic-Reactions	serine-glyoxylate aminotransferase	-	-	SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	-
+ENZRXN-15400	Enzymatic-Reactions	delphinidin reductase	-	-	RXN-9723	-
+ENZRXN5F-8065	Enzymatic-Reactions	biotin-[acetyl-CoA-carboxylase] ligase	-	-	BIOTINLIG-RXN	-
+ENZRXN5F-11417	Enzymatic-Reactions	stearoyl-[acyl-carrier-protein] 9-desaturase	-	-	RXN-7903	-
+ENZRXN5F-7756	Enzymatic-Reactions	stearoyl-[acyl-carrier-protein] 9-desaturase	-	-	RXN-7903	-
+ENZRXN5F-7746	Enzymatic-Reactions	stearoyl-[acyl-carrier-protein] 9-desaturase	-	-	RXN-7903	-
+ENZRXN5F-7744	Enzymatic-Reactions	stearoyl-[acyl-carrier-protein] 9-desaturase	-	-	RXN-7903	-
+ENZRXN5F-6200	Enzymatic-Reactions	stearoyl-[acyl-carrier-protein] 9-desaturase	-	-	RXN-7903	-
+ENZRXN5F-4881	Enzymatic-Reactions	stearoyl-[acyl-carrier-protein] 9-desaturase	-	-	RXN-7903	-
+ENZRXN5F-10567	Enzymatic-Reactions	dTMP kinase	-	-	DTMPKI-RXN	-
+ENZRXN5F-9199	Enzymatic-Reactions	dTMP kinase	-	-	DTMPKI-RXN	-
+ENZRXN5F-8857	Enzymatic-Reactions	D-glycerate 3-kinase	-	-	GLY3KIN-RXN	-
+ENZRXN5F-8134	Enzymatic-Reactions	UDP-glucose:isopentenyladenine 7-N-glucosyltransferase	-	-	RXN-4727	-
+ENZRXN5F-8121	Enzymatic-Reactions	UDP-glucose:isopentenyladenine 7-N-glucosyltransferase	-	-	RXN-4727	-
+ENZRXN5F-10517	Enzymatic-Reactions	phosphoglucomutase	-	-	PHOSPHOGLUCMUT-RXN	-
+ENZRXN5F-10379	Enzymatic-Reactions	phosphoglucomutase	-	-	PHOSPHOGLUCMUT-RXN	-
+ENZRXN5F-10378	Enzymatic-Reactions	phosphoglucomutase	-	-	PHOSPHOGLUCMUT-RXN	-
+ENZRXN5F-10377	Enzymatic-Reactions	phosphoglucomutase	-	-	PHOSPHOGLUCMUT-RXN	-
+ENZRXN5F-6296	Enzymatic-Reactions	phosphoglucomutase	-	-	PHOSPHOGLUCMUT-RXN	-
+ENZRXN5F-5560	Enzymatic-Reactions	phosphoglucomutase	-	-	PHOSPHOGLUCMUT-RXN	-
+ENZRXN5F-70	Enzymatic-Reactions	phosphoglucomutase	-	-	PHOSPHOGLUCMUT-RXN	-
+ENZRXN5F-11423	Enzymatic-Reactions	6-phosphogluconolactonase	-	-	6PGLUCONOLACT-RXN	-
+ENZRXN5F-11422	Enzymatic-Reactions	6-phosphogluconolactonase	-	-	6PGLUCONOLACT-RXN	-
+ENZRXN5F-7717	Enzymatic-Reactions	6-phosphogluconolactonase	-	-	6PGLUCONOLACT-RXN	-
+ENZRXN5F-4627	Enzymatic-Reactions	6-phosphogluconolactonase	-	-	6PGLUCONOLACT-RXN	-
+ENZRXN5F-8235	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-7132	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-4958	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-4611	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-3770	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-3320	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-3319	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-2263	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-1317	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-1316	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-605	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-603	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-602	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-600	Enzymatic-Reactions	salicylate 1-<i>O</i>-methyltransferase	-	-	RXN-6723	-
+ENZRXN5F-11712	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-10930	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-10742	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-7110	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-7101	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-7094	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-7087	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-6869	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-5392	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-4914	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-2555	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-2090	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-2085	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-1705	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-720	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-713	Enzymatic-Reactions	<i>trans</i>-2-pentenal reductase	-	-	RXN-12297	-
+ENZRXN5F-8490	Enzymatic-Reactions	glycine transaminase	-	-	GLYCINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-4745	Enzymatic-Reactions	glycine transaminase	-	-	GLYCINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-4150	Enzymatic-Reactions	glycine transaminase	-	-	GLYCINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-8133	Enzymatic-Reactions	dihydrozeatin UDP glycosyltransferase	-	-	RXN-4725	-
+ENZRXN5F-8120	Enzymatic-Reactions	dihydrozeatin UDP glycosyltransferase	-	-	RXN-4725	-
+ENZRXN5F-6328	Enzymatic-Reactions	UDP-glucose 6-dehydrogenase	-	-	UGD-RXN	-
+ENZRXN5F-5775	Enzymatic-Reactions	UDP-glucose 6-dehydrogenase	-	-	UGD-RXN	-
+ENZRXN5F-4638	Enzymatic-Reactions	UDP-glucose 6-dehydrogenase	-	-	UGD-RXN	-
+ENZRXN5F-3774	Enzymatic-Reactions	UDP-glucose 6-dehydrogenase	-	-	UGD-RXN	-
+ENZRXN5F-2946	Enzymatic-Reactions	UDP-glucose 6-dehydrogenase	-	-	UGD-RXN	-
+ENZRXN5F-11517	Enzymatic-Reactions	castasterone C-26 hydroxylase	-	-	RXN-11540	-
+ENZRXN5F-10925	Enzymatic-Reactions	castasterone C-26 hydroxylase	-	-	RXN-11540	-
+ENZRXN5F-10700	Enzymatic-Reactions	castasterone C-26 hydroxylase	-	-	RXN-11540	-
+ENZRXN5F-5742	Enzymatic-Reactions	castasterone C-26 hydroxylase	-	-	RXN-11540	-
+ENZRXN5F-3252	Enzymatic-Reactions	castasterone C-26 hydroxylase	-	-	RXN-11540	-
+ENZRXN5F-2037	Enzymatic-Reactions	castasterone C-26 hydroxylase	-	-	RXN-11540	-
+ENZRXN5F-8135	Enzymatic-Reactions	isopentenyladenine UDP glycosyltransferase	-	-	RXN-4728	-
+ENZRXN5F-8122	Enzymatic-Reactions	isopentenyladenine UDP glycosyltransferase	-	-	RXN-4728	-
+ENZRXN5F-11576	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-7540	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-6086	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-4778	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-3578	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-3577	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-3576	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-3565	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-3564	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-3563	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-3562	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-3561	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-2542	Enzymatic-Reactions	squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)	-	-	SQUALENE-MONOOXYGENASE-RXN	-
+ENZRXN5F-11352	Enzymatic-Reactions	butanol acetyltransferase	-	-	RXN-12362	-
+ENZRXN5F-11185	Enzymatic-Reactions	butanol acetyltransferase	-	-	RXN-12362	-
+ENZRXN5F-8096	Enzymatic-Reactions	butanol acetyltransferase	-	-	RXN-12362	-
+ENZRXN5F-7398	Enzymatic-Reactions	butanol acetyltransferase	-	-	RXN-12362	-
+ENZRXN5F-11745	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-11023	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-8570	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-6931	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-5451	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-3707	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-3706	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-3421	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-3041	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-3040	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-3039	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-3038	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-3037	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-2865	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-2864	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-2863	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-1593	Enzymatic-Reactions	ribulose bisphosphate carboxylase	-	-	RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	-
+ENZRXN5F-10870	Enzymatic-Reactions	5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase	-	-	GLYOHMETRANS-RXN	-
+ENZRXN5F-10841	Enzymatic-Reactions	5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase	-	-	GLYOHMETRANS-RXN	-
+ENZRXN5F-10120	Enzymatic-Reactions	5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase	-	-	GLYOHMETRANS-RXN	-
+ENZRXN5F-9916	Enzymatic-Reactions	5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase	-	-	GLYOHMETRANS-RXN	-
+ENZRXN5F-8059	Enzymatic-Reactions	5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase	-	-	GLYOHMETRANS-RXN	-
+ENZRXN5F-7875	Enzymatic-Reactions	5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase	-	-	GLYOHMETRANS-RXN	-
+ENZRXN5F-4776	Enzymatic-Reactions	5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase	-	-	GLYOHMETRANS-RXN	-
+ENZRXN5F-4462	Enzymatic-Reactions	5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase	-	-	GLYOHMETRANS-RXN	-
+ENZRXN5F-1814	Enzymatic-Reactions	5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase	-	-	GLYOHMETRANS-RXN	-
+ENZRXN5F-1813	Enzymatic-Reactions	5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase	-	-	GLYOHMETRANS-RXN	-
+ENZRXN5F-400	Enzymatic-Reactions	5,10-methylenetetrahydrofolate:glycine hydroxymethyltransferase	-	-	GLYOHMETRANS-RXN	-
+ENZRXN5F-8191	Enzymatic-Reactions	UTP&mdash;glucose-1-phosphate uridylyltransferase	-	-	GLUC1PURIDYLTRANS-RXN	-
+ENZRXN5F-8190	Enzymatic-Reactions	UTP&mdash;glucose-1-phosphate uridylyltransferase	-	-	GLUC1PURIDYLTRANS-RXN	-
+ENZRXN5F-8095	Enzymatic-Reactions	UTP&mdash;glucose-1-phosphate uridylyltransferase	-	-	GLUC1PURIDYLTRANS-RXN	-
+ENZRXN5F-7774	Enzymatic-Reactions	UTP&mdash;glucose-1-phosphate uridylyltransferase	-	-	GLUC1PURIDYLTRANS-RXN	-
+ENZRXN5F-7325	Enzymatic-Reactions	UTP&mdash;glucose-1-phosphate uridylyltransferase	-	-	GLUC1PURIDYLTRANS-RXN	-
+ENZRXN5F-6001	Enzymatic-Reactions	UTP&mdash;glucose-1-phosphate uridylyltransferase	-	-	GLUC1PURIDYLTRANS-RXN	-
+ENZRXN5F-5001	Enzymatic-Reactions	UTP&mdash;glucose-1-phosphate uridylyltransferase	-	-	GLUC1PURIDYLTRANS-RXN	-
+ENZRXN5F-4284	Enzymatic-Reactions	UTP&mdash;glucose-1-phosphate uridylyltransferase	-	-	GLUC1PURIDYLTRANS-RXN	-
+ENZRXN5F-10148	Enzymatic-Reactions	transketolase	-	-	1TRANSKETO-RXN	-
+ENZRXN5F-7046	Enzymatic-Reactions	transketolase	-	-	1TRANSKETO-RXN	-
+ENZRXN5F-10585	Enzymatic-Reactions	malate dehydrogenase	-	-	MALIC-NADP-RXN	-
+ENZRXN5F-8883	Enzymatic-Reactions	malate dehydrogenase	-	-	MALIC-NADP-RXN	-
+ENZRXN5F-7440	Enzymatic-Reactions	malate dehydrogenase	-	-	MALIC-NADP-RXN	-
+ENZRXN5F-1406	Enzymatic-Reactions	malate dehydrogenase	-	-	MALIC-NADP-RXN	-
+ENZRXN5F-90	Enzymatic-Reactions	malate dehydrogenase	-	-	MALIC-NADP-RXN	-
+ENZRXN5F-8084	Enzymatic-Reactions	arogenate dehydrogenase	-	-	RXN-5682	-
+ENZRXN5F-5710	Enzymatic-Reactions	arogenate dehydrogenase	-	-	RXN-5682	-
+ENZRXN5F-4211	Enzymatic-Reactions	arogenate dehydrogenase	-	-	RXN-5682	-
+ENZRXN5F-4210	Enzymatic-Reactions	arogenate dehydrogenase	-	-	RXN-5682	-
+ENZRXN5F-11525	Enzymatic-Reactions	PI(3,5)P<sub>2</sub>5'phosphatase	-	-	RXN-10938	-
+ENZRXN5F-6987	Enzymatic-Reactions	PI(3,5)P<sub>2</sub>5'phosphatase	-	-	RXN-10938	-
+ENZRXN5F-6193	Enzymatic-Reactions	PI(3,5)P<sub>2</sub>5'phosphatase	-	-	RXN-10938	-
+ENZRXN5F-5506	Enzymatic-Reactions	PI(3,5)P<sub>2</sub>5'phosphatase	-	-	RXN-10938	-
+ENZRXN5F-1296	Enzymatic-Reactions	PI(3,5)P<sub>2</sub>5'phosphatase	-	-	RXN-10938	-
+ENZRXN5F-9860	Enzymatic-Reactions	guanylate kinase	-	-	GUANYL-KIN-RXN	-
+ENZRXN5F-2135	Enzymatic-Reactions	guanylate kinase	-	-	GUANYL-KIN-RXN	-
+ENZRXN5F-10976	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-10975	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-8813	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-8812	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-8192	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-7300	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-6665	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-6664	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-6663	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-6662	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-5444	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-5251	Enzymatic-Reactions	4-coumarate--CoA ligase	-	-	4-COUMARATE--COA-LIGASE-RXN	-
+ENZRXN5F-11714	Enzymatic-Reactions	<i>cis</i>-3-hexenal reducatase	-	-	RXN-12300	-
+ENZRXN5F-10932	Enzymatic-Reactions	<i>cis</i>-3-hexenal reducatase	-	-	RXN-12300	-
+ENZRXN5F-10744	Enzymatic-Reactions	<i>cis</i>-3-hexenal reducatase	-	-	RXN-12300	-
+ENZRXN5F-5394	Enzymatic-Reactions	<i>cis</i>-3-hexenal reducatase	-	-	RXN-12300	-
+ENZRXN5F-4916	Enzymatic-Reactions	<i>cis</i>-3-hexenal reducatase	-	-	RXN-12300	-
+ENZRXN5F-2092	Enzymatic-Reactions	<i>cis</i>-3-hexenal reducatase	-	-	RXN-12300	-
+ENZRXN5F-2087	Enzymatic-Reactions	<i>cis</i>-3-hexenal reducatase	-	-	RXN-12300	-
+ENZRXN5F-1707	Enzymatic-Reactions	<i>cis</i>-3-hexenal reducatase	-	-	RXN-12300	-
+ENZRXN5F-10451	Enzymatic-Reactions	choline kinase	-	-	CHOLINE-KINASE-RXN	-
+ENZRXN5F-1012	Enzymatic-Reactions	choline kinase	-	-	CHOLINE-KINASE-RXN	-
+ENZRXN5F-8979	Enzymatic-Reactions	2,3,4-saturated fatty acyl-[acp] dehydrogenase	-	-	ENOYL-ACP-REDUCT-NADPH-RXN	-
+ENZRXN5F-178	Enzymatic-Reactions	2,3,4-saturated fatty acyl-[acp] dehydrogenase	-	-	ENOYL-ACP-REDUCT-NADPH-RXN	-
+ENZRXN5F-145	Enzymatic-Reactions	2,3,4-saturated fatty acyl-[acp] dehydrogenase	-	-	ENOYL-ACP-REDUCT-NADPH-RXN	-
+ENZRXN5F-9560	Enzymatic-Reactions	3-oxo-<i>cis</i>-vaccenoyl-[acp] synthase	-	-	2.3.1.179-RXN	-
+ENZRXN5F-5497	Enzymatic-Reactions	3-oxo-<i>cis</i>-vaccenoyl-[acp] synthase	-	-	2.3.1.179-RXN	-
+ENZRXN5F-8736	Enzymatic-Reactions	diacylglycerol cholinephosphotransferase	-	-	RXN-5781	-
+ENZRXN5F-7252	Enzymatic-Reactions	diacylglycerol cholinephosphotransferase	-	-	RXN-5781	-
+ENZRXN5F-3692	Enzymatic-Reactions	diacylglycerol cholinephosphotransferase	-	-	RXN-5781	-
+ENZRXN5F-10460	Enzymatic-Reactions	sphingolipid 4-monooxygenase	-	-	RXN-14250	-
+ENZRXN5F-10459	Enzymatic-Reactions	sphingolipid 4-monooxygenase	-	-	RXN-14250	-
+ENZRXN5F-4673	Enzymatic-Reactions	sphingolipid 4-monooxygenase	-	-	RXN-14250	-
+ENZRXN5F-10968	Enzymatic-Reactions	isocitrate dehydrogenase	-	-	ISOCITRATE-DEHYDROGENASE-NAD+-RXN	-
+ENZRXN5F-7581	Enzymatic-Reactions	isocitrate dehydrogenase	-	-	ISOCITRATE-DEHYDROGENASE-NAD+-RXN	-
+ENZRXN5F-4888	Enzymatic-Reactions	isocitrate dehydrogenase	-	-	ISOCITRATE-DEHYDROGENASE-NAD+-RXN	-
+ENZRXN5F-671	Enzymatic-Reactions	isocitrate dehydrogenase	-	-	ISOCITRATE-DEHYDROGENASE-NAD+-RXN	-
+ENZRXN5F-4252	Enzymatic-Reactions	adenylosuccinate lyase	-	-	AMPSYN-RXN	-
+ENZRXN5F-2127	Enzymatic-Reactions	adenylosuccinate lyase	-	-	AMPSYN-RXN	-
+ENZRXN5F-10999	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-10815	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-10568	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-10433	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-10305	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-6319	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-6318	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-5108	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-3955	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-3593	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-1977	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-1912	Enzymatic-Reactions	pyruvate kinase	-	-	PEPDEPHOS-RXN	-
+ENZRXN5F-2657	Enzymatic-Reactions	dCTP pyrophosphohydrolase	-	-	DCTP-PYROPHOSPHATASE-RXN	-
+ENZRXN5F-6839	Enzymatic-Reactions	glycerol 3-phosphate dehydrogenase	-	-	1.1.1.8-RXN	-
+ENZRXN5F-4453	Enzymatic-Reactions	glycerol 3-phosphate dehydrogenase	-	-	1.1.1.8-RXN	-
+ENZRXN5F-3687	Enzymatic-Reactions	glycerol 3-phosphate dehydrogenase	-	-	1.1.1.8-RXN	-
+ENZRXN5F-2779	Enzymatic-Reactions	glycerol 3-phosphate dehydrogenase	-	-	1.1.1.8-RXN	-
+ENZRXN5F-2778	Enzymatic-Reactions	glycerol 3-phosphate dehydrogenase	-	-	1.1.1.8-RXN	-
+ENZRXN5F-2777	Enzymatic-Reactions	glycerol 3-phosphate dehydrogenase	-	-	1.1.1.8-RXN	-
+ENZRXN5F-2144	Enzymatic-Reactions	glycerol 3-phosphate dehydrogenase	-	-	1.1.1.8-RXN	-
+ENZRXN5F-5765	Enzymatic-Reactions	agmatine deaminase	-	-	AGMATINE-DEIMINASE-RXN	-
+ENZRXN5F-5764	Enzymatic-Reactions	agmatine deaminase	-	-	AGMATINE-DEIMINASE-RXN	-
+ENZRXN5F-5763	Enzymatic-Reactions	agmatine deaminase	-	-	AGMATINE-DEIMINASE-RXN	-
+ENZRXN5F-8056	Enzymatic-Reactions	biotin carboxylase	-	-	BIOTIN-CARBOXYL-RXN	-
+ENZRXN5F-8054	Enzymatic-Reactions	biotin carboxylase	-	-	BIOTIN-CARBOXYL-RXN	-
+ENZRXN5F-8052	Enzymatic-Reactions	biotin carboxylase	-	-	BIOTIN-CARBOXYL-RXN	-
+ENZRXN5F-118	Enzymatic-Reactions	biotin carboxylase	-	-	BIOTIN-CARBOXYL-RXN	-
+ENZRXN5F-11224	Enzymatic-Reactions	phosphoethanolamine N-methyltransferase	-	-	2.1.1.103-RXN	-
+ENZRXN5F-10901	Enzymatic-Reactions	phosphoethanolamine N-methyltransferase	-	-	2.1.1.103-RXN	-
+ENZRXN5F-10828	Enzymatic-Reactions	phosphoethanolamine N-methyltransferase	-	-	2.1.1.103-RXN	-
+ENZRXN5F-8157	Enzymatic-Reactions	phosphoethanolamine N-methyltransferase	-	-	2.1.1.103-RXN	-
+ENZRXN5F-3276	Enzymatic-Reactions	phosphoethanolamine N-methyltransferase	-	-	2.1.1.103-RXN	-
+ENZRXN5F-2294	Enzymatic-Reactions	phosphoethanolamine N-methyltransferase	-	-	2.1.1.103-RXN	-
+ENZRXN5F-37	Enzymatic-Reactions	phosphoethanolamine N-methyltransferase	-	-	2.1.1.103-RXN	-
+ENZRXN5F-5119	Enzymatic-Reactions	rosmarinic acid synthase	-	-	RXN-7633	-
+ENZRXN5F-7250	Enzymatic-Reactions	1-18:2-2-16:0-monogalactosyldiacylglycerol desaturase	-	-	RXN-8304	-
+ENZRXN5F-11674	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-11300	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-11299	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-9597	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-6406	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-6404	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-6398	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-6396	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-6394	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-6392	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-6390	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-5524	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-5487	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-5309	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-4873	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-3722	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-3720	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-3718	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-3596	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-3008	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-2374	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-2290	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-688	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-687	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-686	Enzymatic-Reactions	acyl-CoA:diacylglycerol acyltransferase	-	-	DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	-
+ENZRXN5F-5999	Enzymatic-Reactions	inositol 1,4-bisphosphate 1-phosphatase	-	-	3.1.3.57-RXN	-
+ENZRXN5F-10947	Enzymatic-Reactions	adenylate kinase	-	-	ADENYL-KIN-RXN	-
+ENZRXN5F-10738	Enzymatic-Reactions	adenylate kinase	-	-	ADENYL-KIN-RXN	-
+ENZRXN5F-9493	Enzymatic-Reactions	adenylate kinase	-	-	ADENYL-KIN-RXN	-
+ENZRXN5F-6910	Enzymatic-Reactions	adenylate kinase	-	-	ADENYL-KIN-RXN	-
+ENZRXN5F-5854	Enzymatic-Reactions	adenylate kinase	-	-	ADENYL-KIN-RXN	-
+ENZRXN5F-4167	Enzymatic-Reactions	adenylate kinase	-	-	ADENYL-KIN-RXN	-
+ENZRXN5F-2785	Enzymatic-Reactions	adenylate kinase	-	-	ADENYL-KIN-RXN	-
+ENZRXN5F-1986	Enzymatic-Reactions	adenylate kinase	-	-	ADENYL-KIN-RXN	-
+ENZRXN5F-9106	Enzymatic-Reactions	<i>N</i>-carbamoylputrescine amidohydrolase	-	-	N-CARBAMOYLPUTRESCINE-AMIDASE-RXN	-
+ENZRXN5F-6306	Enzymatic-Reactions	gcv system	-	-	GCVMULTI-RXN	-
+ENZRXN5F-2071	Enzymatic-Reactions	gcv system	-	-	GCVMULTI-RXN	-
+ENZRXN5F-10096	Enzymatic-Reactions	3-hydroxyacyl-[acp] dehydratase	-	-	3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	-
+ENZRXN5F-6048	Enzymatic-Reactions	3-hydroxyacyl-[acp] dehydratase	-	-	3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	-
+ENZRXN5F-9609	Enzymatic-Reactions	<i>trans</i>-zeatin:FAD oxidoreductase	-	-	RXN-4661	-
+ENZRXN5F-9606	Enzymatic-Reactions	<i>trans</i>-zeatin:FAD oxidoreductase	-	-	RXN-4661	-
+ENZRXN5F-5483	Enzymatic-Reactions	<i>trans</i>-zeatin:FAD oxidoreductase	-	-	RXN-4661	-
+ENZRXN5F-5480	Enzymatic-Reactions	<i>trans</i>-zeatin:FAD oxidoreductase	-	-	RXN-4661	-
+ENZRXN5F-4175	Enzymatic-Reactions	very-long-chain enoyl-CoA reductase	-	-	RXN-7711	-
+ENZRXN5F-11153	Enzymatic-Reactions	SAM isoeugenol <i>O</i>-methyltransferase	-	-	2.1.1.146-RXN	-
+ENZRXN5F-10465	Enzymatic-Reactions	phosphatidylinositol-3-phosphate 5-kinase	-	-	2.7.1.150-RXN	-
+ENZRXN5F-6285	Enzymatic-Reactions	phosphatidylinositol-3-phosphate 5-kinase	-	-	2.7.1.150-RXN	-
+ENZRXN5F-5507	Enzymatic-Reactions	phosphatidylinositol-3-phosphate 5-kinase	-	-	2.7.1.150-RXN	-
+ENZRXN5F-1292	Enzymatic-Reactions	phosphatidylinositol-3-phosphate 5-kinase	-	-	2.7.1.150-RXN	-
+ENZRXN5F-10097	Enzymatic-Reactions	L,L-diaminopimelate aminotransferase	-	-	RXN-7737	-
+ENZRXN5F-6087	Enzymatic-Reactions	L,L-diaminopimelate aminotransferase	-	-	RXN-7737	-
+ENZRXN5F-10463	Enzymatic-Reactions	trans-5-O-(4-coumaroyl)-D-quinate,NADPH:oxygen oxidoreductase (3-hydroxylating)	-	-	1.14.13.36-RXN	-
+ENZRXN5F-7248	Enzymatic-Reactions	palmitoyl-lipid 7-desaturase	-	-	RXN-16048	-
+ENZRXN5F-10389	Enzymatic-Reactions	18-hydroxyoleate dehydrogenase	-	-	RXN-16416	-
+ENZRXN5F-10386	Enzymatic-Reactions	18-hydroxyoleate dehydrogenase	-	-	RXN-16416	-
+ENZRXN5F-10383	Enzymatic-Reactions	18-hydroxyoleate dehydrogenase	-	-	RXN-16416	-
+ENZRXN5F-8909	Enzymatic-Reactions	18-hydroxyoleate dehydrogenase	-	-	RXN-16416	-
+ENZRXN5F-5159	Enzymatic-Reactions	18-hydroxyoleate dehydrogenase	-	-	RXN-16416	-
+ENZRXN5F-5156	Enzymatic-Reactions	18-hydroxyoleate dehydrogenase	-	-	RXN-16416	-
+ENZRXN5F-5153	Enzymatic-Reactions	18-hydroxyoleate dehydrogenase	-	-	RXN-16416	-
+ENZRXN5F-4661	Enzymatic-Reactions	18-hydroxyoleate dehydrogenase	-	-	RXN-16416	-
+ENZRXN5F-1362	Enzymatic-Reactions	18-hydroxyoleate dehydrogenase	-	-	RXN-16416	-
+ENZRXN5F-8131	Enzymatic-Reactions	UDP-glucose:<i>trans</i>-zeatin 7-N-glucosyltransferase	-	-	RXN-4721	-
+ENZRXN5F-8118	Enzymatic-Reactions	UDP-glucose:<i>trans</i>-zeatin 7-N-glucosyltransferase	-	-	RXN-4721	-
+ENZRXN5F-11166	Enzymatic-Reactions	shikimate dehydrogenase	-	-	SHIKIMATE-5-DEHYDROGENASE-RXN	-
+ENZRXN5F-6109	Enzymatic-Reactions	shikimate dehydrogenase	-	-	SHIKIMATE-5-DEHYDROGENASE-RXN	-
+ENZRXN-15368	Enzymatic-Reactions	pelargonidin reductase	-	-	RXN-9724	-
+ENZRXN5F-10391	Enzymatic-Reactions	16-hydroxypalmitate dehydrogenase	-	-	RXN-9802	-
+ENZRXN5F-10388	Enzymatic-Reactions	16-hydroxypalmitate dehydrogenase	-	-	RXN-9802	-
+ENZRXN5F-10385	Enzymatic-Reactions	16-hydroxypalmitate dehydrogenase	-	-	RXN-9802	-
+ENZRXN5F-8911	Enzymatic-Reactions	16-hydroxypalmitate dehydrogenase	-	-	RXN-9802	-
+ENZRXN5F-5161	Enzymatic-Reactions	16-hydroxypalmitate dehydrogenase	-	-	RXN-9802	-
+ENZRXN5F-5158	Enzymatic-Reactions	16-hydroxypalmitate dehydrogenase	-	-	RXN-9802	-
+ENZRXN5F-5155	Enzymatic-Reactions	16-hydroxypalmitate dehydrogenase	-	-	RXN-9802	-
+ENZRXN5F-4663	Enzymatic-Reactions	16-hydroxypalmitate dehydrogenase	-	-	RXN-9802	-
+ENZRXN5F-1364	Enzymatic-Reactions	16-hydroxypalmitate dehydrogenase	-	-	RXN-9802	-
+ENZRXN5F-11399	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-11326	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-10681	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-10331	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-7904	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-7794	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-6550	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-5202	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-5198	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-1780	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-154	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-150	Enzymatic-Reactions	acyl-CoA synthetase	-	-	RXN-9644	-
+ENZRXN5F-6252	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-3680	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-2851	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-2730	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-2728	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-1745	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-1397	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-971	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-970	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-969	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-968	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-967	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-944	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-943	Enzymatic-Reactions	NADP<sup>+</sup>-dependent glucose-6-phosphate dehydrogenase	-	-	GLU6PDEHYDROG-RXN	-
+ENZRXN5F-9864	Enzymatic-Reactions	<i>S</i>-adenosylmethionine decarboxylase	-	-	SAMDECARB-RXN	-
+ENZRXN5F-6849	Enzymatic-Reactions	<i>S</i>-adenosylmethionine decarboxylase	-	-	SAMDECARB-RXN	-
+ENZRXN5F-6818	Enzymatic-Reactions	<i>S</i>-adenosylmethionine decarboxylase	-	-	SAMDECARB-RXN	-
+ENZRXN5F-5601	Enzymatic-Reactions	<i>S</i>-adenosylmethionine decarboxylase	-	-	SAMDECARB-RXN	-
+ENZRXN5F-2887	Enzymatic-Reactions	<i>S</i>-adenosylmethionine decarboxylase	-	-	SAMDECARB-RXN	-
+ENZRXN5F-2886	Enzymatic-Reactions	<i>S</i>-adenosylmethionine decarboxylase	-	-	SAMDECARB-RXN	-
+ENZRXN5F-2885	Enzymatic-Reactions	<i>S</i>-adenosylmethionine decarboxylase	-	-	SAMDECARB-RXN	-
+ENZRXN5F-2884	Enzymatic-Reactions	<i>S</i>-adenosylmethionine decarboxylase	-	-	SAMDECARB-RXN	-
+ENZRXN5F-726	Enzymatic-Reactions	<i>S</i>-adenosylmethionine decarboxylase	-	-	SAMDECARB-RXN	-
+ENZRXN5F-6187	Enzymatic-Reactions	palmitoyl-CoA thioesterase	-	-	PALMITOYL-COA-HYDROLASE-RXN	-
+ENZRXN5F-5228	Enzymatic-Reactions	palmitoyl-CoA thioesterase	-	-	PALMITOYL-COA-HYDROLASE-RXN	-
+ENZRXN5F-2380	Enzymatic-Reactions	palmitoyl-CoA thioesterase	-	-	PALMITOYL-COA-HYDROLASE-RXN	-
+ENZRXN5F-2332	Enzymatic-Reactions	palmitoyl-CoA thioesterase	-	-	PALMITOYL-COA-HYDROLASE-RXN	-
+ENZRXN5F-1193	Enzymatic-Reactions	palmitoyl-CoA thioesterase	-	-	PALMITOYL-COA-HYDROLASE-RXN	-
+ENZRXN5F-9528	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-9356	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-9355	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-8816	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-8603	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-8444	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-8443	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-8442	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7575	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7573	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7572	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7571	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7566	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7270	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7269	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7268	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7267	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7266	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7188	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7187	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7167	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7063	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7061	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7060	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7059	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-5969	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-5968	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-5967	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-3581	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-3449	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-2815	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-2252	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-2230	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-2229	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-2228	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-1019	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-1008	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-936	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-628	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-627	Enzymatic-Reactions	shikimate O-hydroxycinnamoyltransferase	-	-	2.3.1.133-RXN	-
+ENZRXN5F-7364	Enzymatic-Reactions	ornithine decarboxylase	-	-	ORNDECARBOX-RXN	-
+ENZRXN5F-7363	Enzymatic-Reactions	ornithine decarboxylase	-	-	ORNDECARBOX-RXN	-
+ENZRXN5F-7362	Enzymatic-Reactions	ornithine decarboxylase	-	-	ORNDECARBOX-RXN	-
+ENZRXN5F-8800	Enzymatic-Reactions	2'-deoxyguanosine kinase	-	-	DEOXYGUANOSINE-KINASE-RXN	-
+ENZRXN5F-10666	Enzymatic-Reactions	fumarase C	-	-	FUMHYDR-RXN	-
+ENZRXN5F-11165	Enzymatic-Reactions	3-dehydroquinate dehydratase	-	-	3-DEHYDROQUINATE-DEHYDRATASE-RXN	-
+ENZRXN5F-6108	Enzymatic-Reactions	3-dehydroquinate dehydratase	-	-	3-DEHYDROQUINATE-DEHYDRATASE-RXN	-
+ENZRXN5F-9488	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-9487	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-9486	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-6706	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-6701	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-6700	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-6699	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-5415	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-2168	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-2167	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-2166	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-1482	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-1481	Enzymatic-Reactions	fatty aldehyde decarbonylase	-	-	RXN-1025	-
+ENZRXN5F-9847	Enzymatic-Reactions	ATP-dependent NADH-hydrate dehydratase	-	-	4.2.1.93-RXN	-
+ENZRXN5F-5924	Enzymatic-Reactions	Ins(1,4,5)P<sub>3</sub> 5-phosphatase	-	-	3.1.3.56-RXN	-
+ENZRXN5F-5922	Enzymatic-Reactions	Ins(1,4,5)P<sub>3</sub> 5-phosphatase	-	-	3.1.3.56-RXN	-
+ENZRXN5F-5110	Enzymatic-Reactions	Ins(1,4,5)P<sub>3</sub> 5-phosphatase	-	-	3.1.3.56-RXN	-
+ENZRXN5F-3323	Enzymatic-Reactions	Ins(1,4,5)P<sub>3</sub> 5-phosphatase	-	-	3.1.3.56-RXN	-
+ENZRXN5F-3095	Enzymatic-Reactions	Ins(1,4,5)P<sub>3</sub> 5-phosphatase	-	-	3.1.3.56-RXN	-
+ENZRXN5F-4999	Enzymatic-Reactions	UDP-glucose:coniferaldehyde 4-&beta;-D-glucosyltransferase	-	-	RXN-91	-
+ENZRXN-15401	Enzymatic-Reactions	cyanidin reductase	-	-	RXN-9725	-
+ENZRXN5F-9706	Enzymatic-Reactions	ATP-citrate synthase	-	-	ATP-CITRATE-PRO-S--LYASE-RXN	-
+ENZRXN5F-9392	Enzymatic-Reactions	ATP-citrate synthase	-	-	ATP-CITRATE-PRO-S--LYASE-RXN	-
+ENZRXN5F-4719	Enzymatic-Reactions	ATP-citrate synthase	-	-	ATP-CITRATE-PRO-S--LYASE-RXN	-
+ENZRXN5F-10464	Enzymatic-Reactions	p-coumaroyl ester 3'-hydroxylase	-	-	RXN-2581	-
+ENZRXN5F-4476	Enzymatic-Reactions	glucose-6-phosphate isomerase	-	-	PGLUCISOM-RXN	-
+ENZRXN5F-3852	Enzymatic-Reactions	glucose-6-phosphate isomerase	-	-	PGLUCISOM-RXN	-
+ENZRXN5F-4717	Enzymatic-Reactions	phosphatidylinositol 3-kinase	-	-	1-PHOSPHATIDYLINOSITOL-3-KINASE-RXN	-
+ENZRXN5F-554	Enzymatic-Reactions	methylsalicylate esterase	-	-	RXNQT-4366	-
+ENZRXN5F-7131	Enzymatic-Reactions	S-adenosyl-L-methionine:benzoic acid carboxymethyltransferase	-	-	RXN-6722	-
+ENZRXN5F-4610	Enzymatic-Reactions	S-adenosyl-L-methionine:benzoic acid carboxymethyltransferase	-	-	RXN-6722	-
+ENZRXN5F-2262	Enzymatic-Reactions	S-adenosyl-L-methionine:benzoic acid carboxymethyltransferase	-	-	RXN-6722	-
+ENZRXN5F-601	Enzymatic-Reactions	S-adenosyl-L-methionine:benzoic acid carboxymethyltransferase	-	-	RXN-6722	-
+ENZRXN5F-599	Enzymatic-Reactions	S-adenosyl-L-methionine:benzoic acid carboxymethyltransferase	-	-	RXN-6722	-
+ENZRXN5F-11397	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-11324	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-10679	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-10329	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-8364	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-7902	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-7792	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-7418	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-7215	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-7178	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-6548	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-5200	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-5196	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-3367	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-1778	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-152	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-148	Enzymatic-Reactions	Very long-chain acyl-CoA synthetase	-	-	RXN-7904	-
+ENZRXN5F-3949	Enzymatic-Reactions	glucuronokinase	-	-	GLUCURONOKINASE-RXN	-
+ENZRXN5F-8966	Enzymatic-Reactions	triose-phosphate isomerase	-	-	TRIOSEPISOMERIZATION-RXN	-
+ENZRXN5F-1941	Enzymatic-Reactions	triose-phosphate isomerase	-	-	TRIOSEPISOMERIZATION-RXN	-
+ENZRXN5F-11532	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-10952	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-10941	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-10234	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-10232	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-8283	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-7579	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-5885	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-5294	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-2296	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-1987	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-1829	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-598	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-597	Enzymatic-Reactions	phosphatidate phosphatase	-	-	PHOSPHATIDATE-PHOSPHATASE-RXN	-
+ENZRXN5F-3266	Enzymatic-Reactions	dihydropyrimidine dehydrogenase	-	-	1.3.1.2-RXN	-
+ENZRXN5F-2152	Enzymatic-Reactions	UDP-sulfoquinovose synthase	-	-	RXN-1223	-
+ENZRXN5F-9608	Enzymatic-Reactions	isopentenyladenine:FAD oxidoreductase	-	-	RXN-4621	-
+ENZRXN5F-9605	Enzymatic-Reactions	isopentenyladenine:FAD oxidoreductase	-	-	RXN-4621	-
+ENZRXN5F-5482	Enzymatic-Reactions	isopentenyladenine:FAD oxidoreductase	-	-	RXN-4621	-
+ENZRXN5F-5479	Enzymatic-Reactions	isopentenyladenine:FAD oxidoreductase	-	-	RXN-4621	-
+ENZRXN5F-2146	Enzymatic-Reactions	isopentenyladenine:FAD oxidoreductase	-	-	RXN-4621	-
+ENZRXN5F-6379	Enzymatic-Reactions	3-methoxy-5-hydroxytoluene <i>O</i>-methyltransferase	-	-	RXN-9018	-
+ENZRXN5F-4342	Enzymatic-Reactions	3-methoxy-5-hydroxytoluene <i>O</i>-methyltransferase	-	-	RXN-9018	-
+ENZRXN5F-4338	Enzymatic-Reactions	3-methoxy-5-hydroxytoluene <i>O</i>-methyltransferase	-	-	RXN-9018	-
+ENZRXN5F-4334	Enzymatic-Reactions	3-methoxy-5-hydroxytoluene <i>O</i>-methyltransferase	-	-	RXN-9018	-
+ENZRXN5F-4330	Enzymatic-Reactions	3-methoxy-5-hydroxytoluene <i>O</i>-methyltransferase	-	-	RXN-9018	-
+ENZRXN5F-4325	Enzymatic-Reactions	3-methoxy-5-hydroxytoluene <i>O</i>-methyltransferase	-	-	RXN-9018	-
+ENZRXN5F-185	Enzymatic-Reactions	xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)	-	-	GMP-SYN-GLUT-RXN	-
+ENZRXN5F-7282	Enzymatic-Reactions	phosphatidyl-<i>N</i>-methylethanolamine <i>N</i>-methyltransferase	-	-	2.1.1.71-RXN	-
+ENZRXN5F-7281	Enzymatic-Reactions	phosphatidyl-<i>N</i>-methylethanolamine <i>N</i>-methyltransferase	-	-	2.1.1.71-RXN	-
+ENZRXN5F-4660	Enzymatic-Reactions	phosphatidyl-<i>N</i>-methylethanolamine <i>N</i>-methyltransferase	-	-	2.1.1.71-RXN	-
+ENZRXN5F-8799	Enzymatic-Reactions	2'-deoxycytidine kinase	-	-	DEOXYCYTIDINE-KINASE-RXN	-
+ENZRXN5F-10046	Enzymatic-Reactions	MtrunA17_Chr8g0364651	-	-	RXN-1062	-
+ENZRXN5F-828	Enzymatic-Reactions	MtrunA17_Chr8g0364651	-	-	RXN-1062	-
+ENZRXN5F-826	Enzymatic-Reactions	MtrunA17_Chr8g0364651	-	-	RXN-1062	-
+ENZRXN5F-10235	Enzymatic-Reactions	diacylglycerol pyrophosphate phosphatase	-	-	RXN-11277	-
+ENZRXN5F-10233	Enzymatic-Reactions	diacylglycerol pyrophosphate phosphatase	-	-	RXN-11277	-
+ENZRXN5F-8284	Enzymatic-Reactions	diacylglycerol pyrophosphate phosphatase	-	-	RXN-11277	-
+ENZRXN5F-9848	Enzymatic-Reactions	ATP-dependent NADPH-hydrate dehydratase	-	-	RXN-13139	-
+ENZRXN5F-8433	Enzymatic-Reactions	1-18:1-2-16:0-phosphatidylglycerol desaturase	-	-	RXN-1725	-
+ENZRXN5F-10093	Enzymatic-Reactions	2-monoacylglycerol acylhydrolase	-	-	RXN-7952	-
+ENZRXN5F-9942	Enzymatic-Reactions	2-monoacylglycerol acylhydrolase	-	-	RXN-7952	-
+ENZRXN5F-7812	Enzymatic-Reactions	2-monoacylglycerol acylhydrolase	-	-	RXN-7952	-
+ENZRXN5F-6364	Enzymatic-Reactions	2-monoacylglycerol acylhydrolase	-	-	RXN-7952	-
+ENZRXN5F-6185	Enzymatic-Reactions	2-monoacylglycerol acylhydrolase	-	-	RXN-7952	-
+ENZRXN5F-6179	Enzymatic-Reactions	2-monoacylglycerol acylhydrolase	-	-	RXN-7952	-
+ENZRXN5F-4981	Enzymatic-Reactions	2-monoacylglycerol acylhydrolase	-	-	RXN-7952	-
+ENZRXN5F-3187	Enzymatic-Reactions	2-monoacylglycerol acylhydrolase	-	-	RXN-7952	-
+ENZRXN5F-1687	Enzymatic-Reactions	2-monoacylglycerol acylhydrolase	-	-	RXN-7952	-
+ENZRXN5F-316	Enzymatic-Reactions	2-monoacylglycerol acylhydrolase	-	-	RXN-7952	-
+ENZRXN5F-8452	Enzymatic-Reactions	malate synthase A	-	-	MALSYN-RXN	-
+ENZRXN5F-1219	Enzymatic-Reactions	malate synthase A	-	-	MALSYN-RXN	-
+ENZRXN5F-10569	Enzymatic-Reactions	lipoate acetyltransferase	-	-	RXN0-1133	-
+ENZRXN5F-10484	Enzymatic-Reactions	lipoate acetyltransferase	-	-	RXN0-1133	-
+ENZRXN5F-10214	Enzymatic-Reactions	lipoate acetyltransferase	-	-	RXN0-1133	-
+ENZRXN5F-1329	Enzymatic-Reactions	lipoate acetyltransferase	-	-	RXN0-1133	-
+ENZRXN5F-11167	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-10677	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-9641	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-8462	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-8456	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-8454	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-7162	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-5449	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-4796	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-4522	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-4260	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-4094	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-2511	Enzymatic-Reactions	acyl-acp:<i>sn</i>-glycerol-3-phosphate 1-<i>O</i>-acyltransferase	-	-	RXN-10462	-
+ENZRXN5F-9016	Enzymatic-Reactions	(2<i>R</i>)-2,3-dihydroxy-3-methylbutanoate:NADP<sup>+</sup> oxidoreductase (isomerizing)	-	-	ACETOLACTREDUCTOISOM-RXN	-
+ENZRXN5F-9015	Enzymatic-Reactions	(2<i>R</i>)-2,3-dihydroxy-3-methylbutanoate:NADP<sup>+</sup> oxidoreductase (isomerizing)	-	-	ACETOLACTREDUCTOISOM-RXN	-
+ENZRXN5F-6367	Enzymatic-Reactions	(2<i>R</i>)-2,3-dihydroxy-3-methylbutanoate:NADP<sup>+</sup> oxidoreductase (isomerizing)	-	-	ACETOLACTREDUCTOISOM-RXN	-
+ENZRXN5F-2783	Enzymatic-Reactions	(2<i>R</i>)-2,3-dihydroxy-3-methylbutanoate:NADP<sup>+</sup> oxidoreductase (isomerizing)	-	-	ACETOLACTREDUCTOISOM-RXN	-
+ENZRXN5F-10499	Enzymatic-Reactions	chorismate synthase	-	-	CHORISMATE-SYNTHASE-RXN	-
+ENZRXN5F-7589	Enzymatic-Reactions	NADHX epimerase	-	-	RXN-12752	-
+ENZRXN5F-11009	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-10238	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-6668	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-6513	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-6512	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-6511	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-4442	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-4441	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-4440	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-3995	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-1903	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-1902	Enzymatic-Reactions	fructose-bisphosphate aldolase	-	-	F16ALDOLASE-RXN	-
+ENZRXN5F-9374	Enzymatic-Reactions	glyceraldehyde-3-phosphate dehydrogenase	-	-	GAPOXNPHOSPHN-RXN	-
+ENZRXN5F-9209	Enzymatic-Reactions	glyceraldehyde-3-phosphate dehydrogenase	-	-	GAPOXNPHOSPHN-RXN	-
+ENZRXN5F-7837	Enzymatic-Reactions	glyceraldehyde-3-phosphate dehydrogenase	-	-	GAPOXNPHOSPHN-RXN	-
+ENZRXN5F-5852	Enzymatic-Reactions	glyceraldehyde-3-phosphate dehydrogenase	-	-	GAPOXNPHOSPHN-RXN	-
+ENZRXN5F-3682	Enzymatic-Reactions	glyceraldehyde-3-phosphate dehydrogenase	-	-	GAPOXNPHOSPHN-RXN	-
+ENZRXN5F-966	Enzymatic-Reactions	glyceraldehyde-3-phosphate dehydrogenase	-	-	GAPOXNPHOSPHN-RXN	-
+ENZRXN5F-898	Enzymatic-Reactions	glyceraldehyde-3-phosphate dehydrogenase	-	-	GAPOXNPHOSPHN-RXN	-
+ENZRXN5F-7119	Enzymatic-Reactions	inositolphosphorylceramide synthase	-	-	RXN-7795	-
+ENZRXN5F-2525	Enzymatic-Reactions	inositolphosphorylceramide synthase	-	-	RXN-7795	-
+ENZRXN5F-6896	Enzymatic-Reactions	CMP kinase	-	-	RXN-11832	-
+ENZRXN5F-4443	Enzymatic-Reactions	CMP kinase	-	-	RXN-11832	-
+ENZRXN5F-1483	Enzymatic-Reactions	CMP kinase	-	-	RXN-11832	-
+ENZRXN5F-9985	Enzymatic-Reactions	catechol oxidase	-	-	CATECHOL-OXIDASE-RXN	-
+ENZRXN5F-9984	Enzymatic-Reactions	catechol oxidase	-	-	CATECHOL-OXIDASE-RXN	-
+ENZRXN5F-6963	Enzymatic-Reactions	catechol oxidase	-	-	CATECHOL-OXIDASE-RXN	-
+ENZRXN5F-6962	Enzymatic-Reactions	catechol oxidase	-	-	CATECHOL-OXIDASE-RXN	-
+ENZRXN5F-11421	Enzymatic-Reactions	spermine synthase	-	-	SPERMINE-SYNTHASE-RXN	-
+ENZRXN5F-7738	Enzymatic-Reactions	spermine synthase	-	-	SPERMINE-SYNTHASE-RXN	-
+ENZRXN5F-10250	Enzymatic-Reactions	ribose-5-phosphate isomerase	-	-	RIB5PISOM-RXN	-
+ENZRXN5F-9719	Enzymatic-Reactions	ribose-5-phosphate isomerase	-	-	RIB5PISOM-RXN	-
+ENZRXN5F-1659	Enzymatic-Reactions	ribose-5-phosphate isomerase	-	-	RIB5PISOM-RXN	-
+ENZRXN5F-1658	Enzymatic-Reactions	ribose-5-phosphate isomerase	-	-	RIB5PISOM-RXN	-
+ENZRXN5F-1657	Enzymatic-Reactions	ribose-5-phosphate isomerase	-	-	RIB5PISOM-RXN	-
+ENZRXN5F-188	Enzymatic-Reactions	ribose-5-phosphate isomerase	-	-	RIB5PISOM-RXN	-
+ENZRXN5F-10213	Enzymatic-Reactions	cinnamate 4-hydroxylase	-	-	TRANS-CINNAMATE-4-MONOOXYGENASE-RXN	-
+ENZRXN5F-4311	Enzymatic-Reactions	cinnamate 4-hydroxylase	-	-	TRANS-CINNAMATE-4-MONOOXYGENASE-RXN	-
+ENZRXN5F-10149	Enzymatic-Reactions	transketolase	-	-	2TRANSKETO-RXN	-
+ENZRXN5F-7047	Enzymatic-Reactions	transketolase	-	-	2TRANSKETO-RXN	-
+ENZRXN5F-10240	Enzymatic-Reactions	Oleoyl-[acyl-carrier-protein] hydrolase	-	-	3.1.2.14-RXN	-
+ENZRXN5F-9474	Enzymatic-Reactions	Oleoyl-[acyl-carrier-protein] hydrolase	-	-	3.1.2.14-RXN	-
+ENZRXN5F-7608	Enzymatic-Reactions	Oleoyl-[acyl-carrier-protein] hydrolase	-	-	3.1.2.14-RXN	-
+ENZRXN5F-5751	Enzymatic-Reactions	Oleoyl-[acyl-carrier-protein] hydrolase	-	-	3.1.2.14-RXN	-
+ENZRXN5F-2634	Enzymatic-Reactions	Oleoyl-[acyl-carrier-protein] hydrolase	-	-	3.1.2.14-RXN	-
+ENZRXN5F-8146	Enzymatic-Reactions	2,3,4-saturated fatty acyl-[acp]:NAD+ oxidoreductase	-	-	ENOYL-ACP-REDUCT-NADH-RXN	-
+ENZRXN5F-6465	Enzymatic-Reactions	2,3,4-saturated fatty acyl-[acp]:NAD+ oxidoreductase	-	-	ENOYL-ACP-REDUCT-NADH-RXN	-
+ENZRXN5F-2653	Enzymatic-Reactions	2,3,4-saturated fatty acyl-[acp]:NAD+ oxidoreductase	-	-	ENOYL-ACP-REDUCT-NADH-RXN	-
+ENZRXN5F-7124	Enzymatic-Reactions	arginase	-	-	ARGINASE-RXN	-
+ENZRXN5F-7041	Enzymatic-Reactions	arginase	-	-	ARGINASE-RXN	-
+ENZRXN5F-7039	Enzymatic-Reactions	arginase	-	-	ARGINASE-RXN	-
+ENZRXN5F-3442	Enzymatic-Reactions	arginase	-	-	ARGINASE-RXN	-
+ENZRXN5F-4802	Enzymatic-Reactions	phosphoribulokinase	-	-	PHOSPHORIBULOKINASE-RXN	-
+ENZRXN5F-11552	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-11463	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-11462	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-11461	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-11460	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-11459	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-11458	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-11201	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10927	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10788	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10787	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10786	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10785	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10784	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10671	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10414	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10267	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10231	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10139	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-10111	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9958	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9927	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9926	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9925	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9924	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9923	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9922	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9921	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9920	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9919	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9918	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9917	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9709	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9708	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9432	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9431	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9124	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-9099	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8887	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8792	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8791	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8636	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8633	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8624	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8535	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8425	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8424	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8423	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8299	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-8174	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7920	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7919	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7918	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7916	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7915	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7914	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7897	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7814	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7813	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7624	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7522	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7375	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7374	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-7120	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-6907	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-6884	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-6682	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-6681	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-6680	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-6679	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-6424	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-6168	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-5907	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-5783	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-5548	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-5268	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-5213	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-5124	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-5043	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4983	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4908	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4907	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4724	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4600	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4492	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4347	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4346	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4268	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4229	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4200	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4199	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4198	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4193	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4171	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-4079	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3752	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3691	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3661	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3660	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3659	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3658	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3657	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3656	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3655	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3654	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3650	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3599	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3598	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3597	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3584	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3437	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3197	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3163	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3062	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-3025	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-2792	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-2734	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-2717	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-2716	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-2317	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-2316	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-2153	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-2067	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-2064	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-2061	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-1630	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-1629	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-1628	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-1627	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-1574	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-1446	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-1399	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-656	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-655	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-654	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-653	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-641	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-640	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-639	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-555	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-374	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-373	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-314	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-279	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-74	Enzymatic-Reactions	TGL1	-	-	TRIACYLGLYCEROL-LIPASE-RXN	-
+ENZRXN5F-11354	Enzymatic-Reactions	acetyl-CoA:propanol <i>O</i>-acetyltransferase	-	-	RXN-18669	-
+ENZRXN5F-11187	Enzymatic-Reactions	acetyl-CoA:propanol <i>O</i>-acetyltransferase	-	-	RXN-18669	-
+ENZRXN5F-8098	Enzymatic-Reactions	acetyl-CoA:propanol <i>O</i>-acetyltransferase	-	-	RXN-18669	-
+ENZRXN5F-7400	Enzymatic-Reactions	acetyl-CoA:propanol <i>O</i>-acetyltransferase	-	-	RXN-18669	-
+ENZRXN5F-2881	Enzymatic-Reactions	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	-	-	3PGAREARR-RXN	-
+ENZRXN5F-2441	Enzymatic-Reactions	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	-	-	3PGAREARR-RXN	-
+ENZRXN5F-8140	Enzymatic-Reactions	UDP-glucose:cis-zeatin 7-N-glucosyltransferase	-	-	RXN-4733	-
+ENZRXN5F-8127	Enzymatic-Reactions	UDP-glucose:cis-zeatin 7-N-glucosyltransferase	-	-	RXN-4733	-
+ENZRXN5F-11247	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-11246	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-11245	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-11243	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-11242	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-11241	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-11240	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-10767	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-8428	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-4291	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-3373	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-3372	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-3368	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-3364	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-1669	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-1668	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-1667	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-1666	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-1665	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-1664	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-1662	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-1661	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-1043	Enzymatic-Reactions	benzoyl-CoA:benzyl alcohol benzoyltransferase	-	-	RXN-6724	-
+ENZRXN5F-3572	Enzymatic-Reactions	lupeol synthase	-	-	RXN-111	-
+ENZRXN5F-3571	Enzymatic-Reactions	lupeol synthase	-	-	RXN-111	-
+ENZRXN5F-3570	Enzymatic-Reactions	lupeol synthase	-	-	RXN-111	-
+ENZRXN5F-3569	Enzymatic-Reactions	lupeol synthase	-	-	RXN-111	-
+ENZRXN5F-3568	Enzymatic-Reactions	lupeol synthase	-	-	RXN-111	-
+ENZRXN5F-3567	Enzymatic-Reactions	lupeol synthase	-	-	RXN-111	-
+ENZRXN5F-3566	Enzymatic-Reactions	lupeol synthase	-	-	RXN-111	-
+ENZRXN5F-3083	Enzymatic-Reactions	lupeol synthase	-	-	RXN-111	-
+ENZRXN5F-3082	Enzymatic-Reactions	lupeol synthase	-	-	RXN-111	-
+ENZRXN5F-9691	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-6277	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-6268	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-6260	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-5654	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-5642	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-5629	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-5616	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-5607	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-3549	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-3540	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-2962	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-1126	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-785	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-526	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-515	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-506	Enzymatic-Reactions	<i>trans</i>-cinnamate glucosyltransferase	-	-	CINNAMATE-GLUCOSYLTRANSFERASE-RXN	-
+ENZRXN5F-8114	Enzymatic-Reactions	caffeoyl-CoA:shikimate O-(hydroxycinnamoyl)transferase	-	-	RXN-2621	-
+ENZRXN5F-4244	Enzymatic-Reactions	caffeoyl-CoA:shikimate O-(hydroxycinnamoyl)transferase	-	-	RXN-2621	-
+ENZRXN5F-2814	Enzymatic-Reactions	caffeoyl-CoA:shikimate O-(hydroxycinnamoyl)transferase	-	-	RXN-2621	-
+ENZRXN5F-9485	Enzymatic-Reactions	diacylglycerol kinase	-	-	DIACYLGLYKIN-RXN	-
+ENZRXN5F-9050	Enzymatic-Reactions	diacylglycerol kinase	-	-	DIACYLGLYKIN-RXN	-
+ENZRXN5F-6799	Enzymatic-Reactions	diacylglycerol kinase	-	-	DIACYLGLYKIN-RXN	-
+ENZRXN5F-5774	Enzymatic-Reactions	diacylglycerol kinase	-	-	DIACYLGLYKIN-RXN	-
+ENZRXN5F-5425	Enzymatic-Reactions	diacylglycerol kinase	-	-	DIACYLGLYKIN-RXN	-
+ENZRXN5F-2826	Enzymatic-Reactions	diacylglycerol kinase	-	-	DIACYLGLYKIN-RXN	-
+ENZRXN5F-2365	Enzymatic-Reactions	diacylglycerol kinase	-	-	DIACYLGLYKIN-RXN	-
+ENZRXN5F-899	Enzymatic-Reactions	diacylglycerol kinase	-	-	DIACYLGLYKIN-RXN	-
+ENZRXN5F-230	Enzymatic-Reactions	diacylglycerol kinase	-	-	DIACYLGLYKIN-RXN	-
+ENZRXN5F-10630	Enzymatic-Reactions	4-hydroxy-tetrahydrodipicolinate synthase	-	-	DIHYDRODIPICSYN-RXN	-
+ENZRXN5F-2421	Enzymatic-Reactions	4-hydroxy-tetrahydrodipicolinate synthase	-	-	DIHYDRODIPICSYN-RXN	-
+ENZRXN5F-1089	Enzymatic-Reactions	4-hydroxy-tetrahydrodipicolinate synthase	-	-	DIHYDRODIPICSYN-RXN	-
+ENZRXN5F-1088	Enzymatic-Reactions	4-hydroxy-tetrahydrodipicolinate synthase	-	-	DIHYDRODIPICSYN-RXN	-
+ENZRXN5F-1087	Enzymatic-Reactions	4-hydroxy-tetrahydrodipicolinate synthase	-	-	DIHYDRODIPICSYN-RXN	-
+ENZRXN5F-1086	Enzymatic-Reactions	4-hydroxy-tetrahydrodipicolinate synthase	-	-	DIHYDRODIPICSYN-RXN	-
+ENZRXN5F-8137	Enzymatic-Reactions	benzyladenine UDP glycosyltransferase	-	-	RXN-4730	-
+ENZRXN5F-8124	Enzymatic-Reactions	benzyladenine UDP glycosyltransferase	-	-	RXN-4730	-
+ENZRXN5F-7727	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-7662	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-7349	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-5210	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-4605	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-2893	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-2179	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-1602	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-1254	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-800	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-260	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-142	Enzymatic-Reactions	phosphatidylinositol 4-kinase	-	-	1-PHOSPHATIDYLINOSITOL-KINASE-RXN	-
+ENZRXN5F-10928	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-10420	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-10419	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-10418	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-10417	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-10416	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-8007	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-8006	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-7834	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-7833	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-7832	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-7831	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-7830	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-7739	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-6523	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-5826	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-3426	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-3424	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-1995	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-342	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-183	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-130	Enzymatic-Reactions	very-long-chain 3-oxoacyl-CoA reductase	-	-	RXN-7698	-
+ENZRXN5F-11429	Enzymatic-Reactions	indole-3-acetyl-L-alanine hydrolase	-	-	RXN-2981	-
+ENZRXN5F-8961	Enzymatic-Reactions	indole-3-acetyl-L-alanine hydrolase	-	-	RXN-2981	-
+ENZRXN5F-8893	Enzymatic-Reactions	indole-3-acetyl-L-alanine hydrolase	-	-	RXN-2981	-
+ENZRXN5F-7785	Enzymatic-Reactions	indole-3-acetyl-L-alanine hydrolase	-	-	RXN-2981	-
+ENZRXN5F-7708	Enzymatic-Reactions	indole-3-acetyl-L-alanine hydrolase	-	-	RXN-2981	-
+ENZRXN5F-9815	Enzymatic-Reactions	CTP:phosphatidate cytidyltransferase	-	-	CDPDIGLYSYN-RXN	-
+ENZRXN5F-8445	Enzymatic-Reactions	CTP:phosphatidate cytidyltransferase	-	-	CDPDIGLYSYN-RXN	-
+ENZRXN5F-8249	Enzymatic-Reactions	CTP:phosphatidate cytidyltransferase	-	-	CDPDIGLYSYN-RXN	-
+ENZRXN5F-5984	Enzymatic-Reactions	CTP:phosphatidate cytidyltransferase	-	-	CDPDIGLYSYN-RXN	-
+ENZRXN5F-4070	Enzymatic-Reactions	CTP:phosphatidate cytidyltransferase	-	-	CDPDIGLYSYN-RXN	-
+ENZRXN5F-11156	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-7712	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-3979	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-3201	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-3112	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-1300	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-1280	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-756	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-755	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-747	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-746	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-104	Enzymatic-Reactions	caffeate <em>O</em>-methyltransferase	-	-	RXN-1104	-
+ENZRXN5F-914	Enzymatic-Reactions	x aminotransferase	-	-	RXN-15200	-
+ENZRXN5F-11759	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-11757	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-11732	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-11306	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-9070	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-6947	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-6945	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-6919	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-6915	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-6914	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-6911	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-1994	Enzymatic-Reactions	plastoquinol-plastocyanin reductase	-	-	PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	-
+ENZRXN5F-3097	Enzymatic-Reactions	deoxycytidine deaminase	-	-	CYTIDEAM-RXN	-
+ENZRXN5F-110	Enzymatic-Reactions	deoxycytidine deaminase	-	-	CYTIDEAM-RXN	-
+ENZRXN5F-9446	Enzymatic-Reactions	enolase	-	-	2PGADEHYDRAT-RXN	-
+ENZRXN5F-3991	Enzymatic-Reactions	enolase	-	-	2PGADEHYDRAT-RXN	-
+ENZRXN5F-3990	Enzymatic-Reactions	enolase	-	-	2PGADEHYDRAT-RXN	-
+ENZRXN5F-3312	Enzymatic-Reactions	enolase	-	-	2PGADEHYDRAT-RXN	-
+ENZRXN5F-1904	Enzymatic-Reactions	enolase	-	-	2PGADEHYDRAT-RXN	-
+ENZRXN5F-11530	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-10856	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-10500	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-10488	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-10486	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-7808	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-7585	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-7584	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-7543	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-6826	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-5504	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-5041	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-5040	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-3110	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-3109	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-3108	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-3093	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-2081	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-1552	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-1551	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-1550	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-1549	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-1548	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-1547	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-113	Enzymatic-Reactions	phosphatidylcholine <i>sn</i>-2 acylhydrolase	-	-	PHOSPHOLIPASE-A2-RXN	-
+ENZRXN5F-8435	Enzymatic-Reactions	1-18:3-2-16:0-phosphatidylglycerol desaturase	-	-	RXN-8319	-
+ENZRXN5F-7590	Enzymatic-Reactions	NADPHX epimerase	-	-	RXN-13142	-
+ENZRXN5F-7255	Enzymatic-Reactions	glycerol kinase	-	-	GLYCEROL-KIN-RXN	-
+ENZRXN5F-11189	Enzymatic-Reactions	hydroxycinnamoyl-CoA quinate hydroxycinnamoyltransferase	-	-	RXN-2601	-
+ENZRXN5F-2254	Enzymatic-Reactions	hydroxycinnamoyl-CoA quinate hydroxycinnamoyltransferase	-	-	RXN-2601	-
+ENZRXN5F-11413	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-11412	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-11113	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-10991	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-8279	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-7050	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-5648	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-5621	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-4616	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-4613	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-4312	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-1939	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-1937	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-1932	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-1929	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-1926	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-1923	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-1717	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-1600	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-313	Enzymatic-Reactions	UDP-glucose:trans-zeatin O-&beta;-D-glucosyltransferase	-	-	RXN-4723	-
+ENZRXN5F-7048	Enzymatic-Reactions	3-phosphoshikimate 1-carboxyvinyltransferase	-	-	2.5.1.19-RXN	-
+ENZRXN5F-8193	Enzymatic-Reactions	cinnamate:CoA ligase	-	-	RXN-2001	-
+ENZRXN5F-9781	Enzymatic-Reactions	phosphoglycolate phosphatase	-	-	GPH-RXN	-
+ENZRXN5F-2339	Enzymatic-Reactions	phosphoglycolate phosphatase	-	-	GPH-RXN	-
+ENZRXN5F-7353	Enzymatic-Reactions	glyceraldehyde-3-phosphate dehydrogenase	-	-	1.2.1.13-RXN	-
+ENZRXN5F-2632	Enzymatic-Reactions	glyceraldehyde-3-phosphate dehydrogenase	-	-	1.2.1.13-RXN	-
+ENZRXN5F-2258	Enzymatic-Reactions	glyceraldehyde-3-phosphate dehydrogenase	-	-	1.2.1.13-RXN	-
+ENZRXN5F-7152	Enzymatic-Reactions	(7Z,10Z)-hexadecadienoyl-lipid 13-desaturase	-	-	RXN-16049	-
+ENZRXN5F-2499	Enzymatic-Reactions	(7Z,10Z)-hexadecadienoyl-lipid 13-desaturase	-	-	RXN-16049	-
+ENZRXN5F-9788	Enzymatic-Reactions	thymidine kinase	-	-	THYKI-RXN	-
+ENZRXN5F-8023	Enzymatic-Reactions	thymidine kinase	-	-	THYKI-RXN	-
+ENZRXN5F-7895	Enzymatic-Reactions	thymidine kinase	-	-	THYKI-RXN	-
+ENZRXN5F-7894	Enzymatic-Reactions	thymidine kinase	-	-	THYKI-RXN	-
+ENZRXN5F-5865	Enzymatic-Reactions	1-acylglycerophosphocholine <em>O</em>-acyltransferase	-	-	2.3.1.23-RXN	-
+ENZRXN5F-2043	Enzymatic-Reactions	1-acylglycerophosphocholine <em>O</em>-acyltransferase	-	-	2.3.1.23-RXN	-
+ENZRXN5F-1733	Enzymatic-Reactions	1-acylglycerophosphocholine <em>O</em>-acyltransferase	-	-	2.3.1.23-RXN	-
+ENZRXN5F-690	Enzymatic-Reactions	1-acylglycerophosphocholine <em>O</em>-acyltransferase	-	-	2.3.1.23-RXN	-
+ENZRXN5F-689	Enzymatic-Reactions	1-acylglycerophosphocholine <em>O</em>-acyltransferase	-	-	2.3.1.23-RXN	-
+ENZRXN5F-6632	Enzymatic-Reactions	very-long-chain 3-hydroxyacyl-CoA dehydratase	-	-	RXN-11750	-
+ENZRXN5F-742	Enzymatic-Reactions	very-long-chain 3-hydroxyacyl-CoA dehydratase	-	-	RXN-11750	-
+ENZRXN5F-8275	Enzymatic-Reactions	[acyl-carrier-protein] <i>S</i>-malonyltransferase	-	-	MALONYL-COA-ACP-TRANSACYL-RXN	-
+ENZRXN5F-8139	Enzymatic-Reactions	kinetin UDP glycosyltransferase	-	-	RXN-4732	-
+ENZRXN5F-8126	Enzymatic-Reactions	kinetin UDP glycosyltransferase	-	-	RXN-4732	-
+ENZRXN5F-5939	Enzymatic-Reactions	1-acyl dihydroxyacetone phosphate reductase	-	-	RXN-15046	-
+ENZRXN5F-9396	Enzymatic-Reactions	spermidine synthase	-	-	SPERMIDINESYN-RXN	-
+ENZRXN5F-7992	Enzymatic-Reactions	spermidine synthase	-	-	SPERMIDINESYN-RXN	-
+ENZRXN5F-5830	Enzymatic-Reactions	spermidine synthase	-	-	SPERMIDINESYN-RXN	-
+ENZRXN5F-4714	Enzymatic-Reactions	spermidine synthase	-	-	SPERMIDINESYN-RXN	-
+ENZRXN5F-818	Enzymatic-Reactions	spermidine synthase	-	-	SPERMIDINESYN-RXN	-
+ENZRXN5F-9022	Enzymatic-Reactions	tyrosine aminotransferase	-	-	TYROSINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-7214	Enzymatic-Reactions	tyrosine aminotransferase	-	-	TYROSINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-4734	Enzymatic-Reactions	tyrosine aminotransferase	-	-	TYROSINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-4729	Enzymatic-Reactions	tyrosine aminotransferase	-	-	TYROSINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-3316	Enzymatic-Reactions	tyrosine aminotransferase	-	-	TYROSINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-915	Enzymatic-Reactions	tyrosine aminotransferase	-	-	TYROSINE-AMINOTRANSFERASE-RXN	-
+ENZRXN5F-10584	Enzymatic-Reactions	malate dehydrogenase (NADP)	-	-	MALATE-DEHYDROGENASE-NADP+-RXN	-
+ENZRXN5F-1655	Enzymatic-Reactions	hydroxycinnamoyl CoA quinate transferase	-	-	RXN-2622	-
+ENZRXN5F-7166	Enzymatic-Reactions	sulfoquinovosyldiacylglycerol synthase	-	-	RXN-1224	-
+ENZRXN5F-7165	Enzymatic-Reactions	sulfoquinovosyldiacylglycerol synthase	-	-	RXN-1224	-
+ENZRXN5F-2514	Enzymatic-Reactions	sulfoquinovosyldiacylglycerol synthase	-	-	RXN-1224	-
+ENZRXN5F-11741	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-11659	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-11658	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-11657	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-11229	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-10539	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-9238	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-9013	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-7769	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-6366	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-2585	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-909	Enzymatic-Reactions	phosphoenolpyruvate carboxylase	-	-	PEPCARBOX-RXN	-
+ENZRXN5F-1021	Enzymatic-Reactions	benzoyl-CoA:butanol benzoyltransferase	-	-	RXN-18667	-
+ENZRXN5F-5882	Enzymatic-Reactions	transaldolase	-	-	TRANSALDOL-RXN	-
+ENZRXN5F-3059	Enzymatic-Reactions	transaldolase	-	-	TRANSALDOL-RXN	-
+ENZRXN5F-215	Enzymatic-Reactions	transaldolase	-	-	TRANSALDOL-RXN	-
+ENZRXN5F-10006	Enzymatic-Reactions	oxaloacetate decarboxylase	-	-	OXALODECARB-RXN	-
+ENZRXN5F-10005	Enzymatic-Reactions	oxaloacetate decarboxylase	-	-	OXALODECARB-RXN	-
+ENZRXN5F-5569	Enzymatic-Reactions	oxaloacetate decarboxylase	-	-	OXALODECARB-RXN	-
+ENZRXN5F-2349	Enzymatic-Reactions	oxaloacetate decarboxylase	-	-	OXALODECARB-RXN	-
+ENZRXN5F-11578	Enzymatic-Reactions	glycine decarboxylase	-	-	GCVP-RXN	-
+ENZRXN5F-5363	Enzymatic-Reactions	aminomethyltransferase	-	-	GCVT-RXN	-
+ENZRXN5F-350	Enzymatic-Reactions	aminomethyltransferase	-	-	GCVT-RXN	-
+ENZRXN5F-7155	Enzymatic-Reactions	glutaminase	-	-	GLUTAMIN-RXN	-
+ENZRXN5F-10168	Enzymatic-Reactions	2-oxoglutarate decarboxylase	-	-	2OXOGLUTDECARB-RXN	-
+ENZRXN5F-2843	Enzymatic-Reactions	2-oxoglutarate decarboxylase	-	-	2OXOGLUTDECARB-RXN	-
+ENZRXN5F-10118	Enzymatic-Reactions	dihydrolipoyltranssuccinylase	-	-	RXN0-1147	-
+ENZRXN5F-4078	Enzymatic-Reactions	dihydrolipoyltranssuccinylase	-	-	RXN0-1147	-

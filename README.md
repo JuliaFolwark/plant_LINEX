@@ -11,4 +11,49 @@ pLINEX is a bioinformatics tool designed to analyze lipidomic data specific to p
 - **Stress Response Analysis**: The tool was developed to analyze changes in lipid composition and metabolism in various plant species under different stress conditions.
 - **Customizable Data Input**: Users can input their lipidomics data, choose
 
+### Publication
+If you use this package, please cite:
+
+Rose and Koehler et al. "**Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data**",
+_Briefings in Bioinformatics_ **2023**, bbac572; doi: [https://doi.org/10.1093/bib/bbac572](https://doi.org/10.1093/bib/bbac572)
+
+### Data in package
+
+The package includes data from the [Reactome](https://reactome.org/) and 
+[Rhea](https://www.rhea-db.org/) databases.
+
+* **Rhea** data is available under the 
+[Creative Commons Attribution (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)
+and is published here: Bansal et al. "Rhea, the reaction knowledgebase in 2022".
+Nucleic Acids Res. (2021), DOI: [10.1093/nar/gkab1016](https://doi.org/10.1093/nar/gkab1016)
+* **Reactome** data is available under the
+[Creative Commons Public Domain (CC0) License](https://creativecommons.org/publicdomain/zero/1.0/)
+and is published here: Jassal et al. "The reactome pathway knowledgebase".
+Nucleic Acids Res. (2020), DOI: [10.1093/nar/gkz1031](https://doi.org/10.1093/nar/gkz1031)
+* **Plant Metabolic Network** data is available under the
+[Creative Commons Public Domain (CC0) License](https://creativecommons.org/publicdomain/zero/1.0/)
+and is published here: Hawkins et al. "Plant Metabolic Network 15: A resource of genome-wide metabolism databases for 126 plants and algae".
+Journal of Integrative Plant Biology (2021), DOI: [10.1111/jipb.13163](https://doi.org/10.1111/jipb.13163)
+
+
+### License
+
+The LINEX tool was published under the AGPLv3 license.
+
+![AGPLv3 logo](https://www.gnu.org/graphics/agplv3-with-text-162x68.png)
+
+The software includes code from the 
+* **Rhea** data is available under the 
+[Creative Commons Attribution (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/)
+and is published here: Bansal et al. "Rhea, the reaction knowledgebase in 2022".
+Nucleic Acids Res. (2021), DOI: [10.1093/nar/gkab1016](https://doi.org/10.1093/nar/gkab1016)
+* **Reactome** data is available under the
+[Creative Commons Public Domain (CC0) License](https://creativecommons.org/publicdomain/zero/1.0/)
+and is published here: Jassal et al. "The reactome pathway knowledgebase".
+Nucleic Acids Res. (2020), DOI: [10.1093/nar/gkz1031](https://doi.org/10.1093/nar/gkz1031)
+* **Plant Metabolic Network** data is available under the
+[Open Database (ODbL) License](https://opendatacommons.org/licenses/odbl/)
+and is published here: Hawkins et al. "Plant Metabolic Network 15: A resource of genome-wide metabolism databases for 126 plants and algae".
+Journal of Integrative Plant Biology (2021), DOI: [10.1111/jipb.13163](https://doi.org/10.1111/jipb.13163)
+
 

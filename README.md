@@ -1,15 +1,32 @@
 # pLINEX: Lipid Network Explorer for Plants
 
 ## Abstract
-This repository contains the implementation of the Lipid Network Explorer for plants (pLINEX), a bioinformatics tool developed to analyze stress responses in *Arabidopsis thaliana* by extending the existing Lipid Network Explorer (LINEX), originally designed for animals. Lipids are critical in plant metabolism, including maintaining cell structure, signaling, and responding to environmental stress. As climate change presents increasing challenges to agriculture, understanding plant lipidomes is essential for improving crop resilience. The primary objective of this research was to develop pLINEX, a plant-specific extension of LINEX, and to test it using lipidomics data from *A. thaliana* under heat stress and fungal infection conditions. While pLINEX successfully constructed plant-specific lipid networks, it did not identify significant changes in the lipidome under the various stress conditions, raising questions about the tool's effectiveness or the quality of the input data.
+This repository contains the implementation of the Lipid Network Explorer for plants (pLINEX), a bioinformatics tool developed to analyze stress responses in *Arabidopsis thaliana* by extending the existing Lipid Network Explorer (LINEX), originally designed for animals. Lipids are critical in plant metabolism, including maintaining cell structure, signaling, and responding to environmental stress. As climate change presents increasing challenges to agriculture, understanding plant lipidomes is essential for improving crop resilience. The primary objective of this research was to develop pLINEX, a plant-specific extension of LINEX, and to test it using lipidomics data from *A. thaliana* under stress conditions. While pLINEX successfully constructed plant-specific lipid networks, it did not identify significant changes in the lipidome under the various stress conditions, raising questions about the tool's effectiveness or the quality of the input data.
 
 ## Project Overview
-pLINEX is a bioinformatics tool designed to analyze lipidomic data specific to plants. It extends the functionality of the original LINEX tool to accommodate the unique lipid structures and metabolic pathways found in plants. This tool was developed with a focus on *Arabidopsis thaliana*, a model organism in plant biology, and was tested using lipidomics data from experiments involving heat stress and fungal infection.
+pLINEX is a bioinformatics tool designed to analyze lipidomic data specific to plants. It extends the functionality of the original LINEX tool to accommodate the unique lipid structures and metabolic pathways found in plants. This tool was developed with a focus on *Arabidopsis thaliana*, a model organism in plant biology, and was tested using lipidomics data from experiments involving stress conditions.
 
 ### Key Features
 - **Plant-Specific Lipid Network Construction**: pLINEX parses and curates data from the Plant Metabolic Network (PMN) and Rhea databases to build a plant-specific lipid network.
 - **Stress Response Analysis**: The tool was developed to analyze changes in lipid composition and metabolism in various plant species under different stress conditions.
-- **Customizable Data Input**: Users can input their lipidomics data, choose
+- **Customizable Data Input**: Users can input their lipidomics data, choose specific plant species, and select relevant databases for network construction.
+
+
+### Usage
+
+To utilize the content of this repository effectively, please follow these instructions:
+
+* **PMN Parser**:
+
+** **Preperation:** Ensure you have the contents of the "PMN_parser" folder. Install the necessary dependencies listed in the "requirements.txt" file.
+** **Execution**:Use the "pmn_file_parser.py" script to generate curated PMN database files. Please note that you will need to adjust the file paths within the script to match your local setup and provide the path to the database files. For guidance, refer to the annotations within the code.
+
+
+* **pLINEX**:
+
+** **Importing adjusted pLINEX**: The package named "linex2" must be imported into your Python site-packages. This package includes the PMN database files. The PMN parser does not need to be executed beforehand unless you want to use a new version of the database, in which case you should update the package accordingly.
+** **Using the pLINEX Web Tool**:Navigate to the linex package, which contains the modified web tool for pLINEX. Enter the "lipid_network_project" directory and run "start_linex.sh". Open your web browser and navigate to localhost:7000 to access the web tool. The web tool can then be used as described in the LINEX2 documentation. Note that only LINEX2 has been modified for pLINEX; the example data has not been updated and should not be used. If you need to close the web application, ensure that all processes associated with LINEX are terminated. Run stop_linex.sh to identify and stop the relevant processes. This step is crucial to ensure that the tool can be restarted without issues in future sessions.
+
 
 ### Publication
 If you use this package, please cite:

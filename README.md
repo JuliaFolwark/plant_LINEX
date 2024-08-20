@@ -19,7 +19,7 @@ To utilize the content of this repository effectively, please follow these instr
 **PMN Parser**:
 
 * **Preperation:** Ensure you have the contents of the "PMN_parser" folder. Install the necessary dependencies listed in the "requirements.txt" file.
-* **Execution**:Use the "pmn_file_parser.py" script to generate curated PMN database files. Please note that you will need to adjust the file paths within the script to match your local setup and provide the path to the database files. For guidance, refer to the annotations within the code.
+* **Execution**: Use the "pmn_file_parser.py" script to generate curated PMN database files. Please note that you will need to adjust the file paths within the script to match your local setup and provide the path to the database files. For guidance, refer to the annotations within the code.
 
 
 **pLINEX**:
